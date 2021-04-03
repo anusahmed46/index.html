@@ -1,0 +1,54 @@
+#b1{
+    font-size: small !important ;
+    font-weight: 30 !important;
+    font-style: normal !important;
+}
+
+body{
+    background-color: black !important;
+}
+h2,h4{
+    margin-left: 30px;
+}
+#about{
+    color: white;
+    font-weight: bold;
+    margin-left: 30px;
+}
+#p1{
+    color:  rgb(43, 136, 43);
+    margin-left: 30px;
+    font-style: italic;
+}
+p{
+    margin-left: 30px;
+}
+#p2{
+    font-weight: normal; 
+    margin-left: 30px;
+    text-align: left;
+    margin-left: 30px;
+    color: rgb(119, 116, 116);
+}
+#dev{
+    margin-left: 30px;
+    color: white;
+    font-weight: bold;
+}
+.dev{
+    margin-left: 30px;
+    color: rgb(119, 116, 116);
+}
+#services{ 
+    margin-left: 100px;
+    color: white;
+    font-weight: bolder;
+}
+#p{
+
+    margin-bottom: 40px;
+}
+#ic{
+    color:  rgb(43, 136, 43);
+    size: large;
+}
