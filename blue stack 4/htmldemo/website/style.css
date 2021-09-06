@@ -1,0 +1,93 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+header{
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(pic.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+ul{
+  float: right;
+  list-style-type: none;
+  margin-top: 25px;
+}
+ul li{
+  display: inline-block;
+}
+ul li a{
+  text-decoration: none ;
+  color: black ;
+  padding: 5px 20px;
+  border: 1px solid;
+
+}
+ul li a:hover{
+  background-color: white ;
+  color: black;
+  transition: 0.6;
+
+}
+.logo img{
+  float: left;
+  width: 50px;
+  height: auto;
+  margin-top: 25px;
+  padding-left: 10px;
+}
+ul li a.active{
+
+  background-color: white ;
+  color: blue;
+  
+}
+
+.main{
+  max-width: 1200px;
+  margin: auto;
+}
+
+.title{
+
+position:absolute;
+top: 50px;
+left: 70px;
+nav-down: 50px;
+transform: translate(10%,10%);
+  
+}
+
+.title h1{
+  font-size: 80px;
+  color: white;
+  
+
+}
+
+.button{
+position:absolute;
+top: 200px;
+left: 350px;
+transform: translate(40%,40%);
+margin-bottom: 10px;
+  
+
+}
+
+.btn{
+  border: 1px solid white;
+  padding: 20px 40px;
+  color: white;
+  text-decoration: none;
+
+}
+
+.btn:hover{
+  background-color: white ;
+  color:black;
+  transition: 0.6;=
+}

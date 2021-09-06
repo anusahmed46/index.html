@@ -1,0 +1,602 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+     <script src="main.js"></script>
+
+    <script >
+
+    //    var name = "anus ahmed";
+    //    name = "nausheen";
+    //    console.log(name);
+
+    //    let name = "anus ahmed";
+    //    name = " nausheen";
+    //    console.log(name);
+
+    //    const name = "anus ahmed";
+    //    console.log(name);
+
+    // let name = "anus ahmed";
+    // let fname = "raees ahmed";
+    // console.log(`my name is ${name} and my father name is ${fname}`);
+    // console.log(`${name}`.startsWith('a'));
+    // console.log(`${name}`.endsWith('d'));
+    // console.log(`${name}`.includes('ahme'));
+    // console.log(`${name}  ${fname} `.repeat('7'));
+
+// const name = ["anus","maha","ahmed","kinza"];
+// var st1 = name[0];
+// var st2 = name[1];
+// var st3 = name[2];
+
+// console.log("my name is " + st1);
+
+// let name = ["anus","maha","ahmed","kinza"] 
+// let = [st1,st2,st3,st4] = name;
+// console.log("my name is " + st1);
+
+// console.log(name.length);
+// let = [st1,,,,toplast] = name;
+// console.log(`my name is ${st1} and ${toplast}. `);
+
+
+// let st1,st2;
+// [st1,st2] = name;
+// console.log(`my name is ${st1} and ${st2}`);
+
+
+
+// var a= 5;
+// var b=10;
+// [a,b] = [b,a];
+// console.log(a,b);
+
+// const bioData = {
+//     name : "anus",
+//     age : 23,
+//     deg : "bscs"
+// }
+// let {name:myname,age,deg} = bioData;
+// console.log(`this is my ${myname} my age is ${age} my degree is ${deg}`);
+
+
+
+
+
+
+
+// const sum = () => {
+//     let a=10;
+//     let b=20;
+//     return a+b;
+// }
+// console.log(sum());
+
+
+
+// function multi(a ,b = 10){
+//     console.log(a*b);
+// }
+// multi(10);
+
+
+// function sum(...inputs){
+//     console.log(...inputs);
+// }
+// sum(1,23,4,554,662,77);
+
+// function sum(a,b,c){
+//     console.log(a+b+c);
+// }
+// var arr = [1,11,3];
+// // sum.apply(null,arr);
+// sum(...arr)
+
+// let arr1 =[1,2,34,6,87,90];
+// let arr2 =[1,87,36,26,90];
+
+// arr1 = arr1.concat(arr2);
+// arr1=[...arr1 , ...arr2]
+// console.log(arr1);
+
+// let number = -5.856;
+// console.log(Math.trunc(number));
+
+// let a = 5 ; let b = 2;
+// console.log(a**b);
+
+// console.log(10**2);
+
+// let num = 5;
+// console.log(isFinite(num));
+
+
+// let num = InFinite;
+// console.log((num));
+
+// let num = -5;
+// console.log(Number.isInteger(num));
+
+
+// class Students{
+//     constructor(name,age,cls){
+//         this.myname = name;
+//         this.myage = age;
+//         this.mycls = cls;
+//     }
+//     bioData(){
+// //         console.log(`hey ${this.myname} and age is ${this.myage} and my course is ${this.mycls}`);
+// //     }
+// // }
+
+// // let obj1 = new Students("anus",23,"bscs");
+// // obj1.bioData();
+
+
+
+
+
+
+// // class Students{
+// //     constructor(name,age,cls){
+// //         this.myname = name;
+// //         this.myage = age;
+// //         this.mycls = cls;
+// //     }
+// //     bioData(){
+// //         console.log(`hey ${this.myname} and age is ${this.myage} and my course is ${this.mycls}`);
+// //     }
+// // }
+
+// // let obj1 = new Students("anus",23,"bscs");
+
+// // let obj2 = new Students("maha",23,"bscs");
+// // obj1.bioData();
+// // obj2.bioData();
+
+
+// class Students{
+//     constructor(name,age,cls){
+//         this.myname = name;
+//         this.myage = age;
+//         this.mycls = cls;
+//     }
+//     // intance method
+//     bioData(){
+//         console.log(`hey ${this.myname} and age is ${this.myage} and my course is ${this.mycls} we are playing ${this.mygame}`);
+//     }
+// }
+
+// class Player extends Students{
+//     constructor(name,age,cls,game){
+//         super(name,age,cls);
+//         this.mygame = game;
+//     }
+//     Play_bioData(){
+//         console.log(`hey ${this.myname} and age is ${this.myage} and my course is ${this.mycls} we are playing ${this.mygame}`);
+//     }
+// }
+
+// let obj1 = new Students("anus",23,"bscs","cricket");
+// obj1.Play_bioData();
+
+
+// class hello{
+//     message(){
+//         console.log(`hello this is me mazboot`);
+//     }
+// }
+// let obj1 = new hello();
+// obj1.message();
+
+
+// class hey{
+//     message(){
+//         console.log(`hello this is me`);
+//     }
+//     sorry(){
+//         console.log("sorry");
+//     }
+// }
+// let obj2 = new hey();
+// obj2.message();
+// obj2.sorry();
+
+// class Students{
+//     constructor(){
+//         let name;
+//         console.log("constructor func");
+//     }
+//     hello(){
+//         console.log("hello " + this.name);
+//     }
+// }
+// let a = new Students();
+// a.name = "anus";
+// a.hello();
+
+// class Students{
+//     constructor(name){
+//         this.myname = name;
+//         console.log("constructor func");
+//     }
+//     hello(){
+//         console.log("hello " + this.myname);
+//     }
+//     static static(){
+//         console.log("heloo anus");
+//     }
+
+// }
+// let a = new Students("anus");
+// a.hello();
+// Students.static();
+
+
+// class employee{
+//     constructor(){
+//         console.log("constructure");
+//     }
+// }
+// class manager extends employee{
+
+// }
+// let a = new manager();
+
+
+
+// class employee{
+//     constructor(name){
+//         console.log("constructure" + name);
+//     }
+// }
+// class manager extends employee{
+
+//     constructor(name){
+//         super()
+//         console.log("constructure yaar  "  + name );
+//     }
+// }
+// let a = new manager("anus");
+
+// let complete = "true";
+// let prom = new Promise(function(resolve,reject){
+//     if(complete){
+//         resolve("im success");
+//     }else{
+//         reject("im failed");
+//     }
+// });
+// console.log(prom);
+
+// function prom(complete){
+//     return new Promise(function(resolve,reject){
+//         console.log("fetching data plz wait");
+//         setTimeout(() => {
+//             if(complete){
+//                 resolve("im student pass");
+//             }else{
+//                 reject("im failed")
+//             }
+//         },3000)
+// });
+// }
+// let fullfill = (result) =>{
+//     console.log(result);
+// }
+// let onreject = (error) =>{
+//     console.log(error);
+// }
+// prom(false).then(fullfill).catch(onreject);
+
+
+
+
+
+
+
+// function prom(complete){
+//     return new Promise(function(resolve,reject){
+//         console.log("fetching data plz wait");
+//         setTimeout(() => {
+//             if(complete){
+//                 resolve("im student pass");
+//             }else{
+//                 reject("im failed")
+//             }
+//         },3000)
+// });
+// }
+
+// prom(false).then((result) =>{
+//     console.log(result)}).catch((error) =>{
+//     console.log(error)});
+
+
+
+
+
+// function prom(complete){
+//     return new Promise(function(resolve,reject){
+//         console.log("fetching data plz wait");
+//         var c = a / b;
+//         setTimeout(() => {
+//             if(a,b){
+//                 resolve("im student pass " + c);
+//             }else{
+//                 reject("im failed")
+//             }
+//         },3000)
+// });
+// }
+
+// prom(5,2).then((result) =>{
+//     console.log(result)}).catch((error) =>{
+//     console.log(error)});
+
+// let p1 = new Promise((resolve,reject) =>{
+//     setTimeout(() => {
+//        console.log("promise solve");
+//        resolve(10) 
+// //     }, 1 * 1000);
+// // })
+
+
+// // let p1 = new Promise((resolve,reject) =>{
+// //     setTimeout(() => {
+// //        console.log("promise solve");
+// //        resolve(10) 
+// //     }, 1 * 1000);
+// // })
+
+
+// // let p2 = new Promise((resolve,reject) =>{
+// //     setTimeout(() => {
+// //        console.log("thirdd promise solve");
+// //        resolve(30) 
+// //     }, 1 * 3000);
+// // })
+// // Promise.all([p1,p2,p3]).then((result)=>{
+// //     console.log("results " + result);
+// // }).catch((error) => {
+// //     console.log("error " + error);
+// // })
+
+// //  async function test(){
+// //     return "hello";
+// // }
+// // test().then((result) => {
+// //     console.log(result);
+// // });
+
+// // async function test(){
+// //     console.log("msg1");
+// //     await console.log("msg2");
+// //     console.log("msg3");
+// // }
+// // console.log("4 message");
+// // test();
+// // console.log("5 messge");
+
+// let id1 = "hello"
+// let id2 = "hello";
+
+// console.log(id1 === id2);
+
+
+
+// let age = Symbol("age");
+
+// let user = {
+//     name : "anus ahmed",
+//     class : "bscs",
+//     [age]  : 25,
+//     gender : "male"
+
+// };
+// for(let properties in user){
+//     console.log(properties);
+// }
+// console.log(user.class);
+// console.log(user[age]);
+
+// let num = [100,200,300];
+// let iter = num[Symbol.iterator]();
+// console.log(iter.next());
+// console.log(iter.next());
+
+// function *generateit(){
+//     console.log("first msg");
+//     console.log("second msg");
+// }
+// let g = generateit();
+// console.log(g);
+
+
+// function *generateit(){
+// let numNum = 300;
+// while(true){
+//     yield(numNum++);
+// }
+// }
+// let g = generateit();
+// console.log(g.next());
+// console.log(g.next());
+// console.log(g.next());
+// // for(let value of g){
+// //     console.log(value);
+// // }
+// // console.log(g.next());
+
+// "use strict"
+// let a = 10;
+// console.log(a);
+
+
+
+// try {
+//     console.log("start of the day");
+//     console.log("end of the day");
+//     blah();
+// }catch(error){
+//     // console.log("error");
+//     if(error instanceof ReferenceError){
+//         console.log("ReferenceError");
+//     }else if(error instanceof TypeError){
+//         console.log("type erro");
+//     }else{
+//         console.log("unknown erroe");
+//     }
+// }
+
+
+
+// try{
+//     let json = '{"name" : "", "age" : 23}';
+//     let user = JSON.parse(json);
+//     if(!user.name){
+//         throw new Error("no name")
+//     }
+//     console.log(user.name);
+// }catch(error){
+//     console.log(error);
+// }finally{
+//     console.log("heloo");
+// }
+
+
+// // function Plan(name,fname,course){
+// //     this.name = name;
+// //     this.fname = fname;
+// //     this.course = course;
+// // }
+
+
+// // var plan1 = new Plan("anus","ahmed","bscs");
+// // var plan2 = new Plan("maha","mansoor","bscs")
+// // console.log(plan1 , plan2); 
+
+// // function User (name,age,email){
+// //     this.name = name;
+// //     this.age = age; 
+// //     this.email = email;
+// //     this.like = function (user){
+// //         console.log( this.user + "liked a picture" + user);
+// //     }
+// // }
+// // var nadir = new User("nadir",22,"abc@gmail.com");
+// // console.log(nadir);
+// // nadir.like("usman")
+
+
+// // // var obj = {
+// // //     name : "anus",
+// // //     age : 23
+// // // };
+
+// // // for (var key in obj){
+// // //     console.log(obj[key]);
+// // // } 
+
+
+// // // function factorial(num){
+// // //     if(num === 1){
+// // //         return 1;
+// // //     }
+// // //     return num * factorial(--num);
+// // // }
+// // // console.log(factorial(5));
+
+
+
+// // var sum = function (a,b){
+// //     add = a+b;
+// //     console.log(add);
+// // }
+// // // sum(5,5);
+
+// // var a;
+// // a =10;
+// // console.log(a);
+
+// var a;
+
+// console.log(a);
+
+// a = 10;
+
+// var b = 10;
+// console.log(b);
+// var b = 20;
+
+
+
+// var a = 10
+// a = 20;
+// console.log(a);
+
+// let a = 10;
+// a=20;
+// let a = 20;
+// console.log(a);
+
+// const a = 20;
+// console.log(a);
+
+// var name = "anus";
+// var lastName = "ahmed";
+// console.log(`my name is  ${name} and my last name is ${lastName}`);
+
+// var arr = ["anus","ahmed","maha","kinza"];
+// var [st1,st2,st3,st4] = arr;
+// console.log(`my name is ${st1}` );
+
+
+// let arr1 = [1,2,3,4,5];
+// let arr2 = [6,7,8,9,10];
+// console.log(arr1,arr2);
+// console.log(...arr1,...arr2);
+
+// function sum(...args){
+//     return sum;
+// }
+// console.log(sum(10,20,40,50));
+
+// let person = {
+//     name : "anus",
+//     lastName : "ahmed"
+// };
+// let{name,lastName} = person;
+// console.log(person.name);
+
+// function Students(name,lastName,course,gender){
+//     this.name = name;
+//     this.lastName = lastName;
+//     this.course = course;
+//     this.gender = gender;
+// }
+
+// var school = new Students("anus","ahmed","bscs","male");
+// console.log(school);
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

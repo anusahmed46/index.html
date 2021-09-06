@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+.img-fluid {
+  padding: 30px;
+  padding-left: 30px;
+  padding-right: 0;
+  margin-bottom: 5px;
+}
+.text {
+    border: none !important;
+}
+
+.quick {
+  padding-top: 5px !important;
+}

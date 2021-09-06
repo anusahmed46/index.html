@@ -1,0 +1,56 @@
+
+.head {
+    text-align: center;
+    font-size: 60px;    
+}
+
+.para {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    border: solid;
+    border-radius: 5px;
+    background-color: cadetblue;
+    
+}
+
+.btn {
+    margin-left: 630px;
+    text-align: center;
+    font-size: 30;
+    width: 100px;
+    height: 50px;
+    border: radius 5px;
+    border: solid;
+    background-color: cadetblue;
+}
+
+#img {
+    width:205vh;
+    height: 100vh; 
+    padding-top: 50px;  
+}
+
+#a {
+    border-radius: 5px;
+    border: solid;
+    font-size: large;
+    background-color: cadetblue;
+    margin-bottom: 60px;
+}
+
+#b {
+    font-size: large;
+    color: cadetblue;
+    border: solid;
+    border-radius: 5px;
+}
+
+.c {
+    text-align: center;
+    background-color: cadetblue;
+    font-size: large;
+    border: solid;
+    border-radius: 5px;
+   
+}

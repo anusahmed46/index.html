@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sign in and sign up</title>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/duotone.css" integrity="sha384-R3QzTxyukP03CMqKFe0ssp5wUvBPEyy9ZspCB+Y01fEjhMwcXixTyeot+S40+AjZ" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/fontawesome.css" integrity="sha384-eHoocPgXsiuZh+Yy6+7DsKAerLXyJmu2Hadh4QYyt+8v86geixVYwFqUvMU8X90l" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h2 class="text-center py-5" style="padding-top: 75px;">sign in</h2>
+                <form action="" class="form-control form"> 
+                <label for="user name">username
+                    <input type="text" name="username" placeholder="username">
+                </label><br><br>
+                <label for="password">password
+                    <input type="password" name="password" placeholder="password">
+                </label><br><br>
+                 <button class="btn bg-white"> submit</button>
+                <p class="para">or sign in with social platforms</p>
+                <i class="fab fa-facebook">f</i>
+                <i class="fab fa-twitter">T</i>
+                <i class="fab fa-instagram">I</i>
+                <i class="fab fa-google">G</i>
+            </form>
+            </div>
+        </div>
+    </div>
+
+
+<script>
+    var a= window.localStorage.setItem('user' , 'anus ahmed');
+    const person = {
+    user: "anus ahmed",
+    password:"khan"
+}
+
+window.localStorage.setItem('user', JSON.stringify(person));
+window.localStorage.getItem('user');
+JSON.parse(window.localStorage.getItem('user'));
+</script>
+
+    
+</body>
+</html>

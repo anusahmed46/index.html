@@ -1,0 +1,9 @@
+fieldset {
+    border-radius: 2em;
+    text-align: justify;
+}
+
+#result {
+    margin-left: 600px;
+    width: 100px;
+}

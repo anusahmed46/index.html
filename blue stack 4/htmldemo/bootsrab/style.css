@@ -1,0 +1,16 @@
+.container {
+    border: 5px;
+    border: solid;
+    border-radius: 2px;
+    color: red;
+}
+.row {
+    border: 5px; 
+    border: solid;
+    color: saddlebrown;
+
+}
+
+.col {
+    border: 3px solid blue;
+}

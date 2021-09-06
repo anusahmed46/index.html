@@ -1,0 +1,29 @@
+* {
+    background-color:black;
+}
+
+.main {
+    padding-top: 50px;
+    margin-top: 70px;
+}
+
+.p {
+    text-align: center;
+    color:cadetblue;
+    font-size: large;
+    text-justify: distribute;
+
+}
+
+#f {
+    color: cornsilk;
+    text-align: center;
+
+}
+
+.m {
+    color: cadetblue;
+    text-align: justify;
+    justify-content: center;
+
+}

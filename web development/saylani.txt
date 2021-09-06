@@ -1,0 +1,47 @@
+====================================4================================================
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <fieldset> 
+        <legend >
+            Team/Member view
+        </legend>
+    </fieldset>
+        <div class="container" style="width: 100%; height: 89vh; border: 1px solid black;">
+            <div class="row">
+                <div class="col md-6">
+                    <p style="margin:5%; font-size: 25px;">Filling For: <span><b>16 August 2021</b></span></p>
+                    <div class="col-8" style="margin: 5%;">
+                        <label for="inputEmail4" class="form-label">Q. What did you do today?</label>
+                        <input type="email" class="form-control" id="inputEmail4" placeholder="Answer">
+                      </div>
+
+                      <div class="col-8" style="margin: 5%;">
+                        <label for="inputEmail4" class="form-label">Q.What will you do tomorrow?</label>
+                        <input type="email" class="form-control" id="inputEmail4" placeholder="Answer">
+                      </div>
+
+                      <div class="col-8"  style="margin: 5%;">
+                        <label for="inputEmail4" class="form-label">Q.Are there any blockers on your way?</label>
+                        <input type="email" class="form-control" id="inputEmail4" placeholder="Answer">
+                        <button type="submit" class="btn btn-primary" style="margin-top: 50px;">Submit</button>
+          </div>
+                </div>
+            </div>
+        </div>            
+    
+     
+    
+    
+</body>
+</html>

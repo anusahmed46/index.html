@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+legend {
+    background-color:r gray;
+    color: rgb(27, 25, 25);
+    padding: 5px 140px;
+}
+
+.a{
+    position: relative;
+    bottom: -20px;
+    height: 22%;
+    width: 10%;
+    margin: 5%;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color:rgb(7, 124, 233);
+    color:white;
+}
+.a button{
+    height: 15%;
+}
+.a button :hover{
+    background-color: white;
+}
+.con {
+    border: 1px solid black;
+    width: 120vh;
+    height: 15vh;
+    margin-left: 14%;
+}
+.icon{
+    border-radius: 60%;
+    background-color: blue;
+    width: 6%;
+    margin-left: 110%;
+    margin-top: -10%;
+}
+
+.con1 {
+    border: 1px solid black;
+    width: 100vh;
+    height: 70vh;
+    margin-left: 20%;
+    margin-top: -45%;
+    background-color: white;
+}
+.con3{
+    width: 110vh;
+    height: 15vh;
+    margin-left: 30%;
+
+    
+}
+
+.pg-icon3{
+    border-radius: 60%;
+    background-color: blue;
+    width: 6%;
+    margin-left: 118%;
+    margin-top: -25%;
+}

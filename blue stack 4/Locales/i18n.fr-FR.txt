@@ -1,0 +1,2773 @@
+﻿STRING_RESTART_BLUESTACKS = Redémarrer
+
+STRING_QUIT_BLUESTACKS = Quitter
+
+STRING_UPLOAD_DEBUG_LOGS = Signaler un problème
+
+STRING_INSTALL_UPDATES = Installer les mises à jour
+
+STRING_APPS = Applications
+
+STRING_APP = Application
+
+STRING_INSTALLED = Installé
+
+STRING_FULL_SCREEN_BUTTON_TOOLTIP = Basculer en plein écran
+
+STRING_LOADING_MESSAGE = Chargement...
+
+STRING_SYSTEM_APP = Systeme Appli
+
+STRING_BROWSER_APP = Navigateur
+
+STRING_SETTINGS = Réglages
+
+STRING_SETTING_APP = Réglages
+
+STRING_CAMERA_APP = Appareils Photo
+
+STRING_GOOGLE_PLAY_GAMES_APP = Jeux Google Play
+
+STRING_MEDIA_MANAGER_APP = Manager  Media
+
+STRING_GOOGLE_PLAY_STORE_APP = Google Play
+
+STRING_RETURN_APP = Retour
+
+STRING_HELP_CENTER_APP = Centre d'aide
+
+STRING_INSTANCE_MANAGER_APP = Gestionnaire d'Instance
+
+STRING_MACRO_RECORDER_APP = Enregistreur de macros
+
+STRING_INITIALIZING = Initialisation
+
+STRING_FULL_SCREEN_TOAST = BlueStacks est en mode plein écran. Appuyez sur F11 pour quitter le mode plein écran.
+
+STRING_SNAPSHOT_ERROR_TOAST = Aucune application de partage instantané n'est installée
+
+STRING_INCOMPATIBLE_FRONTEND_QUIT_CAPTION = Une application antivirus ou de sécurité PC empêche BlueStacks de fonctionner
+
+STRING_INCOMPATIBLE_FRONTEND_QUIT = Arrêtez l'antivirus ou l'application de sécurité de votre PC qui empêche BlueStacks de s'exécuter
+
+STRING_BLUESTACKS = BlueStacks
+
+STRING_INSTALL_SUCCESS = a été installé
+
+STRING_UNINSTALL_SUCCESS = a été désinstallé
+
+STRING_INSTALL_FAIL = L'installation a échoué
+
+STRING_USER_WAIT = Installation de l'apk...
+
+STRING_FORM = Outil d'aide du lecteur d'applications
+
+STRING_ATTACHMENT_SIZE_EXCEEDS_LIMIT = Le fichier que vous essayez de joindre dépasse la limite maximale autorisée de 4 Mo. Sélectionnez-en un autre.
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION = Le fichier que vous essayez de joindre n'est pas une image. Veuillez joindre une capture d'écran du problème et essayer à nouveau.
+
+STRING_STATUS_INITIAL = Démarrage de Collector
+
+STRING_STATUS_COLLECTING_PRODUCT = Collecte d'informations sur le produit
+
+STRING_STATUS_COLLECTING_HOST = Collecte d'informations sur l'hôte
+
+STRING_STATUS_COLLECTING_GUEST = Collecte d'informations Android
+
+STRING_STATUS_ARCHIVING = Création d'archives de support
+
+STRING_STATUS_SENDING = Envoi du rapport de problème
+
+STRING_APP_NAME = Saisir le nom de l'application
+
+STRING_FINISH_CAPT = Outil d'aide complet
+
+STRING_FINISH_REPORT_SEND = Votre rapport de problème a bien été envoyé. Nous reviendrons vers vous bientôt.
+
+STRING_PROMPT = Impossible d'envoyer un rapport de problème. Un fichier appelé BlueStacksSupport.zip a été créé sur votre bureau.  Veuillez envoyer ce fichier par courriel avec une brève description de votre problème à beta-support@bluestacks.com.
+
+STRING_RPC_FORM = Déboguer une erreur RPC
+
+STRING_STUCK_AT_INITIALIZING_FORM = Dépannage bloqué au démarrage
+
+STRING_WORK_DONE = Terminé, si le problème persiste encore, veuillez le signaler
+
+STRING_PROGRESS = Veuillez patienter, nous essayons de résoudre le problème
+
+STRING_TROUBLESHOOTER = Déboguer et essayer de résoudre mon problème automatiquement
+
+STRING_LOGCOLLECTOR_RUNNING = Signaler un problème déjà existant
+
+STRING_CATEGORY = Catégorie
+
+STRING_ZIP_NAME = BlueStacks-Support.zip
+
+STRING_RESTART_UTILITY_TITLE = Utilitaire de redémarrage de BlueStacks
+
+STRING_RESTART_UTILITY_RESTARTING = Redémarrage de BlueStacks
+
+STRING_RESTART_UTILITY_CANNOT_START = Impossible de démarrer BlueStacks
+
+STRING_RESTART_UTILITY_UNHANDLED_EXCEPTION = Exception non gérée capturée. Veuillez consulter le journal pour plus de détails.
+
+STRING_APKINSTALLER_ALREADY_RUNNING = Une application est déjà en cours d'installation. Veuillez attendre que son installation se termine.
+
+STRING_UPDATER_UTILITY_NO_UPDATE_TITLE = Logiciel de mise à jour de Bluestacks
+
+STRING_UPDATER_UTILITY_ASK_TO_INSTALL = Souhaitez-vous mettre à jour vers la dernière version de BlueStacks ?
+
+STRING_UPDATE_SUCCESS = a été mis à jour
+
+STRING_MINIMIZE_TOOLTIP = Minimiser
+
+STRING_CLOSE = Fermer
+
+STRING_SET_LOCATION = Définir l'emplacement
+
+STRING_TOOLBAR_CAMERA = Prenez une capture d'écran
+
+ANDROID = Android
+
+STRING_FINISH = Completer
+
+STRING_START_BLUESTACKS = Démarrer BlueStacks
+
+STRING_DOWNLOADING = Téléchargement
+
+BLUESTACKS = BlueStacks
+
+STRING_BACK = Retour
+
+STRING_EXIT = Quitter
+
+STRING_WELCOME_TO_BLUESTACKS = Bienvenue sur BlueStacks
+
+STRING_BLUESTACKS_APK_HANDLER_TITLE = Gestionnaire d'apk BlueStacks
+
+STRING_SNAPSHOT_SHARE_STRING = partagé via BlueStacks App Player (www.bluestacks.com)
+
+STRING_LOADING_SCREEN_APP_TITLE = BlueStacks App Player
+
+STRING_CLOSE_MESSAGE_PROMPT = Voulez-vous terminer le streaming?
+
+STRING_CLOSE_WHILE_STREAMING_TOOLTIP = Fin du streaming
+
+STRING_BLACKSCREEN_FORM = Dépannage de l'Écran Noir
+
+STRING_SELECT_APP_NAME = Sélectionnez le Nom de l'Application
+
+STRING_SELECT = Sélectionnez...
+
+STRING_CREATE_BLUESTACKS_REGISTRY = Créer un registre BlueStacks
+
+STRING_CREATE_SHORTCUTS = Création de raccourcis BlueStacks
+
+STRING_COULD_NOT_RESOTRE_INSUFFICIENT_SPACE = Malheureusement, la restauration n'a pas abouti car elle nécessite au moins
+
+STRING_INSTALLATION_CORRUPT_TITLE = L'installation de BlueStacks est corrompue.
+
+STRING_INSTALLATION_CORRUPT_MESSAGE = L'installation du Lecteur d'Application BlueStacks est corrompue. Veuillez télécharger et installer la dernière version sur www.bluestacks.com
+
+STRING_SUBCATEGORY = Sous-catégorie
+
+STRING_FILTER_UPDATE_TITLE = Logiciel de mise à jour du filtre BlueStacks
+
+STRING_INITIALIZING_DOWNLOADER = Initialisation du logiciel de téléchargement...
+
+STRING_DOWNLOADING_0_of_1 = Téléchargement en cours {0} de {1}...
+
+STRING_DOWNLOADED = Téléchargement terminé...
+
+STRING_APPLYING = Application du thème...
+
+STRING_LATER_BUTTON = Plus tard
+
+STRING_DOWNLOAD_ERROR = Oups ! Une erreur est survenue. Les filtres seront mis à jour lors du prochain lancement
+
+STRING_STOP_STREAMING_REQUIRED = Cette mise à jour nécessitera l'arrêt du streaming
+
+STRING_OBS_ERROR = Oups! Une erreur est survenue. Voulez-vous réessayer?
+
+STRING_OBS_ALREADY_RUNNING = Une autre instance OBS est déjà en cours d'exécution. Merci de la fermer avant que vous puissiez aller en direct
+
+STRING_RESTORE_BUTTON = Restaurer
+
+STRING_RECOMMENDED = Recommandé
+
+STRING_BLUESTACKS_WARNING_PROMPT = Avertissement BlueStacks
+
+STRING_SELECT_BACKUP = Sélectionnez le dossier dans lequel vous souhaitez créer une sauvegarde
+
+STRING_SELECT_RESTORE = Sélectionnez un dossier à partir duquel vous souhaitez restaurer
+
+STRING_QUITTING = Quitte BlueStacks
+
+STRING_ANDROID_BACKUP = Création de la sauvegarde Android
+
+STRING_ANDROID_RESTORE = Restauration de la sauvegarde Android
+
+STRING_USER_DATA_BACKUP = Création de la sauvegarde des données d'utilisateur
+
+STRING_USER_DATA_RESTORE = Restauration de la sauvegarde des données d'utilisateur
+
+STRING_BACKUP_COMPLETE = Sauvegarde terminée
+
+STRING_RESTORE_COMPLETE = Restauration terminée
+
+STRING_BACKUP_FAILED = Échec de la sauvegarde. Veuillez réessayer ultérieurement.
+
+STRING_RESTORE_FAILED = Malheureusement, la restauration n'a pas abouti car elle nécessite au moins
+
+STRING_DATA_MANAGER = Gestionnaire de Données BlueStacks
+
+STRING_APP_PLAYER_ONLINE = Lecteur d'Application en ligne
+
+STRING_MANAGE_NOTIFICATION = Gérer les notifications
+
+STRING_MUTE_NOTIFICATION_TOOLTIP = Muet
+
+STRING_HOUR = 1 Heure
+
+STRING_WEEK = 1 Semaine
+
+STRING_DAY = 1 Jour
+
+STRING_FOREVER = Toujours
+
+STRING_CLEAR = Nettoyer
+
+STRING_NO_NEW_NOTIFICATION = Aucunes notifications
+
+STRING_NOTIFICATION = Notifications
+
+STRING_SHOW = Montrer
+
+STRING_AUTO_HIDE = Masquage automatique
+
+STRING_SHOW_NOTIFICATIONS = Afficher les notifications sur le bureau
+
+STRING_AUTO_HIDE_TOOLTIP = Affichera une notification après 10 secondes.
+
+STRING_DISMISS_TOOLTIP = Rejeter
+
+STRING_SHOW_NOTIFICATION_TOOLTIP = Montrer les Notifications
+
+STRING_RESET_APPS_AND_DATA = Réinitialiser toutes les applications et données
+
+STRING_AUTO = Auto
+
+STRING_WEBCAM_SOURCE_STRING = source de la webcam
+
+STRING_STREAM_QUALITY_DETAILS = Cela n'affecte pas l'écran d'aperçu à gauche
+
+STRING_STREAM_QUALITY = Qualité de flux
+
+STRING_SERVER_LOCATION = Choisissez l'emplacement du serveur le plus près de chez vous
+
+STRING_LBL_RESTORE_DEFAULT = Restaurer par défaut
+
+STRING_LBL_COMPUTER_SOUND = Son de l'ordinateur
+
+STRING_LBL_MICROPHONE_SOUND = Son du microphone
+
+STRING_LBL_MICROPHONE_SOURCE = Source du microphone
+
+STRING_LABEL_STREAM_AUDIO_SOURCE = source de flux audio
+
+STRING_LABEL_STREAM_AUDIO_SOURCE_DETAIL = Cela affectera uniquement ce que vos téléspectateurs entendront
+
+STRING_LBL_ADVANCED_STREAM_SETTINGS = Paramètres de stream avancés
+
+STRING_AUDIO_BUTTON = Audio
+
+STRING_VIDEO_BUTTON = Video
+
+STRING_OTHER_BUTTON = Autres
+
+STRING_VIDEO_BUTTON_TOOLTIP = Les paramètres vidéo ne peuvent pas être réglés en live
+
+STRING_OTHER_BUTTON_TOOLTIP = Les autres paramètres ne peuvent pas être réglés en live
+
+NONE = Aucun
+
+STRING_ACCOUNT = Compte
+
+STRING_NAVIGATE_FAILED = La navigation à échoué
+
+STRING_RETRY = Recommencez
+
+STRING_INCORRECT_LOGIN_DETAILS = Échec de la restauration de la sauvegarde!! Le compte BlueStacks associé à cette sauvegarde est différent du compte connecté actuellement.
+
+STRING_INCORRECT_PATH = Malheureusement, la restauration n'a pas abouti. Veuillez sélectionner le bon chemin.
+
+STRING_RESTORE_FAILURE = La Restauration des Données a Échoué
+
+STRING_BACKUP_SUCCESSFUL = Vos données ont été sauvegardées avec succès. Vous pouvez les retrouver à:
+
+STRING_RESTORE_SUCCESSFUL = Vos données ont été restaurées avec succès
+
+STRING_ADVANCED_SETTINGS = Paramètres Avancés
+
+STRING_EXIT_BLUESTACKS = Voulez-vous quitter BlueStacks?
+
+STRING_YES = Oui
+
+STRING_NO = Non
+
+STRING_HOME = Accueil
+
+STRING_SHAKE = Secouer
+
+STRING_SCREENSHOT = Screenshot
+
+STRING_LOCATION = Localisation
+
+STRING_LOADING_ENGINE = Chargement
+
+STRING_SEARCH = Chercher
+
+STRING_APP_CENTER = Centre d'application
+
+STRING_GIFT = Cadeaux
+
+STRING_FEEDBACK = Centre d'aide
+
+STRING_ENGINE_VERSION = version du moteur
+
+STRING_OK = Ok
+
+STRING_SAVE = Sauvegarder
+
+STRING_CPU_CORES = Cores CPU
+
+STRING_MEMORY = Mémoire
+
+STRING_APPLY = Appliquer
+
+STRING_GOOGLE_LOGIN_MESSAGE = Identifiez-vous avec votre Compte Google pour commencer à utiliser Bluestacks
+
+STRING_MORE_GOOGLE_SEARCH_RESULT = Résultats des recherches Google pour
+
+STRING_F11_EXIT_FULL_SCREEN = Appuyer F11 pour quitter mode plein écran
+
+STRING_ESC_EXIT_FULL_SCREEN = Appuyer Esc pour quitter le mode plein écran
+
+STRING_WARNING = Attention
+
+STRING_BEGINNERS_GUIDE = Guide du débutant
+
+STRING_VOLUME_CONTROL = Contrôle du volume
+
+STRING_ALWAYS_ON_TOP = Toujours au top
+
+STRING_KEY_MAPPING_ENABLED = Flêches du clavier (KeyMapping) Activé
+
+STRING_KEY_MAPPING_DISABLED = Flêches du clavier (KeyMapping) Désactivées
+
+STRING_MULTIINSTANCE_DELETE = Voulez-vous supprimer cette instance?
+
+STRING_UNINSTALL_APP_ASK = Voulez-vous désinstaller cette application?
+
+STRING_MAP = Cartes
+
+STRING_SOME_ERROR_OCCURED = Malheureusement, une erreur s'est produite. Veuillez réessayer.
+
+STRING_DATA_PATH = Données Bluestacks
+
+STRING_INSTALL_NOW = Installer maintenant
+
+STRING_SPACE_REQUIRED = Espace Requis
+
+STRING_SPACE_AVAILABLE = Espace Disponible
+
+STRING_FOLDER = Fichier
+
+STRING_INSTALL_DONE = Installation terminée
+
+STRING_INSTALLATION_CANCEL_CONFIRMATION = Voulez-vous annuler cette installation?
+
+STRING_SELECT_FOLDER = Sélectionnez un autre dossier
+
+STRING_AGREE_WITH_LICENSE = Merci d’accepter la license pour continuer
+
+STRING_PRE_INSTALL_CHECKS = Vérification des Exigences du Système
+
+STRING_INSTALLING_ENGINE = Installation Moteur
+
+STRING_EXTRACTING_FILES = Extraction de Dossiers
+
+STRING_INSTALL_FINISH = Installation Complète
+
+STRING_CUSTOM = Installation personnalisée
+
+STRING_SOFTWARE_LICENSE = Licence de logiciel
+
+STRING_AGREE = Accepter
+
+STRING_UNINSTALL_FINISHED = Désinstallation Complète
+
+STRING_CANCEL = Annuler
+
+STRING_UNINSTALL = Désinstaller
+
+STRING_ENGINE_UNINSTALL = Désinstallation du Moteur
+
+STRING_CLIENT_UNINSTALL = Désinstallation de l’Hôte
+
+STRING_FINISHED = Fin
+
+STRING_THANKS_FOR_USING_BLUESTACKS = Merci d' utiliser Bluestacks
+
+STRING_REASON_FOR_UNINSTALL = Merci de nous indiquer pourquoi vous avez choisis de désinstaller BlueStacks
+
+STRING_INSTALL_ENGINE_FAIL = Impossible d'installer le Moteur
+
+STRING_INSTALL_GAME_FAIL = Impossible d'installer un jeu
+
+STRING_CONFLICT_WITH_OTHERS = Conflits avec d’autres logiciels
+
+STRING_START_ENGINE_FAIL = Le moteur n'a pas démarré
+
+STRING_GAME_LAG = Jeu lent
+
+STRING_BLACK_SCREEN = Ecran noir
+
+STRING_CANNOT_FIND_GAME = Impossible de trouver un jeu
+
+STRING_APP_CRASH = Appli Crash
+
+STRING_EXE_CRASH = .exe Crash
+
+STRING_OTHER_REASON = Autres raisons ou information comme le nom du jeu etc.
+
+STRING_INSTANCE_ALREADY_RUNNING = Instance est en train de travailler! Etes-vous sur de vouloir la supprimer?
+
+STRING_GUEST_NOT_BOOTED = Le Moteur n’est pas prêt. Merci d’attendre.
+
+STRING_MULTIINSTANCE = Multi Instance
+
+STRING_INSTALL_APK = Installer l'apk
+
+STRING_UNINSTALL_APP = Désinstaller l'application
+
+STRING_DELETE = Effacer
+
+STRING_DEFAULT_KEYBOARD_MAPPING_SETTING_01 = Contrôle par le clavier est disponible pour cette Application.
+
+STRING_DEFAULT_KEYBOARD_MAPPING_SETTING_02 = Merci de cliquer ci-dessous pour vérifier ou modifier
+
+STRING_DOWNLOAD_GOOGLE_APP_POPUP_STRING_04 = Ne plus montrer
+
+STRING_UPGRADE_NOW = Mettre à jour maintenant
+
+STRING_INSTALLATION_ERROR = Erreur d'installation
+
+STRING_TRY_RESTARTING_MACHINE = Rédemmarrer votre ordinateur & essayer encore.
+
+STRING_MULTI_INSTANCE_CREATE_ERROR = Malheureusement, il est impossible de créer une instance. Raison de l'Erreur :
+
+STRING_ARE_YOU_SURE = Etes-vous sûr?
+
+STRING_RESTART_MACHINE_PROMPT = Voulez-vous redémarrer votre PC?
+
+STRING_OPEN_KEYMAPPING_UI = Ouvrir KeyMapper
+
+STRING_MAXIMIZE_TOOLTIP = Maximiser
+
+STRING_VERION_DOWNGRADE = Rétrograder
+
+STRING_VERSION_ALREADY_INSTALLED = Dernière Version déjà installée
+
+STRING_CANT_USE_THIS_FOLDER = Malheureusement,  ce dossier ne peut être utilisé
+
+STRING_NO_DISK_SPACE = Malheureusement, il n'y a pas assez d'espace disque
+
+STRING_MULTI_INSTANCE_CREATE_BUSY = Création d’instance en cours
+
+STRING_MULTI_INSTANCE_DELETE_BUSY = Effaçage de l’instance en cours, merci de patienter.
+
+STRING_UNINSTALL_BLUESTACKS = Voulez-vous désinstaller BlueStacks?
+
+STRING_CLIENT_VERSION = Version de BlueStacks
+
+STRING_SYSTEM_REQUIREMENTS_NOT_MET = Les exigences minimales du système ne sont pas remplies.
+
+STRING_RESTART_NOW = Redémarrer maintenant
+
+STRING_EXIT_INSTANCE = Voulez-vous fermer cette Instance?
+
+STRING_INSTANCE_CLOSE_TITLE = Fermer l'instance
+
+STRING_BLUESTACKS_UPDATE_AVAILABLE = Mise à jour BlueStacks
+
+STRING_DOWNLOADING_BLUESTACKS_UPDATE = Téléchargement de la mise à jour de BlueStacks
+
+VERSION = Version
+
+STRING_ERROR = Erreur
+
+STRING_SCREEN1_TEXT1 = Cliquez sur le bouton> visible sur votre écran pour vous familiariser avec les fonctionnalités utiles
+
+STRING_DIRECTX = DirectX
+
+STRING_OPENGL = OpenGL
+
+STRING_ENGINE_FAIL_HEADER = Impossible de démarrer le moteur
+
+STRING_ENGINE_RESTART = Vous pouvez essayer de redémarrer le moteur ou votre PC.
+
+STRING_CREATING_BACKUP = Création de sauvegarde
+
+STRING_BACKUP_PLEASE_WAIT = Veuillez patienter pendant que nous sauvegardons vos données BlueStacks dans le dossier choisi.
+
+STRING_RESTORE_BACKUP = Restaurer la sauvegarde
+
+STRING_RESTORING_BACKUP = Restaurer données
+
+STRING_RESTORE_PLEASE_WAIT = Veuillez patienter pendant que nous restaurons vos données BlueStacks dans le dossier choisi.
+
+STRING_MAKE_SURE_LATEST_WARNING = Sauvegardez vos dernières données BlueStacks (instances, paramètres, jeux installés, données de jeu et commandes du clavier) avant de restaurer à partir d'une autre sauvegarde prise précédemment. Sinon, vous risquez de les perdre et  de ne pas pouvoir les récupérer à nouveau.
+
+STRING_BACKUP_WARNING = Avertissement de sauvegarde
+
+STRING_BLUESTACKS_BACKUP_PROMPT = Vous ne pourrez pas utiliser BlueStacks pendant la procédure, êtes-vous sûr de vouloir y procéder ?
+
+STRING_QUITTING_BLUESTACKS_WHILE_BACKUP_PROMPT = Vous allez quitter BlueStacks pour créer une sauvegarde. Es-tu sur de vouloir continuer ?
+
+STRING_BLANK_NOTIFICATION = Votre application a une notification
+
+STRING_QUITTING_BLUESTACKS_WHILE_RESTORE_PROMPT = Veuillez patienter pendant la désactivation de BlueStacks.  cela redémarrera automatiquement lorsque la restauration sera terminée.
+
+STRING_SUCCESS = Succés
+
+STRING_LAUNCHING_BLUESTACKS = Lancement de BlueStacks
+
+STRING_RUNNING_COMMANDS = Exécuter des commandes
+
+STRING_COMMANDS_ERROR = Condition d'erreur trouvée, le code d'erreur est
+
+STRING_TOOL_SUCCESS = Complété avec succès.
+
+STRING_DELETING_BACKUP = Suppression de la sauvegarde
+
+STRING_DELETING_BACKUP_INFO = Veuillez patienter pendant que nous annulons votre sauvegarde.
+
+STRING_ANOTHER_BLUESTACKS_INSTANCE_RUNNING_PROMT_TEXT1 = Un autre programme BlueStacks est déjà en cours d'exécution.
+
+STRING_ANOTHER_BLUESTACKS_INSTANCE_RUNNING_PROMT_TEXT2 = Cliquez sur OK pour fermer le programme BlueStacks existant et continuer.
+
+STRING_BACKUP_ERROR_INVALID_PATH_SELECTED = Impossible de récupérer la sauvegarde à cet emplacement. Vous n'avez pas d'Autorisation d'écriture
+
+STRING_BACKUP_FAILURE = La sauvegarde a échoué
+
+STRING_DATA_MANAGER_INVALID_OEM = Malheureusement, la restauration n'a pas abouti. Vous essayez de restaurer à partir d'une sauvegarde qui ne correspond pas à la version existante de BlueStacks.
+
+STRING_UNINSTALL_TITLE = Désinstaller BlueStacks
+
+STRING_UNINSTALL_BLUESTACKS_WARNING = Vos données seront perdues. Accédez à Paramètres> Sauvegarder et restaurer pour sauvegarder vos données.
+
+STRING_BLUESTACKS_UPDATE = mise à jour de BlueStacks
+
+STRING_RESTART_PC = Redémarrez le PC
+
+STRING_RESTART_ENGINE = Redémarrer le moteur
+
+STRING_INVALID_PATH = Le chemin d'accès n'est pas valide. Le nom du fichier doit comporter une extension jpg ou jpeg.
+
+STRING_INVALID_CHARACTER = Malheureusement, seules les touches alphabétiques sont autorisées.
+
+STRING_BOOT_TIME = Cela peut prendre jusqu'à 40 secondes selon les performances de votre PC
+
+STRING_BOOTING_ENGINE = Démarrage du moteur, attendez ...
+
+STRING_FIRST_BOOT = Le premier démarrage peut prendre jusqu'à 2-3 minutes selon les performances de votre PC
+
+STRING_INSTANCE = Instance
+
+STRING_DYNAMIC_RAM = Allouer automatiquement la RAM
+
+STRING_CONNECTION_ISSUE_TEXT1 = Il y avait un problème de connexion,
+
+STRING_CONNECTION_ISSUE_TEXT2 = Veuillez réessayer
+
+STRING_RETRY_CONNECTION_ISSUE_TEXT1 = Veuillez réessayer
+
+STRING_REMOVE_ACCOUNT_ON_EXIT = Sortie de BlueStacks. Voulez-vous supprimer votre compte Google et l'ensemble du contenu associé à BlueStacks?
+
+STRING_CLOSING_BLUESTACKS = Fermeture de BlueStacks
+
+STRING_EXIT_BLUESTACKS3 = Sortie de BlueStacks 3
+
+STRING_PERF_WARNING = Attention à la performance
+
+STRING_MIN_REQ_NOT_MET = Malheureusement, votre PC ne répond pas aux exigences minimales pour exécuter BlueStacks efficacement. Vous risquez de rencontrer de mauvaises performances.
+
+STRING_CREATE_INSTANCE = Créer une instance
+
+STRING_CLONE_INSTANCE = Une instance clone
+
+STRING_DONT_CREATE = Ne pas créer
+
+STRING_SPEEDUP_BLUESTACKS = Accélérer BlueStacks
+
+STRING_SPEEDUP_SUGGESTION_INSTANCE = BlueStacks recommande d'activer la virtualisation sur votre PC pour exécuter plusieurs instances. Sinon, vous risquez d'avoir de mauvaises performances.
+
+STRING_INSTALLATION_ROLLBACK = Installation de routage
+
+STRING_UNINSTALLING_WAIT = BlueStacks se désinstalle. Veuillez patientez s'il vous plaît
+
+STRING_CLEANER_TITLE = nettoyeur BlueStacks
+
+STRING_UPGRADE_FROM_BS1_CLEAN_OK = Nouvelle installation
+
+STRING_UPGRADE_FROM_BS1_CLEAN_CANCEL = Garder l'Ancienne
+
+STRING_REC_MEM = Mémoire recommandée:
+
+STRING_DISPLAY_SETTINGS = Affichage
+
+STRING_ENGINE_SETTING = Moteur
+
+STRING_BOSSKEY_SETTING = Touche de Contrôle
+
+STRING_NOTIFICATION_SETTING = Notification
+
+STRING_BACKUPRESTORE_SETTING = Sauvegarde et MAJ
+
+STRING_UPDATE_SETTING = Mise à jour
+
+STRING_ABOUT_SETTING = A propos
+
+STRING_DEVICEPROFILE_SETTING = Profil de l'appareil
+
+STRING_KEEP_BLUESTACKS_UPDATED = Maintenez BlueStacks à jour afin de continuer à utiliser vos jeux plus rapidement et bénéficier des dernières fonctionnalités.
+
+STRING_LATEST_VERSION = Vous êtes sur la dernière version
+
+STRING_LATEST_VERSION_INSTALLED = La dernière version de BlueStacks est déjà installée sur votre PC
+
+STRING_CHECK_UPDATES = Vérifiez les mises à jour
+
+STRING_NEW_UPDATE = Nouvelle mise à jour disponible
+
+STRING_DOWNLOAD = Téléchargez
+
+STRING_ASPECT_RATIO_NEW = Résolution
+
+STRING_DPI = DPI
+
+STRING_SYSTEM_DEFAULT = Système par défaut
+
+STRING_CUSTOM_SIZE = Taille personnalisée
+
+STRING_LOW = Faible
+
+STRING_HIGH = Haut
+
+STRING_CREATE_BACKUP = Nouvelle Sauvegarde
+
+STRING_VERSION_FOUR = Version 4
+
+STRING_ABOUT_BLUESTACKS = À propos de BlueStacks
+
+STRING_RESTORE_BLUESTACKS_DATA = Restaurer à partir de la sauvegarde des instances BlueStacks, des paramètres, des applications installées et des jeux, leurs données et leurs contrôles clavier.
+
+STRING_CHANGES_APPLY_RESTART = Nouvelles modifications lors du lancement
+
+STRING_PREFERENCES = Préférences
+
+STRING_PLATFORM_SETTINGS = Paramètres de la plate-forme
+
+STRING_ADD_ICONS = Ajouter des icônes de bureau pour les applications installées
+
+STRING_SETUP_BOSSKEY = Configuration Touche de Contrôle
+
+STRING_BOSSKEY_SHORTCUT = Ctrl + Alt +
+
+STRING_BOSSKEY_DESCRIPTION = Masquer / Afficher BlueStacks instantanément en utilisant le raccoursi clavier
+
+STRING_CHOOSE_GRAPHICS_MODE = Choisissez le mode graphique
+
+STRING_BETTER_GRAPHICS = Meilleur graphique
+
+STRING_MORE_COMPATIBLE = Plus compatible
+
+STRING_CPU_AND_RAM_ALLOCATION = allocation CPU et RAM
+
+STRING_CHOOSE_BETWEEN_ONE_TO = Choisissez entre 1-
+
+STRING_CHANGELOG = Changement de journal
+
+STRING_CHANGES_APPLY_AUTOMATIC = Les modifications seront enregistrées automatiquement
+
+STRING_DOWNLOAD_UPDATE = Télécharger la mise à jour
+
+STRING_CONTINUE_PRESENT = Continuer le présent
+
+STRING_INSTALL_UPDATE = Installer la mise à jour
+
+STRING_NEW_UPDATE_READY = La nouvelle version de BlueStacks est téléchargée et prête à être installée. Voulez-vous l'installer?
+
+STRING_UPDATE_NEXT_BOOT = Mise à jour lors du prochain démarrage
+
+STRING_INSTALLED_APPS = Applications installées
+
+STRING_CUSTOM_NOTIFICATION_SETTING = Utiliser le paramètre de notification personnalisé pour les applications installées
+
+STRING_REPORT_A_PROBLEM = Signaler un problème
+
+STRING_CREATE_DESKTOP_SHORTCUT = Créer un raccourci sur le bureau
+
+STRING_DELETE_INSTANCE = Effacer l'instance
+
+STRING_RESTART_INSTANCE = Redémarrer l'instance
+
+STRING_RUNNING_DOTED = Fonctionnement...
+
+STRING_BOOTING_DOTED = Démarrage ...
+
+STRING_CLOSING_DOTED = Fermeture...
+
+STRING_LASTBOOTEDON = Arrêté, dernier démarrage
+
+STRING_INSTANCES = Instances
+
+STRING_START = Début
+
+STRING_STOP = Stop
+
+STRING_NEW_FRESH_INSTANCE = Nouvelle instance
+
+STRING_NEW_FRESH_INSTANCE_MESSAGE = Vous aurez besoin de tout installer.
+
+STRING_CLONE_SAME_ACCOUNT = Une instance clone
+
+NAME = Nom
+
+STRING_CREATE = Créer
+
+STRING_ANTIVIRUS_WARNING_STRING = Désactivez votre antivirus PC s'il interfère avec l'installation de BlueStacks
+
+STRING_ANTIVIRUS_PAUSE_INSTALLER =  Veuillez suspendre votre antivirus s'il interfère avec l'installation de BlueStacks. 
+
+STRING_BACKUP_DESKTOP = Sauvegarde sur le bureau avant la mise à jour
+
+STRING_TAKE_10MIN = Cela peut prendre jusqu'à 10 minutes
+
+STRING_HIDE = Masquer la progression
+
+STRING_RESTARTING = Redémarrer
+
+STRING_SUPPORT = Support
+
+STRING_WEBSITE = Site internet
+
+STRING_SUPPORT_EMAIL = Assistance email
+
+STRING_CHOOSE_NEW = Choisir nouveau
+
+STRING_RESTORE_DEFAULT = Restaurer par défaut
+
+STRING_WALLPAPER = Fond d'écran
+
+STRING_CHANGE_WALLPAPER = Modifier le fond d'écran
+
+STRING_RESTORE_DEFAULT_WALLPAPER = Voulez-vous restaurer le fond d'écran par défaut?
+
+STRING_PREMIUM_FEATURE = Fonction Premium
+
+STRING_PREMIUM_FEATURE_POPUP = Permet d'acheter un abonnement BlueStacks Premium pour utiliser cette fonctionnalité.
+
+STRING_ENABLE_VT = Activer VT pour rendre BlueStacks plus rapide
+
+STRING_LEARN_MORE = En savoir plus
+
+STRING_SPEED_UP_BLUESTACKS = Accélérer BlueStacks
+
+STRING_SPEED_UP_TIPS = Conseils d'accélération
+
+STRING_ENABLE_VIRT = Activer la virtualisation assistée par matériel
+
+STRING_ENABLE_VIRT_BODY = La virtualisation assistée par matériel permettra aux applications de fonctionner beaucoup plus rapidement en allouant plus de ressources et en réduisant les délais de traitement.
+
+STRING_ENABLE_VIRT_HYPERLINK = Comment puis-je activer la virtualisation?
+
+STRING_UPGRADE_SYSTEM = Mettre à niveau votre ordinateur
+
+STRING_UPGRADE_SYSTEM_BODY = Mettre à niveau vers un ordinateur avec plus de RAM et une CPU plus rapide (avec la virtualisation matérielle assistée) peut augmenter considérablement les performances de BlueStacks. Un affichage large et net avec un bon trackpad ou une souris peut également améliorer considérablement l'expérience.
+
+STRING_UPGRADE_SYSTEM_HYPERLINK = Quelles sont les spécifications système recommandées?
+
+STRING_CONFIGURE_ANTIVIRUS = Désactiver le logiciel antivirus
+
+STRING_CONFIGURE_ANTIVIRUS_BODY = Certaines fonctionnalités antivirus peuvent interférer avec la virtualisation et entraîner une dégradation importante des performances. Désactiver ces fonctionnalités peut accélérer considérablement BlueStacks.
+
+STRING_CONFIGURE_ANTIVIRUS_HYPERLINK = Comment configurer mon logiciel antivirus?
+
+STRING_DISABLE_HYPERV = Vous devrez désactiver Hyper-V et autres hyperviseurs.
+
+STRING_DISABLE_HYPERV_BODY = BlueStacks utilise la technologie de virtualisation et lorsque d'autres hyper viseurs comme Hyper-V, VirtualBox ou VMWare fonctionnent, cela peut nuire à notre capacité à fonctionner de manière optimale. Essayez de désactiver d'autres logiciels susceptibles d'utiliser la technologie de virtualisation.
+
+STRING_DISABLE_HYPERV_HYPERLINK = Comment puis-je désactiver d'autres hyper viseurs?
+
+STRING_NOT_ENOUGH_RAM = Vous n'avez pas assez de RAM dans votre ordinateur pour exécuter plusieurs instances lente. Envisagez de mettre à niveau votre RAM système avant de créer une autre instance.
+
+STRING_LOGOUT_BUTTON = Déconnexion
+
+STRING_LOGOUT_BLUESTACKS3 = Déconnexion de BlueStacks 3
+
+STRING_REMOVE_GOOGLE_ACCOUNT = Voulez-vous vous déconnecter de Google Play?
+
+STRING_APP_UPGRADE = Voulez-vous mettre à jour cette application?
+
+STRING_PLAY_NOW = Jouez maintenant
+
+STRING_RESTORE_INFO = Pensez à sauvegarder avant la restauration, la restauration écrasera vos données existantes et elles seront perdues.
+
+STRING_BACKUP_INFO = Peut prendre jusqu'à 5 minutes en fonction des jeux installés.
+
+STRING_BTV_WARNING = Le streaming et l'enregistrement vidéo peuvent ralentir la fréquence d'images pour votre jeu.
+
+STRING_BTV_DOWNLOAD = Télécharger BlueStacks TV.
+
+STRING_BTV_INSTALL_WAIT = Veuillez patienter pendant que nous téléchargeons les composants TV et vidéo BlueStacks.
+
+STRING_BTV_DOWNLOAD_CANCEL = Voulez-vous annuler le téléchargement de BlueStacks TV?
+
+STRING_LANGUAGE_SETTING = Paramètres de langue
+
+STRING_DOWNLOAD_NOW = Télécharger maintenant
+
+STRING_HYPERV_ENABLED_MESSAGE = BlueStacks ne peut pas utiliser le Matériel de  Virtualisation Assistée lorsque l'Hyper-V est activé. Veuillez désactiver l'Hyper-V à partir de votre panneau de configuration. Consultez la FAQ pour plus de détails.
+
+STRING_SHOW_GUIDE = Examiner les FAQ
+
+STRING_UPGRADE_NOT_SUPPORTED = Malheureusement, il n'est pas possible de mettre à jour la version existante de BlueStacks vers la dernière.
+
+STRING_UNINSTALL_CURRENT_AND_REINSTALL = Veuillez désinstaller votre version actuelle et réinstaller BlueStacks.
+
+STRING_AVAILABLE_TO_DOWNLOAD = Disponible pour Téléchargement
+
+STRING_XPAC_PERF_BOOST = Augmentation des Performances
+
+STRING_XPAC_DEF_KEYMAP = Contrôles du Clavier par Défaut
+
+STRING_XPAC_SPECIAL_THEMES = Thème spécial
+
+STRING_XPAC_GUIDE_TUTORIALS = Guides et tutoriels
+
+STRING_XPAC_SPECIAL_GIFTS = Cadeaux spéciaux
+
+STRING_XPAC_DESCRIPTION = Les xPacks boostent votre expérience de jeu sur BlueStacks en apportant les outils dont vous avez besoin pour avoir un avantage sur les jeux autre part..
+
+STRING_XPAC_GET_FREE = Obtenez cela gratuitement
+
+STRING_XPAC_APPLY_THEME = Appliquer le thème xPack
+
+STRING_XPAC_REVERT_THEME = Revenir au thème par défaut
+
+STRING_XPAC_INSTALLED = xPack installé
+
+STRING_CAPTURE_ERROR = Malheureusement, échec capture d'écran. Consultez le FAQ pour apprendre à changer le mode graphique en DirectX.
+
+STRING_DIRECTX_DOWNLOAD = Votre système ne dispose pas des composants DirectX requis par BlueStacks TV. Voulez-vous les télécharger?
+
+STRING_CHANGE_SKINS = Changer le skin de l'application
+
+STRING_BLUESTACKS_SKIN = Apparences BlueStacks
+
+STRING_CHANGE_SKIN = Changer de design
+
+STRING_ICON_REMOVE = Voulez-vous supprimer cette icône?
+
+STRING_SOME_ERROR_OCCURED_DOWNLOAD = Malheureusement, la mise à jour n'a pas pu être complètement téléchargée. Veuillez réessayer, ou contactez le centre d'aide BlueStacks.
+
+STRING_MAPS = Pika World
+
+STRING_DELETING_DOTED = Supprimer ...
+
+STRING_AUTO_START_ON_FINISH = Démarrage automatique à la fin
+
+STRING_PIKA_POINTS = Points BlueStacks
+
+STRING_APPLIED = Appliqué
+
+STRING_REDEEM = Échangé
+
+STRING_INVALID_APK_BLACKLISTED_ERROR = Cette application ne peut pas être installée sur cette version de BlueStacks
+
+STRING_MACRO_RUNNING = La macro est en cours d'exécution.
+
+STRING_REROLL_APP_PREFIX = Re-rouler
+
+STRING_START_REROLL = Voulez-vous commencer à re-rouler?
+
+STRING_REROLL_COMPLETED = Re-rouler terminé.
+
+STRING_GL3_SWITCH = Passer en OpenGL
+
+STRING_GL3_WINDOW_TITLE = Malheureusement,  ce dossier ne peut être utilisé
+
+STRING_GL3_WINDOW_BODY_DIRECTX = Votre carte graphique ne supporte pas ce jeu dans le mode actuel. Veuillez passer votre mode graphique BlueStacks en mode OpenGL pour lancer ce jeu.
+
+STRING_SWITCH_OPENGL_MODE = Passez en mode OpenGL pour jouer au jeu.
+
+STRING_GL_MODE_RESTART = Pour passer en mode graphique, Bluestacks devra redémarrer.
+
+STRING_GL3_WINDOW_BODY_OPENGL = Malheureusement, votre carte graphique ne prend pas en charge BlueStacks.
+
+STRING_GL3_UPDATE_DRIVER = Veuillez mettre à jour votre carte graphique pour jouer au jeu.
+
+STRING_IMPORTANT_UPDATES = Mises à jour importantes
+
+STRING_VIEW_XPACK = Voir xPack
+
+STRING_NOTIFICATION_CENTER = Centre de notification
+
+STRING_CLEAR_ALL = Effacer tout
+
+STRING_XPACK = xPack
+
+STRING_GET_XPACKS = Obtenir xPack
+
+STRING_SHOW_RIBBON = Afficher les notifications
+
+STRING_PRECAUTION_BEFORE_UPGRADE = Nous vous recommandons de sauvegarder vos données via une sauvegarde en cas d'échec de la mise à jour.
+
+STRING_HOW_TO_TAKE_BACKUP = Comment avoir une sauvegarde?
+
+STRING_BEFORE_YOU_UPDATE = Avant de mettre à jour
+
+STRING_CONTINUE = Continuer
+
+STRING_VIEW_XPACK_TOOLTIP = Voir les bonus de xPack et les améliorations pour ce jeu.
+
+STRING_GET_XPACK_TOOLTIP = Augmentez la performance du jeu et obtenez des bonus qui améliorent votre expérience en téléchargeant xPack pour ce jeu.
+
+STRING_APP_CANNOT_START = L'application n'a pas pu démarrer
+
+STRING_ADVANCED_GRAPHIC_ENGINE_REQUIRED = Cette application nécessite un moteur graphique avancé.
+
+STRING_SWITCH_TO_ADVANCED_ENGINE_RESTART = S'il vous plaît passer au moteur graphique avancé pour jouer à cette application. BlueStacks nécessite un redémarrage pour que la modification prenne effet. Vous pouvez également modifier le moteur graphique à partir de Paramètres -> Moteur.
+
+STRING_SWITCH_RESTART = Enregistrer et redémarrer
+
+STRING_ADVANCE_GRAPHICS_ENGINE_SETTING = Utiliser le mode moteur graphique avancé (Bêta)
+
+STRING_INSTALLATION_ROLLBACK_COMPLETE = Restauration terminée
+
+STRING_INSTALLER_PROPERTIES_INIT_FAILED_BODY = Une erreur est survenue lors de l'initialisation des propriétés pour le programme d'installation
+
+STRING_CLICK_HERE = Cliquez ici pour télécharger
+
+STRING_DIRECTX_WARNING_TITLE = OpenGL fonctionne mieux que DirectX dans cette version.
+
+STRING_DIRECTX_WARNING = Passez à OpenGL pour de meilleures performances et une meilleure comparabilité des jeux. Si vous voulez toujours utiliser DirectX, veuillez installer BlueStacks 3
+
+STRING_LATEST_VERSION_REQUIRED = Cette application nécessite la dernière version de BlueStacks
+
+STRING_LATEST_VERSION_REQUIRED_DETAILED = Ce jeu est incompatible avec la version existante de BlueStacks. Veuillez s'il vous plaît télécharger et installer la dernière version de BlueStacks pour jouer à ce jeu.
+
+STRING_KITKAT_VERSION_REQUIRED = Cette application est seulement compatible avec BlueStacks 3.
+
+STRING_NOUGAT_VERSION_REQUIRED = Cette application est seulement compatible avec BlueStacks N.
+
+STRING_NOUGAT_VERSION_REQUIRED_DETAILED = Cette application est uniquement prise en charge par la dernière version de BlueStacks N. Veuillez télécharger et installer la dernière version de BlueStacks N.
+
+STRING_DX_SWITCH = Changez le mode graphique de BlueStacks en mode DirectX.
+
+STRING_ADX_SWITCH = Changez le mode graphique de BlueStacks en mode DirectX Avancé.
+
+STRING_DX_WINDOW_BODY_DIRECTX = Votre carte graphique ne supporte pas ce jeu dans le mode actuel. Veuillez passer votre mode graphique BlueStacks en mode DirectX pour lancer ce jeu.
+
+STRING_INCOMPATIBLE_INSTALLER_STARTED = Cette version d'installation de BlueStacks n'est pas compatible avec votre version de Windows. Téléchargez la version {0} de BlueStacks et réessayez.
+
+STRING_VTX_DISABLED_WARNING_MESSAGE = BlueStacks ne peut pas utiliser le Matériel de Virtualisation Assisté pour de meilleures performances. Veuillez vérifier les paramètres du BIOS et assurez-vous qu'il est activé. Si vous utilisez l'antivirus AVAST ou 360, vérifiez les paramètres de celui-ci et assurez-vous que le Matériel de Virtualisation Assisté est désactivé. Consultez la FAQ pour plus de détails.
+
+STRING_VTX_UNAVAILABLE_WARNING_MESSAGE = Votre PC ne prend pas en charge le Matériel de Virtualisation Assisté. Cela peut avoir un impact sur votre expérience sur BlueStacks.
+
+STRING_DISABLED_VT_TITLE = Les performances sont lentes car la virtualisation est désactivée.
+
+STRING_DISABLED_VT = Malheureusement, les performances  sont faibles car la technologie de virtualisation (VT) est désactivée sur votre processeur. Veuillez vous référer à cette FAQ pour activer la VT.
+
+STRING_RAM_NOTIF_TITLE = Les performances sont lentes en raison de la RAM
+
+STRING_RAM_NOTIF = Vous pouvez avoir une faible performance car votre PC a 4Go ou moins de RAM. Veuillez lire la configuration système requise pour BlueStacks
+
+STRING_CONTINUE_ANYWAY = Continuer quand même
+
+STRING_RUNNING_CHECKS = Exécution des contrôles opengl
+
+STRING_OPENGL_NOTSUPPORTED_BODY = Malheureusement, la carte graphique de votre PC ne supporte pas le mode OpenGL. Veuillez cliquer sur le bouton continuer pour jouer au jeu.
+
+STRING_OPENGL_NOT_SUPPORTED = OpenGL non supporté
+
+STRING_UNFORTUNATELY_COULDNT_INSTALL = Malheureusement, BlueStacks ne peut pas être installé sur votre PC.
+
+STRING_ERROR_CODE_COLON = Code d'erreur:
+
+STRING_PREINSTALL_FAIL = Malheureusement, votre PC ne remplit pas la configuration minimale requise pour pouvoir installer BlueStacks.
+
+STRING_INSUFFICIENT_DISKSPACE = Votre PC n'a pas assez d'espace disponible sur le disque pour BlueStack
+
+STRING_OLD_INSTALLATION_INTERFERING = Il semble qu'une installation existante de BlueStacks interfère avec la tentative d'installation actuelle de BlueStacks.
+
+STRING_FAILED_TO_RESTORE_OLD_DATA = BlueStacks n'a pas pu restaurer vos données précédentes.
+
+STRING_ERROR_OCCURED_DEPLOYING_FILES = BlueStacks a rencontré une erreur lors du déploiement de certains fichiers.
+
+STRING_COULDNT_RESTORE_UNUSABLE = BlueStacks n'a pas pu être restauré à son état antérieur et peut être inutilisable.
+
+STRING_KITKAT_VERSION_REQUIRED_DETAILED = Cette application n'est pas prise en charge sur BlueStacks 4. Veuillez télécharger et installer la dernière version de BlueStacks 3.
+
+STRING_CHECK_FAQ = Vérifiez la FAQ
+
+STRING_INSTALLER = © BlueStacks Systems, Inc., 2018 Tous Droits Réservés Dans le Monde
+
+STRING_PERFORMANCE_SETTINGS = Paramètres de Performance
+
+STRING_SWITCH_HOME = Communication Android standard entre les applications
+
+STRING_CLEAN_BLUESTACKS = Cela affectera complètement le BlueStacks existant ainsi que vos données enregistrées localement.
+
+STRING_HYPERV_ENABLED_WARNING = BlueStacks ne peut pas démarrer lorsque Hyper-V est activé.
+
+STRING_IMPROVE_PERFORMANCE = Améliorer les performances
+
+STRING_IMPROVE_PERFORMANCE_WARNING = BlueStacks peut devenir plus lent et moins réactif.
+
+STRING_PROMO_INFO = Le jeu s'installera après le démarrage
+
+STRING_INSTALL = Téléchargements
+
+STRING_PLAY = Jouer
+
+STRING_MOST_SEARCHED_APPS = Les applications les plus recherchées
+
+STRING_PREREGISTER = Pré-enregistrer
+
+STRING_KILL_WEBTAB = Fermer les pages Web lors de l'exécution du jeu
+
+STRING_LOW_AVAILABLE_RAM_TITLE = La RAM disponible sur votre PC est faible
+
+STRING_LOW_AVAILABLE_RAM_TEXT1 = Vous pouvez rencontrer une performance lente avec BlueStacks à cause de la faible RAM disponible.
+
+STRING_LOW_AVAILABLE_RAM_TEXT2 = S'il vous plaît, veuillez envisager de fermer certains programme pour continuer.
+
+STRING_CHANGE_DEVICE_PROFILE = Veuillez mettre à jour le profil de votre appareil pour jouer à ce jeu
+
+STRING_CHANGE_DEVICE_PROFILE_BODY = Ce jeu peut ne pas fonctionner sur votre appareil. Veuillez changer votre appareil pour continuer à jouer.
+
+STRING_SWITCH_PROFILE = Changer de profil
+
+STRING_SWITCHING_PROFILE = Changement de profil
+
+STRING_SWITCH_PROFILE_FAILED = Impossible de changer le profil de l'appareil
+
+STRING_SWITCH_PROFILE_UPDATED = Le profil de l'appareil a été mis à jour avec succès
+
+STRING_SETUP = Configurer Google
+
+STRING_OLD_KEYMAPPINGS_CANNOT_USE = Vous avez enregistré des mappages de touches personnalisés qui deviendront inutilisables après la mise à niveau.
+
+STRING_WOULD_LIKE_TO_CONTINUE = Voulez-vous continuer?
+
+STRING_CLOSE_GAME = Fermer le jeu
+
+STRING_CLOSE_BLUESTACKS = Fermer Bluestacks
+
+STRING_GAME_CONTROLS_CONTROL_SCHEME = Schéma de contrôle
+
+STRING_BTV = BTV
+
+STRING_REVERT = Revenir
+
+STRING_EDIT_KEYS = Modifier
+
+STRING_SAVE_KEYS = Sauvegarder
+
+STRING_GAME_CONTROLS_WINDOW_HEADER = Contrôles du jeu
+
+STRING_GAME_CONTROLS_WINDOW_EDIT_HEADER = Modifier les contrôle du jeu
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER1 = Appuyez sur Ctrl+Shift+H pour voir cet écran à tout moment.
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER2 = Afficher cet écran au démarrage
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER3 = Astuce - Cliquez sur la boîte de touche pour attribuer une nouvelle touche à l'action concernée et cliquez sur "Enregistrer" pour sauvegarder les modifications.
+
+STRING_ADVANCED_GAME_CONTROLS_WINDOW_HEADER = Contrôles de Jeu Avancés
+
+STRING_ADVANCED_GAME_CONTROLS_ACTION_HEADER = Cliquez ou faites glisser les actions sur l'écran pour lier les touches.
+
+STRING_UNSAVED_CHANGES = Il y a quelques changements non sauvegardés. Voulez-vous enregistrer et quitter?
+
+STRING_CLEAR_CHANGES = Modifications effacées
+
+STRING_REVERT_CHANGES = Les modifications ont été annulées
+
+STRING_SAVE_CHANGES = Changements sauvegardés
+
+STRING_USING_SCHEME = Utilisation du schéma
+
+STRING_MOBA_HERO_DUMMY = Placez le héros au centre de l'écran pour le calibrage
+
+STRING_MOBA_SKILL_CANCEL = Placez le point sur la touche d'annulation
+
+STRING_LOOK_AROUND_MODE = Placez l'icône de l’œil sur le contrôle permettant de regarder autour de soi s'il est disponible
+
+STRING_SHOOT_MODE = Placez l'icône de feu sur le contrôle de l'arme sur l'écran
+
+STRING_AAVIDEO = Didactitiel
+
+Imap_string_MouseRButton = Clic droit
+
+Imap_string_MouseLButton = Clic gauche
+
+Imap_string_MouseMButton = Clic du milieu
+
+IMAP_STRING_Fields = Zones
+
+IMAP_STRING_CATEGORY_Shooting_Mode = Mode de tir
+
+STRING_ADVANCED_GAME_CONTROLS_ACTION_PROFILEHEADER = Choisissez le profil à modifier.
+
+IMAP_Video_Element_Body = Regardez le tutoriel de jeu exclusif avec des astuces pour un jeu optimisé uniquement disponible sur BlueStacks
+
+IMAP_Video_Element_Header = Vidéo exclusive de jeu disponible
+
+IMAP_MOBA_Video_Element_Body = Utilisez votre souris pour améliorer votre expérience de jeu pour tous les jeux de type Mobile battle arena.
+
+IMAP_MOBA_Video_Element_Header = Déplacement et lancement de sort avec la souris
+
+IMAP_Pan_Video_Element_Body = Utilisez votre souris pour améliorer votre expérience de jeu pour n'importe quel FPS ou jeu de tir mobile.
+
+IMAP_Pan_Video_Element_Header = Viser & zoomer avec la souris
+
+STRING_SHOW_GAMING = Afficher le résumé des jeux à la fermeture
+
+STRING_SUBMIT = Soumettre
+
+STRING_TROUBLE_LOGGING = Problème de connexion?
+
+STRING_LET_HELP = Laissez-nous vous aider
+
+STRING_OUTLINE_ISSUE = Veuillez décrire le problème ci-dessous afin que nous puissions comprendre comment nous pouvons vous aider.
+
+STRING_DESC_ISSUE = Décrivez le problème
+
+STRING_HOW_ISSUE = Quelle a été votre expérience?
+
+STRING_YOUR_EMAIL = Votre adresse email
+
+STRING_YOUR_PHONE = Votre numéro de téléphone
+
+STRING_TEN_PHONE_NUMBER = Votre numéro de téléphone comprenant le code du pays
+
+STRING_APPRECIATE_FEEDBACK = Nous apprécions que vous choisissiez BlueStacks pour jouer. Nos experts en expérience client vous contacteront dans les plus brefs délais.
+
+STRING_THANK_YOU = Merci
+
+STRING_RESTART_BLUESTACKS_AFTER_GRAPHICS_CHANGE = Redémarrez BlueStacks pour démarrer dans {0}.
+
+STRING_CHECKING_GRAPHICS_COMPATIBILITY = Vérification de la compatibilité {0}
+
+STRING_GRAPHICS_NOT_SUPPORTED_ON_MACHINE = {0} n'est pas pris en charge sur votre PC.
+
+STRING_GUIDANCE_CATEGORY = Catégorie d'orientation
+
+STRING_ENHANCEMENTS = Améliorations
+
+STRING_TAGS = Tags (Facultatif)
+
+STRING_ENABLE_MODE = Activer le mode
+
+STRING_FIRE_WITH_MOUSE_LEFT = Tirer avec le clic gauche de la souris
+
+STRING_CANCEL_SKILL = Annuler la compétence
+
+STRING_ENABLE_FEATURES = Activer les fonctionnalités
+
+STRING_LOOK_AROUND_MODE_HEADER_TEXT = Mode Regarder autour de soi
+
+STRING_MOBA_CONTROL_MODE = Mode contrôles MOBA
+
+IMAP_STRING_UP = En Haut
+
+IMAP_STRING_CATEGORY_MOVEMENT = Déplacements
+
+IMAP_STRING_DOWN = Vers le bas
+
+IMAP_STRING_LEFT = Gauche
+
+IMAP_STRING_RIGHT = Droite
+
+IMAP_STRING_TAP = Tapoter
+
+IMAP_STRING_CATEGORY_ACTION = Action
+
+IMAP_STRING_SPECIAL_1 = Spécial 1
+
+IMAP_STRING_SPECIAL_2 = Spécial 2
+
+IMAP_STRING_SPECIAL_3 = Spécial 3
+
+IMAP_STRING_SPECIAL_4 = Spécial 4
+
+IMAP_STRING_MAIN_ABILITY = Capacité principale
+
+IMAP_STRING_DRAGON_BALL_ABILITY = Capacité des Dragon Ball
+
+IMAP_STRING_SWITCH_CHARACTER_1 = Changer de Personnage 1
+
+IMAP_STRING_SWITCH_CHARACTER_2 = Changer de Personnage 2
+
+IMAP_STRING_ZOOM_IN = Zoomer
+
+IMAP_STRING_ZOOM_OUT = Dézoomer
+
+IMAP_STRING_CATEGORY_ZOOM = Zoom
+
+IMAP_STRING_TOGGLE_SHOOTING_ = Basculer en mode Prise de vue
+
+IMAP_STRING_SUSPEND_SHOOTING_MODE = Suspendre le mode Prise de vue
+
+IMAP_STRING_SHOOT = Tirer
+
+IMAP_STRING_SENSITIVITY = Sensibilité
+
+IMAP_STRING_PAN_TWEAKS = Modifications
+
+IMAP_STRING_CATEGORY_COMBAT = Combat
+
+IMAP_STRING_FORWARD = Avancer
+
+IMAP_STRING_BACKWARD = Reculer
+
+IMAP_STRING_JUMP = Sauter
+
+IMAP_STRING_CROUCH = Accroupir
+
+IMAP_STRING_WEAPON_4 = Arme 4
+
+IMAP_STRING_RELOAD = Recharger
+
+IMAP_STRING_PRONE = A plat ventre
+
+IMAP_STRING_TAP_KEY = Appuyez sur une touche
+
+STRING_MISC = Divers
+
+IMAP_STRING_HEAL = Soigner
+
+IMAP_STRING_CATEGORY_MISCELLANEOUS = Sportif
+
+IMAP_STRING_WEAPON_3 = Arme 3
+
+IMAP_STRING_INVENTORY = Inventaire
+
+IMAP_STRING_GRENADE = grenade
+
+IMAP_STRING_MAP = Carte
+
+IMAP_STRING_CATEGORY_GENERAL = Général
+
+IMAP_STRING_EJECT = Éjecter
+
+IMAP_STRING_CATEGORY_PARACHUTE = Parachute
+
+IMAP_STRING_ENTER = Entrer
+
+IMAP_STRING_CATEGORY_VEHICLE = Véhicule
+
+IMAP_STRING_ACCELERATE = Accélérer
+
+IMAP_STRING_BRAKE = Freiner
+
+IMAP_STRING_STEER_LEFT = Tourner à gauche
+
+IMAP_STRING_STEER_RIGHT = Tourner à droite
+
+IMAP_STRING_WEAPON_2 = Arme 2
+
+IMAP_STRING_SPRINT = Sprinter
+
+IMAP_STRING_DIVE = Plonger
+
+IMAP_STRING_USE/DRIVE = Utiliser/Conduire
+
+IMAP_STRING_MOVE_FORWARD = Avancer
+
+IMAP_STRING_MOVE_BACKWARD = Reculer
+
+IMAP_STRING_MOVE_LEFT = Se Déplacer à Gauche
+
+IMAP_STRING_MOVE_RIGHT = Se déplacer à Droite
+
+IMAP_STRING_ENTER_SHOOTING_MODE = Entrer dans le mode Prise de Vue
+
+IMAP_STRING_OPEN_DOOR = Ouvrir la porte
+
+IMAP_STRING_CATEGORY_INTERACT = Interagir
+
+IMAP_STRING_HIDE = Cacher
+
+IMAP_STRING_DROP = Déposer
+
+IMAP_STRING_BLOCK = Bloquer
+
+IMAP_STRING_SKILL_1 = Compétence 1
+
+IMAP_STRING_SKILL_2 = Compétence 2
+
+IMAP_STRING_SKILL_3 = Compétence 3
+
+IMAP_STRING_CHARGE_ABILITY = Charger la capacité
+
+IMAP_STRING_SWIPE_UP = Balayer vers le haut
+
+IMAP_STRING_SWIPE_DOWN = Balayer vers le bas
+
+IMAP_STRING_SWIPE_LEFT = Balayer vers la gauche
+
+IMAP_STRING_SWIPE_RIGHT = Balayer vers la droite
+
+IMAP_STRING_SPRINT_AND_SKILL/SPRINT_TACKLE = Sprint et compétences/Sprint
+
+IMAP_STRING_PASS/SWITCH = Passer/Changer
+
+IMAP_STRING_SHOOT/SLIDE_TACKLE = Tirer/Tacle Glissé
+
+IMAP_STRING_THROUGH/2ND_DEFENDER = Par/2ème défenseur
+
+IMAP_STRING_SPRINT/DEFEND = Sprint/Défense
+
+IMAP_STRING_SHOOT/BLOCK = Tirer/Bloquer
+
+IMAP_STRING_PASS = Passer
+
+IMAP_STRING_GAS = Gaz
+
+IMAP_STRING_CATEGORY_GAMEPLAY = Jouabilité
+
+IMAP_STRING_CATEGORY_SKILLS = Compétences
+
+IMAP_STRING_AUTO = Auto
+
+IMAP_STRING_CHANGE_SPEED = Changer la vitesse
+
+IMAP_STRING_OPEN_SETTINGS = Ouvrir les paramètres
+
+IMAP_STRING_MOVE_UP = Déplacer vers le haut
+
+IMAP_STRING_MOVE_DOWN = Descendre
+
+IMAP_STRING_BASIC_ATTACK = Attaque basique
+
+IMAP_STRING_ITEM_1 = Objet 1
+
+IMAP_STRING_ITEM_2 = Objet 2
+
+IMAP_STRING_ITEM_3 = Objet 3
+
+IMAP_STRING_ITEM_4 = Objet 4
+
+IMAP_STRING_PICK_UP = Ramasser
+
+IMAP_STRING_SELF = Soi
+
+IMAP_STRING_CATEGORY_ITEMS = Objets
+
+IMAP_STRING_SWIPE_ITEMS_LEFT = Balayez les éléments vers la gauche
+
+IMAP_STRING_SWIPE_ITEMS_RIGHT = Balayez les éléments vers la droite
+
+IMAP_STRING_QUEST = Quête
+
+IMAP_STRING_BACKPACK = Sac à dos
+
+IMAP_STRING_ATTACK_1 = Attaque 1
+
+IMAP_STRING_CATEGORY_ATTACKS = Attaque
+
+IMAP_STRING_ATTACK_2 = Attaque 2
+
+IMAP_STRING_ATTACK_3 = Attaque 3
+
+IMAP_STRING_ATTACK_4 = Attaque 4
+
+IMAP_STRING_ATTACK_5 = Attaque 5
+
+IMAP_STRING_ATTACK_6 = Attaque 6
+
+IMAP_STRING_QUICKBUY_ITEM_1 = Achat rapide de l'objet 1
+
+IMAP_STRING_CATEGORY_SHOP = Magasin
+
+IMAP_STRING_QUICKBUY_ITEM_2 = Achat rapide de l'objet 2
+
+IMAP_STRING_LEVEL_UP_SPELL_1 = Montée de niveau du sort 1
+
+IMAP_STRING_LEVEL_UP_SPELL_2 = Montée de niveau du sort 2
+
+IMAP_STRING_LEVEL_UP_ULTIMATE = Niveau ultime
+
+IMAP_STRING_ABILITY_1 = Aptitude 1
+
+IMAP_STRING_SPELL_1 = Sort 1
+
+IMAP_STRING_ENABLE_AUTOCAST_SPELL_1 = Activer le lancement du sort 1 automatiquement
+
+IMAP_STRING_CATEGORY_SPELLS = Sorts
+
+IMAP_STRING_ENABLE_AUTOCAST_SPELL_2 = Activer le lancement du sort 2 automatiquement
+
+IMAP_STRING_ULTIMATE = Ultime
+
+IMAP_STRING_ENABLE_AUTOCAST_ULTIMATE = Activer le lancement du sort ultime
+
+IMAP_STRING_OPEN_SHOP = Ouvrir le magasin
+
+IMAP_STRING_ABILITY_2 = Aptitude 2
+
+IMAP_STRING_DASH_RIGHT = Dash droit
+
+IMAP_STRING_DASH_LEFT = Dash gauche
+
+IMAP_STRING_ATTACK = Attaque
+
+IMAP_STRING_SPECIAL_ATTACK = Attaque spéciale
+
+IMAP_STRING_SLIDE = Glisser
+
+IMAP_STRING_HOVERBOARD = Hoverboard
+
+IMAP_STRING_COLLECT = Collecter
+
+IMAP_STRING_CATEGORY_TAP = Tapoter
+
+IMAP_STRING_BUY_LEMONADE_STAND = Acheter un stand de limonade
+
+IMAP_STRING_BUY_NEWSPAPER_STAND = Acheter un stand de journaux
+
+IMAP_STRING_BUY_CAR_WASH = Acheter un lave-auto
+
+IMAP_STRING_BUY_PIZZA_STAND = Acheter un stand de pizza
+
+IMAP_STRING_BUY_DONUT_SHOP = Acheter un magasin de Donut
+
+IMAP_STRING_BUY_SHRIMP_BOAT = Acheter un bateau crevettier
+
+IMAP_STRING_BUY_HOCKEY_TEAM = Acheter une équipe de hockey
+
+IMAP_STRING_BUY_MOVIE_STAND = Acheter un stand de film
+
+IMAP_STRING_BUY_BANK = Acheter une banque
+
+IMAP_STRING_BUY_OIL_COMPANY = Acheter une compagnie pétrolière
+
+IMAP_STRING_REGEN = Régénérer
+
+IMAP_STRING_RECALL = Rappeler
+
+IMAP_STRING_USE_ACTIVE_ABILITY = Utiliser la capacité active
+
+IMAP_STRING_QUICK_BUY_ITEM_1 = Achat rapide de l'objet 1
+
+IMAP_STRING_QUICK_BUY_ITEM_2 = Achat rapide de l'objet 2
+
+IMAP_STRING_UPGRADE_SKILL_1 = Mettre à niveau la compétence 1
+
+IMAP_STRING_ENABLE_AUTOCAST = Activer le lancement automatique
+
+IMAP_STRING_CANCEL_CAST = Annuler le lancement
+
+IMAP_STRING_UPGRADE_SKILL_2 = Mettre à niveau la compétence 2
+
+IMAP_STRING_UPGRADE_SKILL_3 = Mettre à niveau la compétence 3
+
+IMAP_STRING_SCOREBOARD = Tableau des scores
+
+IMAP_STRING_SKILL_4 = Compétence 4
+
+IMAP_STRING_SKILL_5 = Compétence 5
+
+IMAP_STRING_CHAT/CONFIRM = Discuter/Confirmer
+
+IMAP_STRING_SPECIAL_POTIONS = Options spéciales
+
+IMAP_STRING_HEALTH_POTION = Potion de soin
+
+IMAP_STRING_MANA_POTION = Potion de Mana
+
+IMAP_STRING_POWER_SCROLLS = Défilement de puissance
+
+IMAP_STRING_EMOTES = Emotes
+
+IMAP_STRING_CO-OP_SKILL = Compétences de Coopération
+
+IMAP_STRING_CATEGORY_CHARACTERS = Personnages
+
+IMAP_STRING_AUTO_SKILL = Compétences Auto
+
+IMAP_STRING_SUMMON = Invoquer
+
+IMAP_STRING_CATEGORY_SKILL = Compétence
+
+IMAP_STRING_SHOOTING_MODE = Mode de tir
+
+IMAP_STRING_CATEGORY_AIM & SHOOT = Visez et tirez
+
+IMAP_STRING_MOVE_BACK = Reculer
+
+IMAP_STRING_SPRINT_LOCK = Sprint verrouillé
+
+IMAP_STRING_MOUSE_SENSITIVITY = Sensibilité de la souris
+
+IMAP_STRING_WEAPON_1 = Arme 1
+
+IMAP_STRING_FIRING_MODE = Mode de Tir
+
+IMAP_STRING_DRIVE = Conduire
+
+IMAP_STRING_GET_IN = Entrer
+
+IMAP_STRING_EXIT = Quitter
+
+IMAP_STRING_BOOST = Boost
+
+IMAP_STRING_LEAN_LEFT = Se pencher à Gauche
+
+IMAP_STRING_LEAN_RIGHT = Se pencher à Droite
+
+IMAP_STRING_CHAT = Tchat
+
+IMAP_STRING_CATEGORY_CHAT = Tchat
+
+IMAP_STRING_SEND = Envoyer
+
+IMAP_STRING_USE_MIC = Utiliser le Micro
+
+IMAP_STRING_VOICE_CHANNEL = Canal Vocal
+
+IMAP_STRING_SWIM_UP = Nager à la surface
+
+IMAP_STRING_SWIM_DOWN = Nager vers le bas
+
+IMAP_STRING_SCOPE = Portée
+
+IMAP_STRING_JUMP_PARACHUTE = Sauter en parachute
+
+IMAP_STRING_DOOR = Porte
+
+IMAP_STRING_SPRINT_(HOLD) = Sprint (maintenir)
+
+IMAP_STRING_CATEGORY_CONTROLS = Commandes
+
+IMAP_STRING_INTERACT = Interagir
+
+IMAP_STRING_MELEE_/_SHOOT = Mêlée/Tirer
+
+IMAP_STRING_BLUEPRINTS = Plans
+
+IMAP_STRING_PLAYER_INVENTORY = Inventaire du joueur
+
+IMAP_STRING_BUILDING_MENU = Menu de construction
+
+IMAP_STRING_PAUSE = Pause
+
+IMAP_STRING_AUTO_MODE = Mode auto
+
+IMAP_STRING_Tap_Settings = Paramètres du touché
+
+IMAP_STRING_Dpad_Settings = Paramètres du D-pad
+
+IMAP_STRING_DPAD_XRadius = Rayon
+
+IMAP_STRING_DPAD_KeyUp = En Haut
+
+IMAP_STRING_DPAD_KeyDown = Vers le bas
+
+IMAP_STRING_DPAD_KeyLeft = Gauche
+
+IMAP_STRING_DPAD_KeyRight = Droite
+
+IMAP_STRING_TILT_KeyUp = En Haut
+
+IMAP_STRING_TILT_KeyDown = Vers le bas
+
+IMAP_STRING_TILT_KeyLeft = Gauche
+
+IMAP_STRING_TILT_KeyRight = Droite
+
+IMAP_STRING_DPAD_KeySpeedModifier1 = Modificateur de vitesse 1
+
+IMAP_STRING_DPAD_XRadius1 = Rayon 1
+
+IMAP_STRING_DPAD_KeySpeedModifier2 = Modificateur de vitesse 2
+
+IMAP_STRING_DPAD_XRadius2 = Rayon 2
+
+IMAP_STRING_DPAD_ActivationTime = Temps d'activation
+
+IMAP_STRING_DPAD_ActivationSpeed = Vitesse d'activation
+
+IMAP_STRING_DPAD_Speed = Vitesse
+
+IMAP_STRING_MOBADPAD_CharSpeed = Vitesse du héros
+
+IMAP_STRING_MOBADPAD_OriginX = Position X du Héros
+
+IMAP_STRING_MOBADPAD_OriginY = Position Y du Héros
+
+IMAP_STRING_Zoom_Settings = Paramètres du zoom
+
+IMAP_STRING_ZOOM_Radius = Rayon
+
+IMAP_STRING_ZOOM_KeyIn = Zoomer
+
+IMAP_STRING_ZOOM_KeyOut = Dézoomer
+
+IMAP_STRING_ZOOM_KeyModifier = Modifier la touche
+
+IMAP_STRING_ZOOM_Mode = Mode
+
+IMAP_STRING_ZOOM_Override = Ignorer
+
+IMAP_STRING_Pan_Settings = Paramètres du zoom
+
+IMAP_STRING_PAN_KeyStartStop = Commencer arrêter
+
+IMAP_STRING_PAN_KeySuspend = Interrompre
+
+IMAP_STRING_PAN_Sensitivity = Sensibilité de la souris
+
+IMAP_STRING_PAN_KeyLookAround = Regard libre
+
+IMAP_STRING_PAN_LookAroundX = Position X du regard libre
+
+IMAP_STRING_PAN_LookAroundY = Position Y du regard libre
+
+IMAP_STRING_PAN_KeyAction = Action
+
+IMAP_STRING_PAN_LButtonX = Position X de l'action
+
+IMAP_STRING_PAN_LButtonY = Position Y de l'action
+
+IMAP_STRING_MOBASkill_DeadZoneRadius = Rayon de la zone morte
+
+IMAP_STRING_MOBASkill_XRadius = Rayon
+
+IMAP_STRING_MOBASkill_Settings = Paramètres des compétences MOBA
+
+IMAP_STRING_MOBASKILL_KeyActivate = Activer
+
+IMAP_STRING_MOBASKILL_KeyAutocastToggle = Basculer en lancement automatique
+
+IMAP_STRING_MOBASKILL_CancelSpeed = Annuler la vitesse
+
+IMAP_STRING_MOBASKILL_KeyCancel = Annuler
+
+IMAP_STRING_Swipe_Settings = Paramètres de balayage
+
+IMAP_STRING_SWIPE_X1 = X
+
+IMAP_STRING_SWIPE_Y1 = Y
+
+IMAP_STRING_MOBASKILL_X = X
+
+IMAP_STRING_MOBASKILL_Y = Y
+
+IMAP_STRING_TAP_X = X
+
+IMAP_STRING_TAP_Y = Y
+
+IMAP_STRING_ZOOM_X = X
+
+IMAP_STRING_ZOOM_Y = Y
+
+IMAP_STRING_DPAD_X = X
+
+IMAP_STRING_DPAD_Y = Y
+
+IMAP_STRING_PAN_X = X
+
+IMAP_STRING_PAN_Y = Y
+
+IMAP_STRING_SWIPE_Hold = Balayez et maintenez
+
+IMAP_STRING_SWIPE_True = Vrai
+
+IMAP_STRING_SWIPE_False = Faux
+
+IMAP_STRING_SWIPE_KeyUp = Balayer vers le haut
+
+IMAP_STRING_SWIPE_KeyDown = Balayer vers le bas
+
+IMAP_STRING_SWIPE_KeyLeft = Balayer vers la gauche
+
+IMAP_STRING_SWIPE_KeyRight = Balayer vers la droite
+
+IMAP_STRING_TILT_Settings = Paramètres de l'inclinaison
+
+IMAP_STRING_TILT_Speed = Vitesse
+
+IMAP_STRING_ZOOM_Speed = Vitesse
+
+IMAP_STRING_SWIPE_Speed = Vitesse
+
+IMAP_STRING_SWIPE_Radius = Rayon
+
+IMAP_STRING_TILT_MaxAngle = Angle d'inclinaison max
+
+IMAP_STRING_TILT_AutoReset = Réinitialisation automatique
+
+IMAP_STRING_MOBASkill_Header_Edit_UI = MOBA Skill Pad
+
+IMAP_STRING_MOBASkill_Description_Edit_UI = Mappez la direction des sorts en utilisant le D-pad spécial
+
+IMAP_STRING_Dpad_Header_Edit_UI = D-pad
+
+IMAP_STRING_Dpad_Description_Edit_UI = Tracer le mouvement de votre personnage ou du stick analogique du jeu avec le clavier.
+
+IMAP_STRING_Tilt_Header_Edit_UI = Inclinaison
+
+IMAP_STRING_Tilt_Description_Edit_UI = Si vous devez incliner ou faire pivoter, utilisez ce contrôle.
+
+IMAP_STRING_Swipe_Header_Edit_UI = Balayer
+
+IMAP_STRING_Swipe_Description_Edit_UI = Faire glisser la carte vers les touches du clavier.
+
+IMAP_STRING_Pan_Header_Edit_UI = Viser, Zoomer & Tirer
+
+IMAP_STRING_Pan_Description_Edit_UI = Utilisez votre souris pour tirer tout en visant et en regardant autour de vous
+
+IMAP_STRING_Zoom_Header_Edit_UI = Zoom
+
+IMAP_STRING_Zoom_Description_Edit_UI = Ajouter un zoom avant ou arrière à l'écran prenant en charge pincer pour zoomer
+
+IMAP_STRING_Tap_Header_Edit_UI = Tap spot
+
+IMAP_STRING_Tap_Description_Edit_UI = Assignez un tapotement sur un point avec cette action pour ne pas avoir à utiliser votre souris.
+
+STRING_ENTER_GUIDANCE_TEXT = Entrer le texte d'orientation
+
+STRING_FOLDER_CANNOT_CONTAIN_FOLLOWING_SPECIAL_CHARS = Le chemin sélectionné ne peut contenir aucun des caractères suivants:
+
+STRING_INSTANCE_MANAGER = Gestionnaire d'instance
+
+STRING_DELETE_APPS = Supprimer les applications
+
+STRING_NEW_INSTANCE = Nouvelle instance
+
+IMAP_STRING_SPEED = Vitesse
+
+IMAP_STRING_CATEGORY_SWIPE = Balayer
+
+IMAP_STRING_HEAD_LIGHTS = Phares
+
+IMAP_STRING_RESET_ = Réinitialiser
+
+IMAP_STRING_HAND_BREAK = Frein à main
+
+IMAP_STRING_VIEW = Voir
+
+IMAP_STRING_CATEGORY_AIM = & SHOOT = Visez et tirez
+
+IMAP_STRING_BACKWARDS = En arrière
+
+IMAP_STRING_SLOW_DOWN = Ralentir
+
+IMAP_STRING__ACTIVATE = Activer
+
+IMAP_STRING_CATEGORY_CONTROL CAMERA = Caméra de contrôle
+
+IMAP_STRING_GUN = Pistolet
+
+IMAP_STRING_NITRO = Nitro
+
+IMAP_STRING_GEAR_SHIFT = Changer de vitesse
+
+IMAP_STRING_CATEGORY_SHOOTING MODE = Mode Shooting
+
+IMAP_STRING_SWITCH_GUN = Changer d'arme
+
+IMAP_STRING_DUCK = Esquiver
+
+IMAP_STRING_BASIC = Basique
+
+IMAP_STRING_SUSPEND = Suspendre
+
+IMAP_STRING_NINTROUS = Nitro
+
+IMAP_STRING_DRIFT = Drift
+
+IMAP_STRING_THROTTLE = Accélérer
+
+IMAP_STRING_MOVE_CAMERA = Déplacer la caméra
+
+IMAP_STRING_HOLD_ROTATE_CAMERA = Tenir la caméra en rotation
+
+IMAP_STRING_CATEGORY_CAMERA = Appareils Photo
+
+IMAP_STRING_PUNCH = Coup de poing
+
+IMAP_STRING_EXIT_SHOOTING_MODE = Quitter le Mode Shooting
+
+IMAP_STRING_STAND/DUCK = Rester/Esquiver
+
+IMAP_STRING_ZOOM = Zoom
+
+IMAP_STRING_HEALTH_ = Santé
+
+IMAP_STRING_HEALTH = Santé
+
+IMAP_STRING_BOMB = Bombe
+
+IMAP_STRING_DOWNARD = Vers le bas
+
+IMAP_STRING_ROLL = Rouler
+
+IMAP_STRING_BLAST = Détruire
+
+IMAP_STRING_TILT_LEFT = Incliner vers la gauche
+
+IMAP_STRING_TILT_RIGHT = Incliner vers la droite
+
+IMAP_STRING_ULTRA_ATTACK = Attaque ultra
+
+IMAP_STRING_USE_MP_POTION = Utiliser la Potion de Mana
+
+IMAP_STRING_USE_HP_POTION = Utiliser la Potion de Vie
+
+IMAP_STRING_AUTO_KILL = Compétences Auto
+
+IMAP_STRING_ABILITY_3 = Aptitude 3
+
+IMAP_STRING_ABILITY_4 = Aptitude 4
+
+IMAP_STRING_SPECIALITY = Spécialité
+
+IMAP_STRING_TARGET = Cible
+
+IMAP_STRING_BACKWORD = Backword
+
+IMAP_STRING_COVER/UNCOVER = Couvrir/Découvrir
+
+IMAP_STRING_SECONDARY_WEAPON = Arme secondaire
+
+IMAP_STRING_CALL_SUPPORT_DRONE = Appeler le drone d'aide
+
+IMAP_STRING_CATEGORY_CONTROL = CAMERA = Caméra de contrôle
+
+IMAP_STRING_SWAP = Troquer
+
+IMAP_STRING_SWAP_WEAPON = Échanger d'arme
+
+IMAP_STRING_LIGHTNING_ATTACK = Attaque éclair
+
+IMAP_STRING_SUMMON_ALLY_1 = Invocation de l'allié 1
+
+IMAP_STRING_SUMMON_ALLY_2 = Invocation de l'allié 2
+
+IMAP_STRING_KATANA_ATTACK = Attaque au katana
+
+IMAP_STRING_SUMMON_ALLY_3 = Invocation de l'allié 3
+
+IMAP_STRING_SUMMON_ALLY_4 = Invocation de l'allié 4
+
+IMAP_STRING_SPELL_2 = Sort 2
+
+IMAP_STRING_SPELL_3 = Sort 3
+
+IMAP_STRING_SPELL_4 = Sort 4
+
+IMAP_STRING_FREE_LOOK = Regard libre
+
+IMAP_STRING_FIRE = Feu
+
+IMAP_STRING_CROUCH/SWIM_DOWN = S'accroupir/Nager vers le bas
+
+IMAP_STRING_JUMP_OUT_OF_PLANE = Sauter de l'avion
+
+IMAP_STRING_OPEN_HEALING_ITEMS = Ouvrir les objets de guérison
+
+IMAP_STRING_MELEE_WEAPON = Arme de mêlée
+
+IMAP_STRING_USE_SCOPE = Utiliser le viseur
+
+IMAP_STRING_CHANGE_FIRING_MODE = Changement de Mode de Tir
+
+IMAP_STRING_AUTO_RUN = Course automatique
+
+IMAP_STRING_GRENADES = Grenades
+
+IMAP_STRING_DRIVE_VEHICLE = Conduire le véhicule
+
+IMAP_STRING_ENTER_VEHICLE = Entrer dans le véhicule
+
+IMAP_STRING_THROTTLE_UP = Accélérer
+
+IMAP_STRING_THROTTLE_DOWN = Décélerer
+
+IMAP_STRING_CHANGE_GEAR = Changer de vitesse
+
+IMAP_STRING_LOW_SHOOT = Tir Modéré
+
+IMAP_STRING_HIGH_SHOOT = Tir Supérieur
+
+IMAP_STRING_OPEN_SKILLS = Ouvrir les compétences
+
+IMAP_STRING_LAUCH_MISSILE/TORPEDO = Lancer un Missile/Torpille
+
+IMAP_STRING_TILT_UP = Incliner vers le haut
+
+IMAP_STRING_TILT_DOWN = Incliner vers le bas
+
+IMAP_STRING_CATEGORY_TILT = Inclinaison
+
+IMAP_STRING__ATTACK = Attaque
+
+IMAP_STRING_SIDE_STEP = Marche latérale
+
+IMAP_STRING_DODGE = Esquiver
+
+IMAP_STRING_MEDIUM_ATTACK = Attaque moyenne
+
+IMAP_STRING_HIT = Frapper
+
+IMAP_STRING_BULLETS = Balles
+
+IMAP_STRING_CATEGORY_ACTIONS = Actions
+
+IMAP_STRING_SWORD = Épée
+
+IMAP_STRING_CATEGORY_ATTACK = Attaque
+
+IMAP_STRING_SPEED_MODIFIER = Modifier la vitesse
+
+IMAP_STRING_IN = Dedans
+
+IMAP_STRING_OUT = Dehors
+
+IMAP_STRING_ATTACK2 = Attaque 2
+
+IMAP_STRING_MODIFIER = Modificateur
+
+IMAP_STRING_START_SHOOTING_MODE = Démarrer le mode Shooting
+
+IMAP_STRING_CHANGE_CHARACTER = Changer de personnage
+
+IMAP_STRING_CATEGORY_SWAP = Troquer
+
+IMAP_STRING_SPLIT = Diviser
+
+IMAP_STRING_SHOOT/SPLIT = Tirer/Diviser
+
+IMAP_STRING_RACE = Course
+
+IMAP_STRING_MISSILES = Missiles
+
+IMAP_STRING_GEAR_DOWN = Démonter
+
+IMAP_STRING_GEAR_UP = Préparer
+
+IMAP_STRING_REV = Tour
+
+IMAP_STRING_KICK = Coup de pied
+
+IMAP_STRING_SHADOW_ABILITY = Capacité de l'ombre
+
+IMAP_STRING_RUN = Commencer
+
+IMAP_STRING_MOVE_FORWARD/_RUN = Avancer/ courir
+
+IMAP_STRING_MOVE__DOWNWARD = Déplacer vers le bas
+
+IMAP_STRING_LOOK_AROUND = Regarder autour
+
+IMAP_STRING_SIT = S'asseoir
+
+IMAP_STRING_PICK = Ramasser
+
+IMAP_STRING_MUTE/UNMUTE_MIC = Mute/Unmute mic
+
+IMAP_STRING_MUTE/UNMUTE_SPEAKER = Mute/Unmute les enceintes
+
+IMAP_STRING_OPEN/CLOSE = Ouvrir/Fermer
+
+IMAP_STRING_BAG = Sac
+
+IMAP_STRING_RIDE = Conduire
+
+IMAP_STRING_LOCK_RUNNING = Verrouiller la course
+
+IMAP_STRING_USE_PARACHUTE = Utiliser le parachute
+
+IMAP_STRING_OPEN_DOOR/DRIVE_VEHICLE = Ouvrir la porte/Conduire le véhicule
+
+IMAP_STRING_RIDE_VEHICLE = Conduire le véhicule
+
+IMAP_STRING_RAGE_SKILL = Compétence de rage
+
+IMAP_STRING_SHIELD = Bouclier
+
+IMAP_STRING_TURN = Tourner
+
+IMAP_STRING_CLIMB = Grimper
+
+IMAP_STRING_AMMO = Munitions
+
+IMAP_STRING_START_OR_STOP = Démarrer ou arrêter
+
+IMAP_STRING_L = L
+
+IMAP_STRING_R = R
+
+IMAP_STRING_BREAK = Pause
+
+IMAP_STRING_REVERSE = Sens inverse
+
+IMAP_STRING_HORN = Klaxon
+
+IMAP_STRING_HEAD_LIGHT = Phares
+
+IMAP_STRING_PARKING_LIGHT = Lumière de Stationnement
+
+IMAP_STRING_LEFT_INDICATOR = Indicateur gauche
+
+IMAP_STRING_RIGHT_INDICATOR = Indicateur Droit
+
+IMAP_STRING_WIPERS = Essuie-glaces
+
+IMAP_STRING_CAMERA = Appareils Photo
+
+IMAP_STRING_NITROS = Nitro
+
+IMAP_STRING_LIGHT_ATTACK = Attaque légère
+
+IMAP_STRING_STRONG_ATTACK = Attaque forte
+
+IMAP_STRING_TAG = Tag
+
+IMAP_STRING_ENABLE_ATTACK_1 = Activer l'attaque 1
+
+IMAP_STRING_ENABLE_ATTACK_2 = Activer l'attaque 2
+
+IMAP_STRING_ENABLE_ATTACK_3 = Activer l'attaque 3
+
+IMAP_STRING_TELEPORT = Se téléporter
+
+IMAP_STRING_OBSERVE = Observer
+
+IMAP_STRING_ENABLE_ATTACK_4 = Activer l'attaque 4
+
+IMAP_STRING_LEFT_ = Gauche
+
+IMAP_STRING_RIGHT_ = Droite
+
+IMAP_STRING_MP_PORTION = Potion de Mana
+
+IMAP_STRING_DRIFT_MODE/GRIP_MODE = Mode drift/Mode Adhérent
+
+IMAP_STRING_BRAKES = Freins
+
+IMAP_STRING_HEADLIGHTS = Phares
+
+IMAP_STRING_ACCELERATOR = Accélérateur
+
+IMAP_STRING_MAGNET = Aimant
+
+IMAP_STRING_FLY = Piloter
+
+IMAP_STRING_AUTO_PLAY = Jeu Auto
+
+IMAP_STRING_TOGGLE_AUTOCAST = Activer le lancement automatique
+
+IMAP_STRING_ATTACK_ENEMIES = Attaquer les ennemis
+
+IMAP_STRING_ATTACK_TOWER = Attaquer la tour
+
+IMAP_STRING_USE_ITEM_1 = Utiliser l'objet 1
+
+IMAP_STRING_QUICK_BUY_ITEMS = Achat rapide d'objets
+
+IMAP_STRING_VIEW_SCOREBOARD = Voir le tableau des scores
+
+IMAP_STRING_USE_ITEM_2 = Utiliser l'objet 2
+
+IMAP_STRING_TOGGLE_AUTO_CAST = Activer le lancement automatique
+
+IMAP_STRING_SHOP = Magasin
+
+IMAP_STRING_ACTIVE_2 = Actif 2
+
+IMAP_STRING_ACTIVE_1 = Actif 1
+
+IMAP_STRING_CHANGE_CAMERA = Changer de caméra
+
+IMAP_STRING_NITROUS = Nitro
+
+IMAP_STRING_ACTIONS = Actions
+
+IMAP_STRING_CATEGORY_SHOOTING = MODE = Mode Shooting
+
+IMAP_STRING_AUTO_PILOT = Pilotage automatique
+
+IMAP_STRING_REPAIR = Réparer
+
+IMAP_STRING_CHANGE_VIEW = Changer de vue
+
+IMAP_STRING_BACK_FLIP = Back flip
+
+IMAP_STRING_FRONT_FLIP = Front Flip
+
+IMAP_STRING_SPECIAL_ABILITY = Capacité spéciale
+
+IMAP_STRING_SKILL = Compétence
+
+IMAP_STRING_RESET = Réinitialiser
+
+IMAP_STRING_JAB = Coup direct
+
+IMAP_STRING_PUNCH_RIGHT = Frappe droite
+
+IMAP_STRING_PUNCH_LEFT = Frappe gauche
+
+IMAP_STRING_SPECIAL_SKILL = Compétence spéciale
+
+IMAP_STRING_RAGE = Rage
+
+IMAP_STRING_BUY_BULLETS = Acheter des balles
+
+IMAP_STRING_CHANGE_DIRECTION = Changer la direction
+
+IMAP_STRING_ZOOM_UP = Zoomer
+
+IMAP_STRING_CATCH = Attraper
+
+IMAP_STRING_UPWARD = Vers le haut
+
+IMAP_STRING_DOWNWARD = Vers le bas
+
+IMAP_STRING_THROUGH = Par
+
+IMAP_STRING_CLEAR/SHOOT = Effacer/Tirer
+
+IMAP_STRING_DASH = Dash
+
+IMAP_STRING_FALL_BACK = Se retirer
+
+IMAP_STRING_AUTO_REPLAY = Replay auto
+
+IMAP_STRING_FIGHT = Combattre
+
+IMAP_STRING_ACTION_1 = Action 1
+
+IMAP_STRING_ACTION_2 = Action 2
+
+IMAP_STRING_ACTION_3 = Action 3
+
+IMAP_STRING_ACTION_4 = Action 4
+
+IMAP_STRING_CONSTRUCT = Construire
+
+IMAP_STRING_HOLD = Maintenir
+
+STRING_HOT_PINK_THEME = Rose
+
+STRING_LINEAGE2_REVOLUTION_THEME = Lineage 2 Revolution
+
+STRING_COOL_BLUE_THEME = Bleu
+
+STRING_GET_XPACKS_TITLE = Cliquez pour télécharger xPack
+
+STRING_VIEW_XPACK_TITLE = Cliquez pour voir xPack
+
+IMAP_STRING_DEFUSE/SHOP = Désamorcer/Magasiner
+
+IMAP_STRING_TOGGLE_SHOOTING_MODE = Basculer en mode Prise de vue
+
+IMAP_STRING_FIRE_WEAPON = Arme à feu
+
+IMAP_STRING_HEALING = Guérir
+
+IMAP_STRING_FREEFALL = Chute libre
+
+IMAP_STRING_PICK_UP_ITEM_4 = Ramasser l'objet 4
+
+IMAP_STRING_PICK_UP_ITEM_3 = Ramasser l'objet 3
+
+IMAP_STRING_PICK_UP_ITEM_2 = Ramasser l'objet 2
+
+IMAP_STRING_PICK_UP_ITEM_1 = Ramasser l'objet 1
+
+IMAP_STRING_CATEGORY_DRIVING = Conduire
+
+STRING_DUPLICATE_KEY_WARNING = Cette clé est déjà affectée à une action différente mais vous pouvez l'utiliser pour les deux.
+
+STRING_WAIT_WHILE_UPDATE_BLUESTACKS = Veuillez patienter pendant que nous mettons à jour le client BlueStacks vers la dernière version.
+
+STRING_DONT_LAUNCH_BS_WHILE_UPDATING = Pour éviter la perte de données - pendant que cette mise à jour est en cours, ne lancez pas BlueStacks ou ne le terminez pas en fermant cette fenêtre.
+
+STRING_UPDATING = Mise à jour de BlueStacks
+
+STRING_CAUTION_CUSTOM_CFG_UNUSABLE_AFTER_UPGRADE = La mise à jour ne pourra malheureusement pas conserver les commandes du clavier que vous avez sauvegardées, elles seront perdues.
+
+IMAP_STRING_VEHICLE_BOOST = Boost de véhicule
+
+STRING_BLUESTACKS_STORE = Magasin BlueStacks
+
+IMAP_STRING_SPACE = Espace
+
+STRING_BEFORE_YOU_RESTORE  =  Avant de restaurer
+
+STRING_CAUTION_CUSTOM_CFG_UNUSABLE_AFTER_RESTORE = Mise en garde! Si vous avez des contrôles de clavier personnalisés, ils seront écrasés par la restauration et vous les perdrez.
+
+STRING_DATA_MANAGER_INFO_FILE_MISSING = Malheureusement, il n'est pas possible de restaurer les données d'une sauvegarde créée à l'aide d'une version plus ancienne de BlueStacks vers la dernière.
+
+STRING_OVERLAY = Overlay
+
+STRING_SHOW_ON_OVERLAY = Afficher les touches sur l'overlay
+
+STRING_POWER_PLAN = Ajuster le réglage du power plan
+
+STRING_POWER_PLAN_BODY = Ajustez vos paramètres du power plan sur Haute Performance pour accélérer BlueStacks.
+
+STRING_POWER_PLAN_HYPERLINK = Changer le power plan maintenant
+
+STRING_TERMS_OF_USE =  © BlueStacks Systems, Inc., 2011 à 2019, Tous Droits Réservés Dans le monde. En utilisant BlueStacks, vous acceptez nos
+
+STRING_TERMS_OF_USE_LINK = Conditions d'Utilisation
+
+STRING_AUDIO_SERVICE_FAILURE = Impossible d'initialiser l'audio
+
+STRING_AUDIO_SERVICE_FAILUE_FIX = Essayez de redémarrer votre ordinateur pour résoudre le problème.
+
+STRING_AUDIO_SERVICE_FAILURE_ALTERNATE_FIX = Si le problème persiste, envisagez de mettre à jour les pilotes audio de votre système.
+
+STRING_READ_MORE = En savoir plus
+
+STRING_MORE_APPS = Plus d'applications
+
+STRING_ANTIVIRUS_ISSUE = Conflit d'Antivirus
+
+STRING_ANTIVIRUS_ISSUE_HEADER = Certains paramètres du logiciel antivirus sur votre PC interfèrent avec la connectivité réseau.
+
+STRING_TECHNICAL_TIP =	Conseil technique -
+
+STRING_ANTIVIRUS_ISSUE_FIX = Essayez de désactiver les paramètres antivirus pour l'analyse et l'interception HTTPS pour des connexions sécurisées et redémarrez votre PC.
+
+STRING_SEE_HOW_TO_FIX = Voir comment réparer
+
+STRING_DELETE_COMBO_HEADER = Supprimer l'enregistrement?
+
+STRING_DELETE_COMBO_BODY = Cette séquence sera perdue et vous devrez enregistrer à nouveau pour continuer. Etes-vous sûr de vouloir la supprimer?
+
+STRING_SAVE_COMBO_HEADER = Sauvegarder la séquence de touches
+
+STRING_SAVE_COMBO_BODY = Donnez à votre séquence un nom et une touche de raccourci. Donnez-lui un nom qui vous aidera à vous souvenir de l'action qu'elle effectue.
+
+STRING_COMBO_DESCRIPTION = Nommer la séquence
+
+STRING_COMBO_SHORTCUT_KEY = Touche de Raccourci
+
+STRING_NO_SEQUENCES = Pas de Séquences
+
+STRING_RECORD_SEQUENCE = Utilisez l'icône [+] pour enregistrer une séquence
+
+STRING_RECORD_NEW_SEQUENCE_TITLE = Enregistrer une nouvelle séquence
+
+STRING_RECORD_NEW_SEQUENCE_BODY = Vous pouvez également utiliser les commandes de clavier existantes lors de l'enregistrement.
+
+STRING_START_RECORDING = Commencer l'enregistrement
+
+STRING_STOP_RECORDING = Arrêter l'enregistrement
+
+IMAP_STRING_MOBASKILL_NOCANCELONSWITCH = Aucune annulation sur le commutateur
+
+IMAP_STRING_PAN_SENSITIVITYRATIOY = Ratio de Sensibilité Y
+
+STRING_POST_OTS_SUCCESS_MESSAGE = Vous vous êtes connecté avec succès.
+
+STRING_POST_OTS_SUCCESS_BUTTON_MESSAGE = Commencer à utiliser BlueStacks
+
+STRING_POST_OTS_SYNCING_MESSAGE = Synchroniser un compte BlueStacks
+
+STRING_POST_OTS_SYNCING_BUTTON_MESSAGE = Veuillez patienter...
+
+STRING_POST_OTS_FAILED_MESSAGE = Nous n'avons pas pu synchroniser vos données
+
+STRING_POST_OTS_FAILED_BUTTON_MESSAGE = Veuillez réessayer
+
+STRING_POST_OTS_FAILED_WARNING_MESSAGE = Veuillez vérifier votre connexion à internet et réessayez s'il vous plaît.
+
+STRING_KEY_SEQUENCE = Séquences de touche
+
+STRING_COMBO_SEQUENCES_LIST = Les séquences/combo sont listées ici.
+
+STRING_DISCARD = Supprimer
+
+STRING_DISCARD_COMBO_HEADER = Supprimer l'enregistrement?
+
+STRING_DISCARD_COMBO_BODY = L'ensemble de votre progression sera perdu, êtes-vous sûr de vouloir annuler l'enregistrement en cours?
+
+STRING_ADD = Ajouter
+
+IMAP_STRING_MOUSEXBUTTON1  = X bouton1
+
+IMAP_STRING_MOUSEXBUTTON2 = X bouton 2
+
+STRING_CHANGE_LOG = Quoi de neuf
+
+STRING_USE_2GB = Utilisera 2Go
+
+STRING_RESTORE_NOT_PERMITTED = BlueStacks ne prend pas en charge la restauration des données d'une sauvegarde provenant d'une version plus récente de BlueStacks vers une version plus ancienne.
+
+STRING_RESTORE_WARNING = Vous souhaitez restaurer les données d'une sauvegarde d'une ancienne version de BlueStacks vers une nouvelle. Sachez que la restauration risque de ne pas aboutir.
+
+STRING_RESTORE_NOT_POSSIBLE = Malheureusement, il n'est pas possible de restaurer les données d'une sauvegarde créée à l'aide d'une version plus ancienne de BlueStacks vers la dernière.
+
+STRING_BACKUP_AND_RESTORE = Sauvegarde et MAJ
+
+STRING_BACKUP_AND_RESTORE_SETTINGS_DETAIL = Créer une sauvegarde ou restaurer une sauvegarde existante de vos données d'utilisateur, jeux installés, commandes et paramètres du clavier.
+
+STRING_BACKUP_AND_RESTORE_SETTINGS_WARNING = Les sauvegardes ne peuvent être restaurées avec succès que vers la version à partir de laquelle elles ont été créées.
+
+STRING_BACKUP_CURRENT_DATA = Sauvegarder les données actuelles
+
+STRING_RESTORE_AN_EXISTING_BACKUP = Restaurer une sauvegarde existante
+
+STRING_ON_SCREEN_CONTROLS_TITLE = Contrôles à l'écran
+
+STRING_ON_SCREEN_CONTROLS_BODY = Cliquez sur l'icône en forme d’œil pour afficher les touches de commande de ce jeu.
+
+STRING_UNFORTUNATELY_COULDNT_UPGRADE = La mise à jour n'a pas fonctionné. Rétablissement de BlueStacks à l'état dans lequel il se trouvait avant le début de la mise à jour.
+
+STRING_CANCEL_COMBO = Appuyez sur F12 pour annuler la combinaison en cours.
+
+STRING_ADD_TOUCH_CONTROLS = Ajouter des commandes tactiles
+
+STRING_CONFIGURATION_ACTIONS = Configuration actuelle des actions
+
+STRING_ROLLBACK_FAILED_SORRY_MESSAGE = Nous sommes profondément désolés, mais la mise à jour et l'annulation ultérieure ont échoué et il n'est plus possible de restaurer BlueStacks dans l'état dans lequel il se trouvait avant le début de la mise à jour. Malheureusement, vous ne pouvez désinstaller que la version existante de BlueStacks et installer la dernière version de BlueStacks à partir du site Web.
+
+STRING_UPGRADE_BST_FULL = L'installation de ce jeu mettra à niveau le BlueStacks existant sur votre PC vers le BlueStacks standard.
+
+STRING_USE_2GB = Utilisera 2Go
+
+STRING_CANCEL_COMBO = Appuyez sur F12 pour annuler la combinaison en cours.
+
+STRING_ADD_TOUCH_CONTROLS = Ajouter des commandes tactiles
+
+STRING_CONFIGURATION_ACTIONS = Configuration actuelle des actions
+
+STRING_DOWNLOADING_INSTALLING_GAME = Téléchargement et installation du jeu
+
+STRING_DONT_CLOSE_WINDOW_WHILE_DOWNLOADING_GAME = Ne fermez pas l'application et ne vous déconnectez pas d'internet pendant le téléchargement des données du jeu
+
+STRING_ERROR_WHILE_DOWNLOADING_GAME = Une erreur s'est produite lors de la tentative de téléchargement des données du jeu
+
+STRING_UPGRADE_BST_FULL = L'installation de ce jeu mettra à niveau le BlueStacks existant sur votre PC vers le BlueStacks standard.
+
+STRING_UPGRADE_SINGLE_GAME_TO_FULL = L'installation de ce jeu mettra à niveau le BlueStacks existant sur votre PC vers le BlueStacks standard.
+
+STRING_GAME_DOWNLOADED_SUCCESS = Jeu téléchargé avec succès
+
+STRING_PLAY_GAME = Jouer au jeu
+
+STRING_THIS_WILL_UPGRADE_SINGLE_GAME_TO_FULL = L'installation de ce jeu mettra à niveau le BlueStacks existant sur votre PC vers le BlueStacks standard.
+
+STRING_LAUNCH_BLUESTACKS_FROM_DESK_SHORTCUT = Veuillez lancer BlueStacks à partir de votre bureau après la fermeture du jeu en cours.
+
+STRING_UPGRADING_TEXT = Mise à niveau
+
+STRING_CONTAINS_INVALID_CHARACTER = Le nom que vous avez entré contient un ou plusieurs caractères non valides. Veuillez entrer un nom valide qui ne contient aucun des caractères suivants:
+
+STRING_CANCEL_RECORDING = Annuler l'enregistrement
+
+STRING_RESTORE_CONFIG = Voulez-vous restaurer?
+
+STRING_RESTORE_CHANGES = Changements restaurés
+
+STRING_INSTALL_GAME = Installer le jeu
+
+STRING_UPGRADE_BLUESTACKS = Mettre à jour BlueStacks
+
+STRING_UPGRADE_TO_STANDARD_BST = Mettre à jour vers le BlueStacks standard
+
+STRING_UPGRADE_TEXT = Améliorer
+
+STRING_GAME_INSTALL_CURRENT_INSTANCE_OF_BST = Ce jeu sera installé dans le BlueStacks existant déjà sur votre PC. Voulez-vous continuer?
+
+STRING_GAME_INSTALL_IN_EMBEDDED_BST = L'installation de ce jeu mettra à niveau le BlueStacks existant sur votre PC vers le BlueStacks standard.
+
+STRING_BST_INSTALL_IN_EMBEDDED_BST_UPGRADE = L'installation de BlueStacks mettra à jour le BlueStacks existant sur votre PC vers le dernier BlueStacks standard
+
+STRING_BST_INSTALL_IN_EMBEDDED_BST = L'installation de BlueStacks mettra à niveau le BlueStacks existant sur votre PC vers le BlueStacks standard.
+
+STRING_GAME_REQUIRES_NEW_BST = Le jeu nécessite une nouvelle version de BlueStacks. Voulez-vous mettre à jour BlueStacks et installer le jeu?
+
+STRING_INSUFFICIENT_PHYSICALMEMORY = Votre PC possède moins de RAM que les 2GO requis par BlueStacks.
+
+STRING_OS_VERSION_NOT_SUPPORTED = BlueStacks n'est pas pris en charge par la version Windows installée sur ce PC.
+
+STRING_GL_UNSUPPORTED = Votre carte graphique ou ses pilotes ne prennent pas en charge BlueStacks.
+
+STRING_REGISTRY_EDITING_DISABLED = BlueStacks requiert des droits d'édition  pour l'installation
+
+STRING_UPGRADE_FAILED = Échec de la mise à niveau
+
+STRING_CONTINUING_WILL_UPGRADE_TO_STD_BST = En continuant, nous allons mettre à niveau la version de BlueStacks existant sur votre PC vers BlueStacks standard.
+
+STRING_MULTIINSTANCE_MANAGER = Gestionnaire multi-instances BlueStacks
+
+STRING_INSTALLATION_FAILED = Malheureusement, il est impossible d'installer BlueStacks.
+
+STRING_SELECT_ALL = Tout sélectionner
+
+STRING_BATCH = Batch
+
+STRING_ARRANGE = Organiser
+
+STRING_STOPPED = Arrêter
+
+IMAP_STRING_MOBASkill_YAxisRatio = Ratio Axe Y
+
+IMAP_STRING_MOBASkill_NoCancelTime = No cancel time
+
+IMAP_STRING_MOBASkill_AutoAttack = Attaque automatique
+
+IMAP_STRING_MOBASkill_StopMOBADpad = Stop Dpad MOBA
+
+STRING_RUNNING = En cours d'exécution
+
+IMAP_STRING_TapRepeat_Header_Edit_UI = Répété le tapotement
+
+IMAP_STRING_TapRepeat_Description_Edit_UI = Utilisez ceci pour ajouter des tapotements répétés sur un endroit avec une touche
+
+IMAP_STRING_TAPREPEAT_X = X
+
+IMAP_STRING_TAPREPEAT_Y = Y
+
+IMAP_STRING_TAPREPEAT_Key = Clavier
+
+IMAP_STRING_TAPREPEAT_Count = Nombre
+
+IMAP_STRING_TAPREPEAT_Delay = Délais
+
+IMAP_STRING_CATEGORY_TAPREPEEAT = Tapotement répété
+
+IMAP_STRING_TAPREPEAT_Settings = Paramètres du tapotement répété
+
+STRING_SELECTED_INSTANCE_RUNNING_WHILE_CLONING = Malheureusement, les instances ne peuvent pas être clonées pendant leur exécution. Pouvez-vous fermer les instances en cours avant de procéder à leur clonage s'il vous plaît?
+
+STRING_MACRO_TOOL = Enregistreur de macros BlueStacks
+
+STRING_MACRO_TOOL_HEADER = Automatisez les tâches ennuyeuses et détendez-vous!
+
+STRING_MACRO_TOOL_RECORD_1 = Enregistrez les clics de souris, les pressions de touches et les chaînes de texte.
+
+STRING_MACRO_TOOL_RECORD_2 = Commencez à enregistrer une macro en utilisant le bouton d'enregistrement de macro ci-dessous.
+
+STRING_RECORD_NEW_MACRO = Enregistrer une nouvelle macro
+
+STRING_OPEN_SCRIPTS = Ouvrir le dossier des scripts
+
+STRING_EXECUTION_LOOP = Répéter l'exécution
+
+STRING_LOOP = Boucle
+
+STRING_TIMES = Temps
+
+STRING_HOURS_SHORTFORM = H
+
+STRING_MINUTES_SHORTFORM = m
+
+STRING_SECONDS_SHORTFORM = s
+
+STRING_PRESS_STOP_BUTTON = Appuyez sur le bouton Stop pour arrêter la macro
+
+STRING_LOOP_INTERVAL = Intervalle de la boucle
+
+STRING_SECONDS = secondes
+
+STRING_ACCELERATION = Accélération
+
+STRING_EXECUTE_SCRIPT_ON_RESTART = Exécuter la macro au redémarrage du lecteur
+
+STRING_RESTART_PLAYER = Redémarrez le lecteur après
+
+STRING_BATCH_NEW = Nouveau Batch
+
+STRING_BATCH_CLONE = Batch de Clone
+
+STRING_START_SELECTED = Start sélectionné
+
+STRING_CLOSE_SELECTED = Fermer sélectionné
+
+STRING_REMOVE_SELECTED = Supprimer sélectionné
+
+STRING_INSTANCE_OPTIONS = Options de l'instance
+
+STRING_FPS = FPS
+
+STRING_FPS_CHANGE_MESSAGE = Des FPS plus bas permettront l'exécution de plus d'instances
+
+STRING_DISABLE_AUDIO_MESSAGE = Désactiver l'audio lorsque plusieurs instances sont en cours d'exécution
+
+STRING_REDUCES_CPU_USAGE = Réduire l'utilisation du CPU
+
+STRING_ARRANGE_SETTINGS = Arrangement d'instance
+
+STRING_SPREAD_ALIGN = Disposition en grille
+
+STRING_OVERLAY_ALIGN = Disposition en diagonale
+
+STRING_INSTANCES_PER_ROW = Instances par ligne
+
+STRING_BATCH_OPERATIONS = Opération de Batch par défaut
+
+STRING_START_INTERVAL = Intervalle de départ
+
+STRING_BATCH_NUMBER = Créer un groupe d'instances
+
+STRING_REMOVE = Retirer l'objet
+
+STRING_RENAME = Renommer
+
+STRING_MINUTES = minutes
+
+STRING_TILL_LOOP_NUMBER = Pour un nombre fixe
+
+STRING_TILL_LOOP_TIME = Pour une durée de
+
+STRING_TILL_MANUAL = Infinie
+
+STRING_DELETE_SCRIPT = Voulez-vous supprimer la macro sélectionnée?
+
+STRING_MACRO_RECORDER = Enregistreur de macros
+
+STRING_PLAYING_MACRO = Lancer la macro
+
+STRING_INTERVAL = Intervalle
+
+STRING_PLAYERS = joueurs
+
+STRING_EXECUTING_SCRIPT = Exécution de la macro
+
+STRING_SCRIPT_SETTINGS = Modifier les paramètres de la macro
+
+STRING_EDIT_COMBO_HEADER = Éditer la séquence de touche
+
+STRING_SCRIPT = Script
+
+STRING_FARM = Farm
+
+STRING_INSTANCE_SETTINGS = Paramètres de l'instance
+
+STRING_DELETE_CONFIRMATION = Êtes-vous sûr de vouloir supprimer l'instance sélectionnée?
+
+STRING_CLOSE_CONFIRMATION = Voulez-vous fermer l'instance sélectionnée?
+
+STRING_SHORTCUT_ADDED_SUCCESS = Le raccourci a été ajouté sur le bureau avec succès
+
+STRING_CONFIRM = Confirmer
+
+STRING_CLONE_FROM_MAIN_INSTANCE_WARNING = Le clonage est effectué à partir de
+
+STRING_BATCH_INSTANCE_CLOSE_CONFIRMATION = Souhaitez-vous fermer les instances sélectionnées?
+
+STRING_STOP_RECORDING_TOOLTIP = Vous pouvez arrêter l'enregistrement de la macro ici
+
+STRING_NO_OPERATION_MESSAGE = Aucune opération n'a été effectué et la macro n'a donc pas été enregistrée.
+
+STRING_BATCH_INSTANCE_DELETE_CONFIRMATION = Êtes-vous sûr de vouloir supprimer les instances sélectionnées?
+
+STRING_BETA = Beta
+
+STRING_STREAM_MODE = Mode Streaming
+
+STRING_USE_DEDICATED_GPU = Utiliser des graphismes dédiés
+
+IMAP_STRING_DPAD_GamepadStick = Manette de jeu
+
+STRING_INSTALLATION_FAILED = Malheureusement, il est impossible d'installer BlueStacks.
+
+IMAP_STRING_MOBASkill_YAxisRatio = Ratio Axe Y
+
+IMAP_STRING_MOBASkill_NoCancelTime = No cancel time
+
+IMAP_STRING_MOBASkill_AutoAttack = Attaque automatique
+
+IMAP_STRING_MOBASkill_StopMOBADpad = Stop Dpad MOBA
+
+STRING_CONNECT_DISCORD_BST = Autoriser BlueStacks à se connecter avec Discord
+
+STRING_PROBLEM_TYPE = Nature du probléme
+
+STRING_APP_DETAILS = Détails de la demande
+
+STRING_APPLICATION_NAME = Nom de l'application
+
+STRING_APP_NAME_WATERMARK = Tapez le nom de l'application ici
+
+STRING_DESCRIBE_PROBLEM = Décrivez le problème
+
+STRING_SCREENSHOT = Screenshot
+
+STRING_CHOOSE = Selectionner
+
+STRING_SUBMIT_REPORT = Soumettre le rapport
+
+STRING_BST_SUPPORT_UTILITY = Utilitaire de support BlueStacks
+
+STRING_NO_INSTANCE_FOUND = Aucune instance BlueStacks trouvée
+
+STRING_SYNC_OPERATIONS = Opérations de synchronisation
+
+STRING_NO_INSTANCE_RUNNING = Aucune autre instance est en cours d'exécution
+
+STRING_START_OTHER_INSTANCES = Veuillez démarrer une autre instance afin de synchroniser les actions de l'instance actuelle avec celle-ci.
+
+STRING_SYNC_SELECTED = Synchronisation sélectionnée
+
+STRING_SYNC_HELP = Aide à la Synchronisation?
+
+STRING_STOP_SYNCING = Arrêter la synchronisation
+
+STRING_FRAME_RATE_SETTING = Frame rate
+
+STRING_RECOMMENDED_FPS = Arrêter la synchronisation
+
+STRING_FPS_FOR_GAMERS = 60 FPS pour un jeu plus fluide (cela peut affecter les performances de jeu de certains PC d'entrée de gamme)
+
+STRING_FPS_FOR_MULTIINSTANCE = 20 FPS pour le multi-instance (quelques jeux risquent de ne pas fonctionner correctement)
+
+STRING_GAMEPAD_SUPPORT = Support Gamepad
+
+STRING_GAMEPAD_POPUP_TEXT = Rechercher l'icône du gamepad sur les jeux prenant en charge le gamepad sur BlueStacks. 
+
+STRING_GAMEPAD_CONNECTED = Rechercher l'icône du gamepad sur les jeux prenant en charge le gamepad sur BlueStacks. 
+
+STRING_GAMEPAD_DISCONNECTED = Gamepad déconnecté
+
+STRING_GAMEPAD = Gamepad
+
+STRING_KEYBOARD_MOUSE = Clavier et souris
+
+STRING_ENABLE_ADB = Activer Android Debug Bridge (ADB)
+
+STRING_ENABLE_ADB_WARNING = BlueStacks peut ne pas être entièrement protégé si ce paramètre est activé. Vous pouvez envisager de le désactiver plus tard
+
+IMAP_STRING_GamepadDpadUp = Dpad haut
+
+IMAP_STRING_GamepadDpadDown = Dpad bas
+
+IMAP_STRING_GamepadDpadLeft = Dpad gauche
+
+IMAP_STRING_GamepadDpadRight = Dpad droite
+
+IMAP_STRING_GamepadStart = Début
+
+IMAP_STRING_GamepadStop = Retour
+
+IMAP_STRING_GamepadLeftThumb = Pouce gauche
+
+IMAP_STRING_GamepadRightThumb = Pouce Droit
+
+IMAP_STRING_GamepadLeftShoulder = Shoulder gauche
+
+IMAP_STRING_GamepadRightShoulder = Shoulder droit
+
+IMAP_STRING_GamepadA = Gamepad A
+
+IMAP_STRING_GamepadB = Gamepad B
+
+IMAP_STRING_GamepadX = Gamepad X
+
+IMAP_STRING_GamepadY = Gamepad Y
+
+IMAP_STRING_GamepadLStickUp = Stick gauche haut
+
+IMAP_STRING_GamepadLStickDown = Stick gauche bas
+
+IMAP_STRING_GamepadLStickLeft = Stick gauche gauche
+
+IMAP_STRING_GamepadLStickRight = Stick gauche droite
+
+IMAP_STRING_GamepadRStickUp = Stick droit haut
+
+IMAP_STRING_GamepadRStickDown = Stick droit bas
+
+IMAP_STRING_GamepadRStickLeft = Stick droit gauche
+
+IMAP_STRING_GamepadRStickRight = Stick droit droite
+
+IMAP_STRING_GamepadLTrigger = Gachette gauche
+
+IMAP_STRING_GamepadRTrigger = Gachette droite
+
+IMAP_STRING_LeftStick = Stick gauche
+
+IMAP_STRING_RightStick = Stick Droit
+
+STRING_OPEN_GAMEPAD_UI = Ouvrir l'UI des contrôles à la manette
+
+IMAP_STRING_Rotate_KeyClock = Keyclock
+
+IMAP_STRING_Rotate_KeyAntiClock = KeyAntiClock
+
+IMAP_STRING_Rotate_OriginX = OriginX
+
+IMAP_STRING_Rotate_OriginY = OriginY
+
+IMAP_STRING_Rotate_XRadius = XRadius
+
+IMAP_STRING_Rotate_Speed = Vitesse
+
+IMAP_STRING_Rotate_ActivationTime = Temps d'Activation
+
+STRING_UPDATE_AVAILABLE = Mise à jour disponible
+
+STRING_DETAILED_CHANGELOG = Voir le changelog détaillé
+
+STRING_INVALID_FORMAT_HEADER = Format invalide
+
+STRING_SAVE_KEY_SEQUENCE_ERROR = La séquence de touche n'a pas pu être mise à jour car son format est méconnaissable. Veuillez vous assurer qu'il s'agit d'un texte JSON valide. 
+
+STRING_WAIT_DURING_UPDATE = Veuillez patienter pendant le téléchargement de la nouvelle version. Vous pouvez continuer à utiliser BlueStacks durant le téléchargement.
+
+STRING_INSTALL_NEXT_BOOT = Installer au prochain démarrage
+
+STRING_NEW_UPDATE_READY_WARNING = Vous ne pourrez pas utiliser BlueStacks lors de la mise à jour.
+
+IMAP_Gamepad_Video_Element_Header = Viser et tirer avec la manette
+
+IMAP_Gamepad_Video_Element_Body = Jouez comme vous aimeriez jouer à un jeu de tir sur une console de jeu et prenez l'avantage sur tout le monde
+
+STRING_HELP_AND_SUPPORT = Aide et assistance
+
+STRING_POWER_UPS = Power ups
+
+STRING_CUSTOMISE = Personnaliser
+
+STRING_DOWNLOADING_UPDATE = Téléchargement de la mise à jour
+
+STRING_SHOW_TOAST = Afficher les Notifications
+
+IMAP_STRING_STATE_Key = State key
+
+IMAP_STRING_STATE_Name = Nom
+
+IMAP_STRING_STATE_Model = Modèle
+
+IMAP_STRING_STATE_Header_Edit_UI = État
+
+STRING_DEVICEPROFILE_SETTING_DETAIL = Le profil de l'appareil vous permet de configurer un profil d'allocation automatique de ressources pour votre instance BlueStacks. 
+
+STRING_PREDEFINED_DEVICEPROFILE_TEXT = Choisir un profil prédéfini
+
+STRING_CUSTOM_DEVICEPROFILE_TEXT = Créer un profil personnalisé
+
+STRING_SAVE_CHANGE = Sauvegarder les modifications

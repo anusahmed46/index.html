@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&display=swap" rel="stylesheet">
+</head>
+<body>
+   <div class="hero">
+       <nav>
+           <img src="menu (1).png" alt="" class="menu">
+           <img src="logo (1).png" alt="" class="logo">
+           <ul>
+               <li><a href="">lastest</a></li>
+               <li><a href="">modern</a></li>
+               <li><a href="">contemporary</a></li>
+               <li><a href="">affortable</a></li>
+           </ul>
+           <button type="button" onclick="togglebtn()" id="btn"><span></span></button>
+       </nav> 
+
+       <div class="lampmain">
+           <img src="lamp.png" alt="" class="lamp">
+           <img src="light.png" alt="" class="light">
+       </div>
+
+       <div class="text">
+           <h1>my <br> lighthing website</h1>
+           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id, est nobis quisquam, laboriosam cum sunt debitis voluptatem beatae voluptatibus tempora unde natus impedit inventore explicabo rem sapiente aspernatur eum magnam.</p>
+           <a href="">check my collection</a>
+           <div class="control">
+               <p>04</p>
+               <div class="line"><span></span></div>
+               <p>05</p>
+           </div>
+       </div>
+   </div>
+
+   <script>
+       var btn = document.getElementById("btn");
+       function togglebtn(){
+           btn.classList.toggle(".active");
+       }
+   </script>
+
+</body>
+</html>

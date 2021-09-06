@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+}
+.nav-item {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.carousel-item {
+    width: 100%;
+    height: 93vh;
+}
+
+.aboutimg {
+    min-width:95%;
+    max-height: 280px;
+
+}
+
+.text {
+    text-align: center;
+}
+
+h1,p {
+    text-align: center;
+}
+.offer-style {
+    background-color: rgb(102, 241, 102);
+}
+footer {
+    margin-top: 0;
+}
+
+
+/* // X-Small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap */
+
+ Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+ X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... }

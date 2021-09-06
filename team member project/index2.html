@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    
+    <nav class="navbar navbar-expand-lg  bg-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" style="color: white; font-size:large;" href="#">Team Reporter App</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" style="color: white; font-size: large;" aria-current="page" href="#">Home</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+
+      <div class="container" style="padding: 10px;">
+          <div class="row">
+              <div class="col md-10" style="border: 1px solid black; margin-bottom: 10px;">
+                  <h5 style="padding: 10px;">login</h5>
+                  <div class="col-12" style="padding: 10px;">
+                    <label for="inputAddress" id="user" class="form-label">User name</label>
+                    <input type="text" class="form-control" id="inputAddress" >
+                  </div>
+                  <div class="col-12" style="padding: 10px;">
+                    <label for="inputAddress"  id="email" class="form-label">Email Address</label>
+                    <input type="text" class="form-control" id="inputAddress" >
+                  </div>
+                  <div class="col-12" style="padding: 10px;">
+                    <label for="inputAddress" id="password" class="form-label">Password</label>
+                    <input type="text" class="form-control" id="inputAddress" >
+                  </div>
+                   <a class="btn btn-primary" style="margin-left: 1%;" href="index.html" role="button">login</a>
+                   <a class="btn btn-primary"  onclick="signup()" style="margin-left: 1%;" href="index3.html" role="button">sign up</a>
+                   
+                </div>
+              </div>
+          </div>
+      </div>
+
+      
+<script>
+  
+  
+  function signup(){
+     let start = {
+       user:document.getElementById("user").value,
+       email:document.getElementById("email").value,
+       password:document.getElementById("password").value
+     }
+     let stor1 = localStorage.setItem("user","anusahmed")
+     let stor2 = localStorage.setItem("email","anusahmed242@gmai.com");
+     let stor3 = localStorage.setItem("password","567890")
+  
+     JSON.stringify(stor1,stor2,stor3);   
+     JSON.parse(window.localStorage.getItem('stor1,stor2','stor3'));
+   }
+</script>
+
+
+
+</body>
+</html>

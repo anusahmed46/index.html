@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    font: 1em sans-serif;
+    box-sizing: border-box;
+    
+}
+
+.hero {
+    background:rgb(34, 56, 95);
+    min-height: 100vh;
+    width: 100%;
+    color: #fff;
+    position: relative;
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    padding: 20px 8%;
+}
+
+nav .menu{
+    width: 25px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+nav .logo {
+    width: 160px;
+    cursor: pointer;
+}
+
+nav ul {
+    flex: 1;
+    text-align: right;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+button {
+    background: rgb(0, 37, 49);
+    height: 30px;
+    width: 60px;
+    border-radius: 20px;
+    outline: 0;
+    cursor: pointer;
+}
+
+button span {
+    display: block;
+    background: rgb(144, 193, 233);
+    height: 26px;
+    width: 26px;
+    border-radius: 50%;
+    margin-left: 2px;
+    transition:all -0.5s;
+}
+
+.lampmain {
+    position: absolute;
+    top: -20px;
+    left: 22%;
+    width: 200px;
+}
+
+.lamp {
+    width: 100%;
+}
+.light {
+    position:absolute;
+    top: 97%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 700px;
+    margin-left: -10px ;
+    
+}
+.text {
+    max-width: 600px;
+    margin-top: 7%;
+    margin-left: 50%;
+}
+
+.text h1 {
+    font-size: 80px;
+    font-weight: 400;
+}
+
+.text a{
+    text-decoration: none;
+    background: rgb(144, 193, 233);
+    padding: 14px 40px;
+    display: inline-block;
+    color: rgb(0, 37, 49);
+    font-size: 18px;
+    margin-top:30px;
+    border-radius:30px;
+}
+.control {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-top: 150px;   
+}
+
+.control .line {
+    width: 250px;
+    height: 4px;
+    background:rgb(18, 47, 90);
+    margin: 0 20px;
+    border-radius: 2px;
+}
+
+.control .line span {
+    width:  50%;
+    height: 8px;
+    margin-top: -2px;
+    border-radius: 4px;
+    background: #fff;
+    display: block;
+}
+
+.active {
+    background: #fff;
+}
+.active span {
+    background: #fff;
+    margin-left: 31px;
+}

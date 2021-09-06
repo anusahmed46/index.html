@@ -1,0 +1,18 @@
+.h {
+    text-align: center;
+    font-weight: 100;
+    font-style:normal;
+}
+
+.d {
+    width: 500px;
+    height: 500px;
+    border: 1px solid blue;
+    margin: auto;
+    padding: 120px;
+    box-sizing: border-box;
+
+
+}
+
+

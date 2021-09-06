@@ -1,0 +1,39 @@
+*
+{
+    padding: 0;
+    margin: 0;
+
+}
+body
+{
+   background-image: url(download.jpg);
+   background-size: cover;
+   background-position-x: center;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+.menu-bar
+{
+    background-color: rgb(red, green, blue);
+    text-align: center;
+}
+.menu-bar
+{
+    display:inline flex;
+    list-style: none;
+    color: black;
+
+}
+.h1
+{
+    text-align: left;
+}
+.ul
+{
+    text-align: end;
+}
+image
+{
+    width: 100px;
+    height: 100px;
+}

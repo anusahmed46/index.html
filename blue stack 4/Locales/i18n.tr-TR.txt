@@ -1,0 +1,2773 @@
+﻿STRING_RESTART_BLUESTACKS = Yeniden Başlat
+
+STRING_QUIT_BLUESTACKS = Çıkış
+
+STRING_UPLOAD_DEBUG_LOGS = Problem Bildir
+
+STRING_INSTALL_UPDATES = Güncellemeleri Yükle
+
+STRING_APPS = Uygulamalar
+
+STRING_APP = Uygulama
+
+STRING_INSTALLED = Yüklendi
+
+STRING_FULL_SCREEN_BUTTON_TOOLTIP = Tam ekrana dönüştür
+
+STRING_LOADING_MESSAGE = Yükleniyor...
+
+STRING_SYSTEM_APP = Sistem Uygulaması
+
+STRING_BROWSER_APP = Tarayıcı
+
+STRING_SETTINGS = Ayarlar
+
+STRING_SETTING_APP = Ayarlar
+
+STRING_CAMERA_APP = Kamera
+
+STRING_GOOGLE_PLAY_GAMES_APP = Google Play oyunları
+
+STRING_MEDIA_MANAGER_APP = Ortam Yöneticisi
+
+STRING_GOOGLE_PLAY_STORE_APP = Google Play
+
+STRING_RETURN_APP = Geri Dön
+
+STRING_HELP_CENTER_APP = Yardım Merkezi
+
+STRING_INSTANCE_MANAGER_APP = Durum Yöneticisi
+
+STRING_MACRO_RECORDER_APP = Oyun Kayıt Tuşu
+
+STRING_INITIALIZING = Başlatılıyor
+
+STRING_FULL_SCREEN_TOAST = BlueStacks tam ekran modunda. Tam ekrandan çıkmak için F11 tuşuna basın.
+
+STRING_SNAPSHOT_ERROR_TOAST = Anlık görüntü paylaşım uygulaması yüklü değil.
+
+STRING_INCOMPATIBLE_FRONTEND_QUIT_CAPTION = Uyumsuz bir uygulama çalışıyor
+
+STRING_INCOMPATIBLE_FRONTEND_QUIT = Lütfen BlueStacks'ın çalışmasına engel olan antivirüs veya güvenlik uygulamalarını durdurun
+
+STRING_BLUESTACKS = BlueStacks'i
+
+STRING_INSTALL_SUCCESS = Yüklendi
+
+STRING_UNINSTALL_SUCCESS = Kaldırıldı
+
+STRING_INSTALL_FAIL = Yükleme Başarısız
+
+STRING_USER_WAIT = Apk yükleniyor...
+
+STRING_FORM = Uygulama Oynatıcısı Destek Aracı
+
+STRING_ATTACHMENT_SIZE_EXCEEDS_LIMIT = Eklemeye çalıştığınız dosya izin verilen maksimum limit olan MB'ı aşıyor. Lütfen başka bir dosya seçin.
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION = Eklemeye çalıştığınız dosya bir görüntü değil. Lütfen sorunun bir ekran resmini ekleyip tekrar deneyin.
+
+STRING_STATUS_INITIAL = Başlangıç Toplayıcı
+
+STRING_STATUS_COLLECTING_PRODUCT = Ürün Bilgisi Toplanıyor
+
+STRING_STATUS_COLLECTING_HOST = Sunucu Bilgisi Toplanıyor
+
+STRING_STATUS_COLLECTING_GUEST = Android Bilgisi Toplanıyor
+
+STRING_STATUS_ARCHIVING = Destek Arşivi Oluşturuluyor
+
+STRING_STATUS_SENDING = Sorun Raporu Gönderiliyor
+
+STRING_APP_NAME = Uygulama Adını Girin
+
+STRING_FINISH_CAPT = Destek Aracı Tamamlandı
+
+STRING_FINISH_REPORT_SEND = Sorun raporunuz gönderildi. Bir an önce size geri döneceğiz.
+
+STRING_PROMPT = Sorun Raporu gönderilemedi. Masaüstünüzde BlueStacksSupport.zip adlı bir dosya oluşturuldu. Lütfen kısa bir açıklama ile birlikte bu dosyayı beta-support@bluestacks.com adresine e-posta ile gönderin.
+
+STRING_RPC_FORM = RPC Hatasını Gider
+
+STRING_STUCK_AT_INITIALIZING_FORM = Sorun giderme başlatırken takıldı
+
+STRING_WORK_DONE = İşlem Bitti, sorun hala devam ederse, lütfen sorun olarak bildirin
+
+STRING_PROGRESS = Lütfen bekleyin, sorunu çözmeye çalışıyoruz
+
+STRING_TROUBLESHOOTER = Sorunumu otomatik olarak gider ve çözmeye çalış
+
+STRING_LOGCOLLECTOR_RUNNING = Sorun Bildir zaten çalışıyor
+
+STRING_CATEGORY = Kategori
+
+STRING_ZIP_NAME = BlueStacks-Support.zip
+
+STRING_RESTART_UTILITY_TITLE = BlueStacks Yeniden Başlatma Programı
+
+STRING_RESTART_UTILITY_RESTARTING = BlueStacks yeniden başlatılıyor
+
+STRING_RESTART_UTILITY_CANNOT_START = BlueStacks Başlatılamıyor
+
+STRING_RESTART_UTILITY_UNHANDLED_EXCEPTION = Beklenmeyen bir hata oluştu. Detaylar için, lütfen günlüğü kontrol edin.
+
+STRING_APKINSTALLER_ALREADY_RUNNING = Halihazırda bir uygulama yükleniyor. Lütfen yükleme bitene kadar bekleyin.
+
+STRING_UPDATER_UTILITY_NO_UPDATE_TITLE = BlueStacks Güncelleyici
+
+STRING_UPDATER_UTILITY_ASK_TO_INSTALL = BlueStacks'in en son sürümüne güncellemek ister misiniz?
+
+STRING_UPDATE_SUCCESS = Güncellendi
+
+STRING_MINIMIZE_TOOLTIP = Küçült
+
+STRING_CLOSE = Kapat
+
+STRING_SET_LOCATION = Konum
+
+STRING_TOOLBAR_CAMERA = Ekran görüntüsü al
+
+ANDROID = Android
+
+STRING_FINISH = Tamamlandı
+
+STRING_START_BLUESTACKS = BlueStacks'i Başlat
+
+STRING_DOWNLOADING = İndiriliyor
+
+BLUESTACKS = BlueStacks'i
+
+STRING_BACK = Geri
+
+STRING_EXIT = Çıkış
+
+STRING_WELCOME_TO_BLUESTACKS = BlueStacks'e Hoşgeldiniz
+
+STRING_BLUESTACKS_APK_HANDLER_TITLE = BlueStacks Apk İşleyicisi
+
+STRING_SNAPSHOT_SHARE_STRING = BlueStacks App Player ile paylaşılır (www.bluestacks.com)
+
+STRING_LOADING_SCREEN_APP_TITLE = BlueStacks App Player
+
+STRING_CLOSE_MESSAGE_PROMPT = Akışı durdurmak ister misiniz?
+
+STRING_CLOSE_WHILE_STREAMING_TOOLTIP = Akışı sonlandır
+
+STRING_BLACKSCREEN_FORM = Sorun Giderme Siyah Ekranı
+
+STRING_SELECT_APP_NAME = Uygulama Adı Seç
+
+STRING_SELECT = Seç...
+
+STRING_CREATE_BLUESTACKS_REGISTRY = BlueStacks kayıt defteri oluşturuluyor
+
+STRING_CREATE_SHORTCUTS = BlueStacks Kısayolları Oluşturuluyor
+
+STRING_COULD_NOT_RESOTRE_INSUFFICIENT_SPACE = Ne yazık ki, geri yükleme başarılı olamadı
+
+STRING_INSTALLATION_CORRUPT_TITLE = BlueStacks kurulumu hatalı.
+
+STRING_INSTALLATION_CORRUPT_MESSAGE = BlueStacks App Player kurulumunda hata var. Lütfen son sürümü www.bluestacks.com adresinden indirin ve kurun.
+
+STRING_SUBCATEGORY = Alt Kategori
+
+STRING_FILTER_UPDATE_TITLE = BlueStacks Filtre Güncelleyici
+
+STRING_INITIALIZING_DOWNLOADER = İndirici başlatılıyor...
+
+STRING_DOWNLOADING_0_of_1 = İndiriliyor {0}/{1} ...
+
+STRING_DOWNLOADED = İndirme tamamlandı...
+
+STRING_APPLYING = Tema uygulanıyor...
+
+STRING_LATER_BUTTON = Sonra
+
+STRING_DOWNLOAD_ERROR = Hay aksi! Bir hata oluştu. Filtreler bir sonraki başlatmada güncellenecek
+
+STRING_STOP_STREAMING_REQUIRED = Bu güncelleştirme için Akışın durdurulması gerekecek
+
+STRING_OBS_ERROR = Hata! Bir şeyler yanlış gitti. Yeniden denemek ister misiniz?
+
+STRING_OBS_ALREADY_RUNNING = Başka bir OBS Örneği zaten çalışıyor. Canlı yayına geçmeden önce lütfen durdurun.
+
+STRING_RESTORE_BUTTON = Geri yükle
+
+STRING_RECOMMENDED = Tavsiye Edilen
+
+STRING_BLUESTACKS_WARNING_PROMPT = BlueStacks Uyarısı
+
+STRING_SELECT_BACKUP = Yedek oluşturmak istediğiniz klasörü seçin.
+
+STRING_SELECT_RESTORE = Geri yüklemek istediğiniz klasörü seçin
+
+STRING_QUITTING = BlueStacks'tan Çıkılıyor
+
+STRING_ANDROID_BACKUP = Android yedeklemesi oluşturuluyor
+
+STRING_ANDROID_RESTORE = Android yedeği geri yükleniyor
+
+STRING_USER_DATA_BACKUP = Kullanıcı veri yedekleri oluşturuluyor
+
+STRING_USER_DATA_RESTORE = Kullanıcı veri yedekleri geri yükleniyor
+
+STRING_BACKUP_COMPLETE = Yedekleme tamamlandı
+
+STRING_RESTORE_COMPLETE = Geri Yükleme tamamlandı
+
+STRING_BACKUP_FAILED = Yedeklenemedi. Lütfen daha sonra tekrar deneyiniz.
+
+STRING_RESTORE_FAILED = Ne yazık ki, geri yükleme başarılı olamadı
+
+STRING_DATA_MANAGER = BlueStacks Veri Yöneticisi
+
+STRING_APP_PLAYER_ONLINE = App Player online
+
+STRING_MANAGE_NOTIFICATION = Bildirimleri Yönet
+
+STRING_MUTE_NOTIFICATION_TOOLTIP = Mute
+
+STRING_HOUR = 1 Saat
+
+STRING_WEEK = 1 Hafta
+
+STRING_DAY = 1 Gün
+
+STRING_FOREVER = Sonsuza dek
+
+STRING_CLEAR = Temizle
+
+STRING_NO_NEW_NOTIFICATION = Bildirim yok
+
+STRING_NOTIFICATION = Bildirimler
+
+STRING_SHOW = Görüntüle
+
+STRING_AUTO_HIDE = Otomatik gizleme
+
+STRING_SHOW_NOTIFICATIONS = Masaüstü bildirimlerini göster
+
+STRING_AUTO_HIDE_TOOLTIP = 10 saniyeden sonra bildirim gösterilecek.
+
+STRING_DISMISS_TOOLTIP = Reddet
+
+STRING_SHOW_NOTIFICATION_TOOLTIP = Bildirimleri Göster
+
+STRING_RESET_APPS_AND_DATA = Tüm uygulamaları ve verileri sıfırlama.
+
+STRING_AUTO = Otomatik
+
+STRING_WEBCAM_SOURCE_STRING = Web kamera kaynağı
+
+STRING_STREAM_QUALITY_DETAILS = Bu, soldaki önizleme ekranını etkilemez.
+
+STRING_STREAM_QUALITY = Yayın kalitesi
+
+STRING_SERVER_LOCATION = En yakınınızdaki sunucu lokasyonunu seçin
+
+STRING_LBL_RESTORE_DEFAULT = Varsayılana geri dön
+
+STRING_LBL_COMPUTER_SOUND = Bilgisayar sesi
+
+STRING_LBL_MICROPHONE_SOUND = Mikrofon sesi
+
+STRING_LBL_MICROPHONE_SOURCE = Mikrofon kaynağı
+
+STRING_LABEL_STREAM_AUDIO_SOURCE = Yayın sesi kaynağı
+
+STRING_LABEL_STREAM_AUDIO_SOURCE_DETAIL = Bu, sadece izleyicilerinizin duyacaklarını etkiler
+
+STRING_LBL_ADVANCED_STREAM_SETTINGS = Gelişmiş yayın ayarları
+
+STRING_AUDIO_BUTTON = Ses
+
+STRING_VIDEO_BUTTON = Video
+
+STRING_OTHER_BUTTON = Diğer
+
+STRING_VIDEO_BUTTON_TOOLTIP = Video ayarları canlı yayındayken değiştirilemez
+
+STRING_OTHER_BUTTON_TOOLTIP = Diğer ayarlar canlı yayındayken değiştirilemez
+
+NONE = Hiçbiri
+
+STRING_ACCOUNT = Hesap
+
+STRING_NAVIGATE_FAILED = Geçiş başarısız oldu
+
+STRING_RETRY = Yeniden dene
+
+STRING_INCORRECT_LOGIN_DETAILS = Yedekleme geri yüklenemedi! Bu yedeklemeyle ilişkili BlueStacks Hesabı, giriş yapılmış olandan farklı.
+
+STRING_INCORRECT_PATH = Maalesef geri yükleme başarılı olmadı. Lütfen doğru yöntemi tekrar seçiniz.
+
+STRING_RESTORE_FAILURE = Veri Geri Yükleme Başarısız
+
+STRING_BACKUP_SUCCESSFUL = Verileriniz başarıyla yedeklendi. Burada bulabilirsiniz:
+
+STRING_RESTORE_SUCCESSFUL = Verileriniz başarıyla geri yüklendi
+
+STRING_ADVANCED_SETTINGS = Gelişmiş Ayarlar
+
+STRING_EXIT_BLUESTACKS = BlueStacks'ten çıkmak mı istiyorsunuz?
+
+STRING_YES = Evet
+
+STRING_NO = Hayır
+
+STRING_HOME = Home
+
+STRING_SHAKE = Salla
+
+STRING_SCREENSHOT = Ekran görüntüsü
+
+STRING_LOCATION = Konum
+
+STRING_LOADING_ENGINE = Motor Yükleniyor
+
+STRING_SEARCH = Araştır
+
+STRING_APP_CENTER = Uygulama Merkezi
+
+STRING_GIFT = Hediyeler
+
+STRING_FEEDBACK = Yardım Merkezi
+
+STRING_ENGINE_VERSION = Motor Versiyonu
+
+STRING_OK = Ok
+
+STRING_SAVE = Kaydet
+
+STRING_CPU_CORES = Ana İşlemci alanları
+
+STRING_MEMORY = Hafıza
+
+STRING_APPLY = Başvur
+
+STRING_GOOGLE_LOGIN_MESSAGE = BlueStacks'ı kullanmaya başlamak için Google hesabınızla oturum açın
+
+STRING_MORE_GOOGLE_SEARCH_RESULT = için Google arama sonuçları
+
+STRING_F11_EXIT_FULL_SCREEN = Tam ekrandan çıkmak için F11 tuşuna basın
+
+STRING_ESC_EXIT_FULL_SCREEN = Tam ekrandan çıkmak için Esc tuşuna basın
+
+STRING_WARNING = Uyarı
+
+STRING_BEGINNERS_GUIDE = Başlangıç Rehberi
+
+STRING_VOLUME_CONTROL = Ses Kontrol
+
+STRING_ALWAYS_ON_TOP = Her zaman üstte
+
+STRING_KEY_MAPPING_ENABLED = Tuş Eşleştirme Etkin
+
+STRING_KEY_MAPPING_DISABLED = Tuş Eşletirme Devre dışı
+
+STRING_MULTIINSTANCE_DELETE = Bu örneği silmek ister misiniz?
+
+STRING_UNINSTALL_APP_ASK = Bu uygulamayı kaldırmak ister misiniz?
+
+STRING_MAP = Haritalar
+
+STRING_SOME_ERROR_OCCURED = Maalesef bir şeyler ters gitti. Lütfen tekrar deneyin.
+
+STRING_DATA_PATH = BlueStacks veri biçimi
+
+STRING_INSTALL_NOW = Şimdi Yükle
+
+STRING_SPACE_REQUIRED = Gereken alan
+
+STRING_SPACE_AVAILABLE = Kullanıma hazır alan
+
+STRING_FOLDER = Klasör
+
+STRING_INSTALL_DONE = Yüklemeyi tamamla
+
+STRING_INSTALLATION_CANCEL_CONFIRMATION = Bu yüklemeyi iptal etmek ister misiniz?
+
+STRING_SELECT_FOLDER = Lütfen başka bir klasör seçiniz
+
+STRING_AGREE_WITH_LICENSE = Lütfen ilerlemek için lisansı onaylayın
+
+STRING_PRE_INSTALL_CHECKS = Sistem Gereklilikleri Denetleniyor
+
+STRING_INSTALLING_ENGINE = Motor Yükleniyor
+
+STRING_EXTRACTING_FILES = Dosyalar Çıkarılıyor
+
+STRING_INSTALL_FINISH = Yükleme Tamamlandı
+
+STRING_CUSTOM = Yüklemeyi özelleştirin
+
+STRING_SOFTWARE_LICENSE = Yazılım lisansı
+
+STRING_AGREE = Kabul Et
+
+STRING_UNINSTALL_FINISHED = Kaldırma İşlemi Tamamlandı
+
+STRING_CANCEL = İptal
+
+STRING_UNINSTALL = Kaldır
+
+STRING_ENGINE_UNINSTALL = Motoru Kaldırma
+
+STRING_CLIENT_UNINSTALL = İstemciyi Kaldırma
+
+STRING_FINISHED = Tamamlandı
+
+STRING_THANKS_FOR_USING_BLUESTACKS = BlueStacks kullandığınız için teşekkürler
+
+STRING_REASON_FOR_UNINSTALL = BlueStacks'ı kullandığınız için teşekkürler. Lütfen BlueStacks'ı silmeyi neden tercih ettiğinizi bize söyleyin:
+
+STRING_INSTALL_ENGINE_FAIL = Motor yüklenemiyor
+
+STRING_INSTALL_GAME_FAIL = Oyun yüklenemiyor
+
+STRING_CONFLICT_WITH_OTHERS = Başka bir yazılımla çatışma
+
+STRING_START_ENGINE_FAIL = Motor başlatılmadı
+
+STRING_GAME_LAG = Laglı oyun
+
+STRING_BLACK_SCREEN = Ekran kararması
+
+STRING_CANNOT_FIND_GAME = Oyun bulunamadı
+
+STRING_APP_CRASH = App çökmesi
+
+STRING_EXE_CRASH = .exe çökmesi
+
+STRING_OTHER_REASON = Diğer sebepler ve bilgiler, oyun adı vb .
+
+STRING_INSTANCE_ALREADY_RUNNING = Bu oluşum hala çalışıyor! Silmek istediğinizden emin misiniz?
+
+STRING_GUEST_NOT_BOOTED = Motor hazır değil. Lütfen bekleyin
+
+STRING_MULTIINSTANCE = Çoklu Oluşum
+
+STRING_INSTALL_APK = APK Yükle
+
+STRING_UNINSTALL_APP = Uygulamayı Sil
+
+STRING_DELETE = Sil
+
+STRING_DEFAULT_KEYBOARD_MAPPING_SETTING_01 = Tuş eşleştirme bu uygulama için mevcut
+
+STRING_DEFAULT_KEYBOARD_MAPPING_SETTING_02 = Kontrol etmek veya düzenlemek için lütfen aşağıya tıklayın.
+
+STRING_DOWNLOAD_GOOGLE_APP_POPUP_STRING_04 = Bir daha gösterme
+
+STRING_UPGRADE_NOW = Şimdi güncelle
+
+STRING_INSTALLATION_ERROR = Yükleme hatası
+
+STRING_TRY_RESTARTING_MACHINE = Bilgisayarınızı tekrar başlatın ya da tekrar deneyin
+
+STRING_MULTI_INSTANCE_CREATE_ERROR = Maalesef oluşum yaratamazsınız. Hata Sebebi:
+
+STRING_ARE_YOU_SURE = Emin misiniz?
+
+STRING_RESTART_MACHINE_PROMPT = PC'nizi yeniden başlatmak ister misiniz?
+
+STRING_OPEN_KEYMAPPING_UI = KeyMapper'i aç
+
+STRING_MAXIMIZE_TOOLTIP = Maksimuma çıkar
+
+STRING_VERION_DOWNGRADE = Derecesini düşür
+
+STRING_VERSION_ALREADY_INSTALLED = Son Sürüm zaten yüklenmiş
+
+STRING_CANT_USE_THIS_FOLDER = Maalesef bu klasör kullanılamaz
+
+STRING_NO_DISK_SPACE = Maalesef yeterli disk alanı yok
+
+STRING_MULTI_INSTANCE_CREATE_BUSY = Yeni aşama oluşturma devam ediyor, lütfen bekleyin.
+
+STRING_MULTI_INSTANCE_DELETE_BUSY = Oluşum silme işlemi devam ediyor, lütfen bekleyin
+
+STRING_UNINSTALL_BLUESTACKS = BlueStacks'i kaldırmak ister misiniz?
+
+STRING_CLIENT_VERSION = Kullanıcı Versiyonu
+
+STRING_SYSTEM_REQUIREMENTS_NOT_MET = Minimum sistem gereksinimleri karşılanamadı.
+
+STRING_RESTART_NOW = Şimdi yeniden başlat
+
+STRING_EXIT_INSTANCE = Bu örneği kapatmak ister misin?
+
+STRING_INSTANCE_CLOSE_TITLE = Oluşumu Kapat
+
+STRING_BLUESTACKS_UPDATE_AVAILABLE = BlueStacks Updater
+
+STRING_DOWNLOADING_BLUESTACKS_UPDATE = BlueStacks güncellemesi indiriliyor
+
+VERSION = Sürüm
+
+STRING_ERROR = Hata
+
+STRING_SCREEN1_TEXT1 = Faydalı özellikleri daha çabuk tanımak için ekranınızda görünen  > butonuna tıklayın.
+
+STRING_DIRECTX = DirectX
+
+STRING_OPENGL = OpenGL
+
+STRING_ENGINE_FAIL_HEADER = Motor başlatılamadı
+
+STRING_ENGINE_RESTART = Motoru veya bilgisayarınızı yeniden başlatmayı deneyebilirsiniz
+
+STRING_CREATING_BACKUP = Yedekleme yaratma
+
+STRING_BACKUP_PLEASE_WAIT = Lütfen, biz BlueStack verilerinizi seçilen klasöre yedeklerken bekleyin.
+
+STRING_RESTORE_BACKUP = Yedeği geri yükle
+
+STRING_RESTORING_BACKUP = Yedekleme geri yükleniyor
+
+STRING_RESTORE_PLEASE_WAIT = Biz BlueStacks verilerinizi seçilen klasörden geri yüklerken lütfen bekleyin.
+
+STRING_MAKE_SURE_LATEST_WARNING = Lütfen BlueStacks verilerinizi (oluşumlarınızı, ayarlarınızı, yüklenmiş oyun ve uygulamalarınızı ve onların verileri, klavye ayarlarını) başka bir yedeklemeden geri yüklemeden önce yedekleyin. Yoksa bu verileri kurtaramayabilirsiniz.
+
+STRING_BACKUP_WARNING = Yedekleme uyarısı
+
+STRING_BLUESTACKS_BACKUP_PROMPT = Bu işlem esnasında BlueStacks kullanamayacaksınız, devam etmek istiyor musunuz?
+
+STRING_QUITTING_BLUESTACKS_WHILE_BACKUP_PROMPT = Bir yedekleme yaratmak için BlueStacks'ten çıkıyorsunuz. Devam etmek istediğinize emin misiniz?
+
+STRING_BLANK_NOTIFICATION = Uygulamanızın bir bildirimi var
+
+STRING_QUITTING_BLUESTACKS_WHILE_RESTORE_PROMPT = BlueStacks'ten çıkılırken lütfen bekleyin, geri yükleme tamamlanınca başlanacak.
+
+STRING_SUCCESS = Başarı
+
+STRING_LAUNCHING_BLUESTACKS = BlueStacks açılıyor
+
+STRING_RUNNING_COMMANDS = Çalıştırma komutları
+
+STRING_COMMANDS_ERROR = Bir hatalı durumla karşılaştık, hata kodu
+
+STRING_TOOL_SUCCESS = Başarıyla tamamlandı.
+
+STRING_DELETING_BACKUP = Yedekleme Siliniyor
+
+STRING_DELETING_BACKUP_INFO = Yedeklemenizi iptal ederken lütfen bekleyin.
+
+STRING_ANOTHER_BLUESTACKS_INSTANCE_RUNNING_PROMT_TEXT1 = Başka bir BlueStacks Programı zaten çalışıyor.
+
+STRING_ANOTHER_BLUESTACKS_INSTANCE_RUNNING_PROMT_TEXT2 = Mevcut BlueStacks Programını kapatmak için Tamam'ı tıklayın ve devam edin.
+
+STRING_BACKUP_ERROR_INVALID_PATH_SELECTED = Yedekleme bu konumda alınamadı. Bu işlem için yetkiniz yok.
+
+STRING_BACKUP_FAILURE = Yedekleme Başarısız
+
+STRING_DATA_MANAGER_INVALID_OEM = Maalesef geri yükleme başarılı olmadı. Varolan BlueStacks sürümüyle uyuşmayan bir yedeklemeden geri yüklemeye çalışıyorsunuz.
+
+STRING_UNINSTALL_TITLE = BlueStacks'i kaldır
+
+STRING_UNINSTALL_BLUESTACKS_WARNING = Verileriniz kaybolacak. Verilerinizi yedeklemek için Ayarlar> Yedekle ve Geri Yükle seçeneklerine gidin.
+
+STRING_BLUESTACKS_UPDATE = BlueStacks güncellemesi
+
+STRING_RESTART_PC = Bilgisayarı yeniden başlat
+
+STRING_RESTART_ENGINE = Motoru Yeniden Başlat
+
+STRING_INVALID_PATH = Geçersiz giriş. Dosya tipi jpg veya jpeg uzantısı olmalı
+
+STRING_INVALID_CHARACTER = Maalesef sadece alfabetik tuşlar geçerlidir.
+
+STRING_BOOT_TIME = Bu işlem, bilgisayarınızın performansına bağlı olarak 40 saniye sürebilir
+
+STRING_BOOTING_ENGINE = Motor başlatılıyor, lütfen bekleyin...
+
+STRING_FIRST_BOOT = İlk kurulum bilgisayarınızın performansına bağlı olarak 2-3 dakika sürebilir
+
+STRING_INSTANCE = Oluşum
+
+STRING_DYNAMIC_RAM = Otomatik olarak ram ayır
+
+STRING_CONNECTION_ISSUE_TEXT1 = Bir bağlantı problemi vardı,
+
+STRING_CONNECTION_ISSUE_TEXT2 = Lütfen yeniden deneyin
+
+STRING_RETRY_CONNECTION_ISSUE_TEXT1 = Tekrar Deneyin
+
+STRING_REMOVE_ACCOUNT_ON_EXIT = BlueStacks kapanıyor. Google hesabınızı ve hesabınıza bağlı bütün içerikleri silmek ister misiniz?
+
+STRING_CLOSING_BLUESTACKS = BlueStacks kapanıyor
+
+STRING_EXIT_BLUESTACKS3 = BlueStacks'ten çıkılıyor
+
+STRING_PERF_WARNING = Performans Uyarısı
+
+STRING_MIN_REQ_NOT_MET = Maalesef bilgisayarınız BlueStacks'i çalıştırmak için minimum gereksinimleri karşılamıyor. Düşük performansla karşılaşabilirsiniz.
+
+STRING_CREATE_INSTANCE = Kopya Oluştur
+
+STRING_CLONE_INSTANCE = Kopyayı Çoğalt
+
+STRING_DONT_CREATE = Oluşturma
+
+STRING_SPEEDUP_BLUESTACKS = BlueStacks'i hızlandır
+
+STRING_SPEEDUP_SUGGESTION_INSTANCE = BlueStacks, çoklu oluşumları çalıştırmak için bilgisayarınızda sanallaştırmayı etkinleştirmenizi tavsiye ediyor. Aksi takdirde düşük performans alabilirsiniz.
+
+STRING_INSTALLATION_ROLLBACK = Geri alma yüklemesi
+
+STRING_UNINSTALLING_WAIT = BlueStacks siliniyor. Lütfen bekleyin.
+
+STRING_CLEANER_TITLE = BlueStacks Temizleyici
+
+STRING_UPGRADE_FROM_BS1_CLEAN_OK = Yenisini yükle
+
+STRING_UPGRADE_FROM_BS1_CLEAN_CANCEL = Eskisini sakla
+
+STRING_REC_MEM = Tavsiye Edilen Bellek :
+
+STRING_DISPLAY_SETTINGS = Göster
+
+STRING_ENGINE_SETTING = Motor
+
+STRING_BOSSKEY_SETTING = Ekran değiştirme tuşu
+
+STRING_NOTIFICATION_SETTING = Bildirim
+
+STRING_BACKUPRESTORE_SETTING = Yedekleme & Geri Yükleme
+
+STRING_UPDATE_SETTING = Güncelle
+
+STRING_ABOUT_SETTING = Hakkında
+
+STRING_DEVICEPROFILE_SETTING = Cihaz profili
+
+STRING_KEEP_BLUESTACKS_UPDATED = BlueStacks'i güncel tutun; böylece oyunlarınızı daha hızlı çalıştırmaya devam edebilir ve en yeni özellikleri edinebilirsiniz.
+
+STRING_LATEST_VERSION = Güncel sürüm kullanıyorsunuz
+
+STRING_LATEST_VERSION_INSTALLED = BlueStacks'in son sürümü zaten bilgisayarınızda yüklü.
+
+STRING_CHECK_UPDATES = Güncellemeleri kontrol et
+
+STRING_NEW_UPDATE = Yeni güncelleme kullanılabilir durumda
+
+STRING_DOWNLOAD = İndirin
+
+STRING_ASPECT_RATIO_NEW = Çözünürlük
+
+STRING_DPI = DPI
+
+STRING_SYSTEM_DEFAULT = Sistem varsayılanı
+
+STRING_CUSTOM_SIZE = Özel boyut
+
+STRING_LOW = Düşük
+
+STRING_HIGH = Yüksek
+
+STRING_CREATE_BACKUP = Yedekleme yarat
+
+STRING_VERSION_FOUR = Versiyon 4
+
+STRING_ABOUT_BLUESTACKS = BlueStacks Hakkında
+
+STRING_RESTORE_BLUESTACKS_DATA = BlueStacks oluşumlarınızı, ayarlarınızı, yüklenmiş oyun ve uygulamalarınızı ve onların verileri, klavye ayarlarınızı en son yedeklemeden geri yükleyin.
+
+STRING_CHANGES_APPLY_RESTART = Yeniden başladığında değişiklikler uygulanacak
+
+STRING_PREFERENCES = Seçenekler
+
+STRING_PLATFORM_SETTINGS = Platform ayarları
+
+STRING_ADD_ICONS = Yüklenen uygulamalar için masaüstü simgeleri ekle
+
+STRING_SETUP_BOSSKEY = Ekran Değiştirme Tuşu Ayarla
+
+STRING_BOSSKEY_SHORTCUT = Ctrl + Alt +
+
+STRING_BOSSKEY_DESCRIPTION = Kısayol tuşu kullanarak BlueStacks'i hemen gizle/göster
+
+STRING_CHOOSE_GRAPHICS_MODE = Grafik modunu seçin
+
+STRING_BETTER_GRAPHICS = İyileştirilmiş grafikler
+
+STRING_MORE_COMPATIBLE = Uyumluluğu daha yüksek
+
+STRING_CPU_AND_RAM_ALLOCATION = CPU & RAM paylaşımı
+
+STRING_CHOOSE_BETWEEN_ONE_TO = 1- arasından seçin
+
+STRING_CHANGELOG = Kayıt değiştir
+
+STRING_CHANGES_APPLY_AUTOMATIC = Değişiklikler otomatik olarak kaydedilecektir
+
+STRING_DOWNLOAD_UPDATE = Güncellemeyi İndir
+
+STRING_CONTINUE_PRESENT = Şimdikiyle devam et
+
+STRING_INSTALL_UPDATE = Güncelleme yükle
+
+STRING_NEW_UPDATE_READY = BlueStacks'in yeni sürümü indirildi ve kuruluma hazır. Yüklemek istiyor musunuz?
+
+STRING_UPDATE_NEXT_BOOT = Yeni yüklemede güncelle
+
+STRING_INSTALLED_APPS = Yüklenen uygulamalar
+
+STRING_CUSTOM_NOTIFICATION_SETTING = Yüklenen uygulamalar için özel bildirim ayarlarını kullanın
+
+STRING_REPORT_A_PROBLEM = Problem Bildir
+
+STRING_CREATE_DESKTOP_SHORTCUT = Masaüstü kısayolu yarat
+
+STRING_DELETE_INSTANCE = Oluşumu sil
+
+STRING_RESTART_INSTANCE = Oluşumu yeniden başlat
+
+STRING_RUNNING_DOTED = Çalışıyor...
+
+STRING_BOOTING_DOTED = Yükleniyor...
+
+STRING_CLOSING_DOTED = Kapatılıyor...
+
+STRING_LASTBOOTEDON = Durduruldu, son yükleme
+
+STRING_INSTANCES = Oluşumlar
+
+STRING_START = Başla
+
+STRING_STOP = Durdur
+
+STRING_NEW_FRESH_INSTANCE = Taze Instance 
+
+STRING_NEW_FRESH_INSTANCE_MESSAGE = Her şeyi yüklemen gerekiyor.
+
+STRING_CLONE_SAME_ACCOUNT = Kopyayı Çoğalt
+
+NAME = İsim
+
+STRING_CREATE = Oluştur
+
+STRING_ANTIVIRUS_WARNING_STRING = Antivirüs programları eğer BlueStacks kurulumuna müdahale ediyorsa onları devre dışı bırakın
+
+STRING_ANTIVIRUS_PAUSE_INSTALLER =  BlueStacks'ı yüklemeyi engelliyorsa, PC antivirüs yazılımınızı duraklatın
+
+STRING_BACKUP_DESKTOP = Güncelleme öncesi masaüstüne yedekle
+
+STRING_TAKE_10MIN = Bu 10 dakikaya kadar sürebilir
+
+STRING_HIDE = İlerlemeyi gizle
+
+STRING_RESTARTING = Yeniden başlatılıyor
+
+STRING_SUPPORT = Destek
+
+STRING_WEBSITE = Websitesi
+
+STRING_SUPPORT_EMAIL = Destek epostası
+
+STRING_CHOOSE_NEW = Yeni seç
+
+STRING_RESTORE_DEFAULT = Varsayılanı geri yükle
+
+STRING_WALLPAPER = Duvar kağıdı
+
+STRING_CHANGE_WALLPAPER = Duvar kağıdını değiştir
+
+STRING_RESTORE_DEFAULT_WALLPAPER = Varsayılan duvar kağıdını geri yüklemek ister misiniz?
+
+STRING_PREMIUM_FEATURE = Premium özellik
+
+STRING_PREMIUM_FEATURE_POPUP = Bu özelliği kullanabilmek için BlueStacks Premium satın almanız gerekiyor
+
+STRING_ENABLE_VT = BlueStacks'i hızlandırmak için VT'yi etkinleştirin.
+
+STRING_LEARN_MORE = Daha fazla bilgi edinin
+
+STRING_SPEED_UP_BLUESTACKS = BlueStacks'i hızlandır
+
+STRING_SPEED_UP_TIPS = İpuçlarını hızlandır
+
+STRING_ENABLE_VIRT = Donanım destekli sanallaştırmayı etkinleştir
+
+STRING_ENABLE_VIRT_BODY = Donanım destekli sanallaştırma, daha fazla kaynak kullanarak ve işlem sürelerini azaltarak uygulamaların daha hızlı çalışmasını sağlar.
+
+STRING_ENABLE_VIRT_HYPERLINK = Sanallaştırmayı nasıl etkinleştirebilirim?
+
+STRING_UPGRADE_SYSTEM = Sisteminizi yükseltin
+
+STRING_UPGRADE_SYSTEM_BODY = Bilgisayarınızı daha fazla RAM ve daha hızlı CPU (donanım destekli sanallaştırma ile) ile yükseltmeniz BlueStacks performansını önemli ölçüde artırabilir. İyi bir trackpad veya fare ile geniş, net bir ekran da deneyimi önemli ölçüde geliştirebilir.
+
+STRING_UPGRADE_SYSTEM_HYPERLINK = Önerilen sistem özellikleri neler?
+
+STRING_CONFIGURE_ANTIVIRUS = Antivirüs yazılımını devre dışı bırak
+
+STRING_CONFIGURE_ANTIVIRUS_BODY = Bazı antivirüs özellikleri sanallaştırmayı etkileyebilir ve ciddi performans düşüşlerine neden olabilir. Bunları devre dışı bırakmak BlueStacks'i önemli ölçüde hızlandırabilir. Some antivirus features can interfere with virtualization and cause serious performance degradation. Disabling these features can speed up BlueStacks dramatically.
+
+STRING_CONFIGURE_ANTIVIRUS_HYPERLINK = Antivirüs yazılımımı nasıl yapılandırmalıyım?
+
+STRING_DISABLE_HYPERV = Hyper-V ve diğer hipervizörleri devre dışı bırakacaksınız.
+
+STRING_DISABLE_HYPERV_BODY = BlueStacks sanallaştırma teknolojisini kullanır ve Hyper-V, VirtualBox veya VMWare gibi diğer üst düzey hipervizörler çalıştığında, BlueStacks optimum performans gösteremeyebilir. Sanallaştırma teknolojisini kullanan diğer yazılımları devre dışı bırakmayı deneyin.
+
+STRING_DISABLE_HYPERV_HYPERLINK = Diğer hipervizörleri nasıl devre dışı bırakabilirim?
+
+STRING_NOT_ENOUGH_RAM = Birden çok oluşumu pürüzsüz bir şekilde çalıştırmak için yeterli RAM yok. Yeni bir oluşum yaratmadan önce RAM'inizi yükseltmeyi deneyebilirsiniz.
+
+STRING_LOGOUT_BUTTON = Çıkış
+
+STRING_LOGOUT_BLUESTACKS3 = BlueStacks 3'ten çıkış
+
+STRING_REMOVE_GOOGLE_ACCOUNT = Google Play'den çıkış yapmak ister misiniz?
+
+STRING_APP_UPGRADE = Bu uygulamanın yeni sürümünü yüklemek ister misiniz?
+
+STRING_PLAY_NOW = Şimdi oyna
+
+STRING_RESTORE_INFO = Geri yüklemeden önce yedeklemeyi düşünün, geri yükleme mevcut verilerinizin üzerine yazacaktır ve bunlar kaybolacaktır.
+
+STRING_BACKUP_INFO = Oyunlara bağlı olarak 5 dakika kadar sürebilir.
+
+STRING_BTV_WARNING = Yayın yapmak & video kaydetmek, oyundaki görüntü akış hızını yavaşlatabilir
+
+STRING_BTV_DOWNLOAD = BlueStacks TV indiriliyor.
+
+STRING_BTV_INSTALL_WAIT = BlueStacks TV & video ögeleri indirilken lütfen bekleyin.
+
+STRING_BTV_DOWNLOAD_CANCEL = BlueStacks TV'nin indirilmesini iptal etmek ister misiniz?
+
+STRING_LANGUAGE_SETTING = Dil ayarları
+
+STRING_DOWNLOAD_NOW = Şimdi indir
+
+STRING_HYPERV_ENABLED_MESSAGE = Hyper-V etkinleştirildiğinde BlueStacks, Donanım Destekli Sanallaştırmayı kullanamaz. Lütfen Kontrol Panelinden Hyper-V'yi devre dışı bırakın. Ayrıntılar için Sık Sorulan Sorular'a bakın.
+
+STRING_SHOW_GUIDE = SSS İncele
+
+STRING_UPGRADE_NOT_SUPPORTED = Maalesef, BlueStacks'in mevcut sürümünü en yeni sürüme yükseltmek mümkün değil.
+
+STRING_UNINSTALL_CURRENT_AND_REINSTALL = Lütfen mevcut kurulumu kaldırın ve BlueStacks'i tekrar yükleyin.
+
+STRING_AVAILABLE_TO_DOWNLOAD = İndirilebilir
+
+STRING_XPAC_PERF_BOOST = Performansı Arttır
+
+STRING_XPAC_DEF_KEYMAP = Varsayılan klavye denetimleri
+
+STRING_XPAC_SPECIAL_THEMES = Özel tema
+
+STRING_XPAC_GUIDE_TUTORIALS = Rehber ve klavuz
+
+STRING_XPAC_SPECIAL_GIFTS = Özel hediyeler
+
+STRING_XPAC_DESCRIPTION = xPacks, başka yerlerde oyun oynarken bir avantaj elde etmek için ihtiyaç duyduğunuz araçları getirerek BlueStacks üzerindeki oyun deneyiminizi artırır.
+
+STRING_XPAC_GET_FREE = Bedava Edinin
+
+STRING_XPAC_APPLY_THEME = XPack temasını uygula
+
+STRING_XPAC_REVERT_THEME = Temayı varsayılana döndür
+
+STRING_XPAC_INSTALLED = xPack yüklendi
+
+STRING_CAPTURE_ERROR = Maalesef ekranı yakalayamadı. Grafik modunu DirectX'e nasıl değiştireceğinizi öğrenmek için Sık Sorulan Sorular bölümünü inceleyin.
+
+STRING_DIRECTX_DOWNLOAD = Sisteminizde BlueStacks TV tarafından gerekli DirectX bileşenleri eksik. İndirmek ister misiniz?
+
+STRING_CHANGE_SKINS = Uygulama rengini değiştir
+
+STRING_BLUESTACKS_SKIN = BlueStacks Arayüzleri
+
+STRING_CHANGE_SKIN = Arayüzü Değiştir
+
+STRING_ICON_REMOVE = Bu simgeyi kaldırmak ister misiniz?
+
+STRING_SOME_ERROR_OCCURED_DOWNLOAD = Ne yazık ki, güncelleme tamamen indirilemedi. Lütfen tekrar deneyin veya BlueStacks desteğiyle iletişime geçin.
+
+STRING_MAPS = BlueStacks World
+
+STRING_DELETING_DOTED = Siliniyor...
+
+STRING_AUTO_START_ON_FINISH = Tamamlanınca Otomatik Başlat
+
+STRING_PIKA_POINTS = BlueStacks Puanı
+
+STRING_APPLIED = Başvuruldu
+
+STRING_REDEEM = Kullan
+
+STRING_INVALID_APK_BLACKLISTED_ERROR = Bu uygulama BlueStacks'in bu sürümüne yüklenemez.
+
+STRING_MACRO_RUNNING = Makro şu anda çalışıyor.
+
+STRING_REROLL_APP_PREFIX = Reroll
+
+STRING_START_REROLL = Reroll'u başlatmak istiyor musunuz?
+
+STRING_REROLL_COMPLETED = Reroll tamamlandı.
+
+STRING_GL3_SWITCH = OpenGL moduna geçin.
+
+STRING_GL3_WINDOW_TITLE = Maalesef bu oyunu oynayamazsınız.
+
+STRING_GL3_WINDOW_BODY_DIRECTX = Grafik kartınız bu oyunu mevcut modda desteklemiyor. Bu oyunu çalıştırmak için lütfen BlueStacks grafik modunu OpenGL moduna getirin.
+
+STRING_SWITCH_OPENGL_MODE = Bu oyunu oynamak için OpenGL moduna geçin.
+
+STRING_GL_MODE_RESTART = Grafik modunu değiştirmek için BlueStacks yeniden başlatılmalıdır.
+
+STRING_GL3_WINDOW_BODY_OPENGL = Maalesef grafik kartınız bu oyunu desteklemiyor.
+
+STRING_GL3_UPDATE_DRIVER = Lütfen bu oyunu oynamak için grafik kartı sürücünüzü güncelleyin.
+
+STRING_IMPORTANT_UPDATES = Önemli Güncellemeler
+
+STRING_VIEW_XPACK = xPack'i görüntüle
+
+STRING_NOTIFICATION_CENTER = Bildirim Merkezi
+
+STRING_CLEAR_ALL = Hepsini temizle
+
+STRING_XPACK = xPack
+
+STRING_GET_XPACKS = xPack Al
+
+STRING_SHOW_RIBBON = Üst şerit bildirimlerini göster
+
+STRING_PRECAUTION_BEFORE_UPGRADE = Yükseltmenin başarılı olmaması durumunda verilerinizi bir güvenlik önlemi olarak yedeklemenizi öneririz.
+
+STRING_HOW_TO_TAKE_BACKUP = Yedekleme nasıl yapılır?
+
+STRING_BEFORE_YOU_UPDATE = Güncellemeden Önce
+
+STRING_CONTINUE = Devam
+
+STRING_VIEW_XPACK_TOOLTIP = xPack PowerUps ve geliştirmeleri görüntüleyin.
+
+STRING_GET_XPACK_TOOLTIP = Oyun performansını artırın ve xPack indirerek deneyiminizi zenginleştirecek güç kaynakları elde edin.
+
+STRING_APP_CANNOT_START = Uygulama Başlatılamadı
+
+STRING_ADVANCED_GRAPHIC_ENGINE_REQUIRED = Bu uygulama, gelişmiş grafik motoru gerektiriyor.
+
+STRING_SWITCH_TO_ADVANCED_ENGINE_RESTART = Lütfen bu uygulamayı oynatmak için gelişmiş grafik motoruna geçin. BlueStacks, değişikliğin geçerli olması için bir yeniden başlatma gerektirir. Ayrıca, grafik motorunu Ayarlar -> Motor'dan değiştirebilirsiniz.
+
+STRING_SWITCH_RESTART = Değiştir ve Yeniden Başlat
+
+STRING_ADVANCE_GRAPHICS_ENGINE_SETTING = Gelişmiş grafik motoru modunu kullan (Beta)
+
+STRING_INSTALLATION_ROLLBACK_COMPLETE = Rollback Tamamlandı
+
+STRING_INSTALLER_PROPERTIES_INIT_FAILED_BODY = Yükleyici için özellikler başlatılırken bir hata oluştu
+
+STRING_CLICK_HERE = İndirmek için Tıklayın
+
+STRING_DIRECTX_WARNING_TITLE = OpenGL bu sürümde DirectX'den daha iyi çalışır.
+
+STRING_DIRECTX_WARNING = Daha iyi performans ve oyun uyumluluğu için OpenGL'ye geçin. Eğer hala DirectX kullanmak istiyorsanız, lütfen BlueStacks 3'ü yükleyin.
+
+STRING_LATEST_VERSION_REQUIRED = Bu uygulama BlueStacks'in son sürümünü gerektirir
+
+STRING_LATEST_VERSION_REQUIRED_DETAILED = Bu oyun BlueStacks'in mevcut sürümü ile uyumsuz. Bu oyunu oynamak için lütfen Bluestacks'in en son sürümünü indirin ve yükleyin.
+
+STRING_KITKAT_VERSION_REQUIRED = Bu uygulama sadece BlueStacks 3 ile uyumludur.
+
+STRING_NOUGAT_VERSION_REQUIRED = Bu uygulama sadece BlueStacks N ile uyumludur.
+
+STRING_NOUGAT_VERSION_REQUIRED_DETAILED = Bu uygulama sadece en son BlueStacks N'de desteklenir. Lütfen BlueStacks N'in son sürümünü indirin ve yükleyin.
+
+STRING_DX_SWITCH = BlueStacks grafik modunu DirectX moduna geçirin.
+
+STRING_ADX_SWITCH = BlueStacks grafik modunu Gelişmiş DirectX moduna geçirin.
+
+STRING_DX_WINDOW_BODY_DIRECTX = Grafik kartınız bu oyunu mevcut modda desteklemiyor. Bu oyunu çalıştırmak için lütfen BlueStacks grafik modunu DirectX moduna getirin.
+
+STRING_INCOMPATIBLE_INSTALLER_STARTED = BlueStacks Installer'ın bu sürümü, Windows sürümünüzle uyumlu değildir. Lütfen BlueStacks'in {0} sürümünü indirin ve tekrar deneyin.
+
+STRING_VTX_DISABLED_WARNING_MESSAGE = BlueStacks, daha iyi performans için Donanım Destekli Sanallaştırmayı kullanamaz. Lütfen BIOS ayarlarını kontrol edin ve etkin olduğundan emin olun. AVAST veya 360 Antivirüs kullanıyorsanız, lütfen antivirüs ayarlarını kontrol edin ve Donanım Destekli Sanallaştırma kullanımının devre dışı olduğundan emin olun. Ayrıntılar için Sık Sorulan Sorular'a bakın.
+
+STRING_VTX_UNAVAILABLE_WARNING_MESSAGE = Bilgisayarınız Donanım Destekli Sanallaştırmayı desteklemiyor. Bu BlueStacks deneyiminizi etkileyebilir.
+
+STRING_DISABLED_VT_TITLE = Sanallaştırma devre dışı olduğundan performansınız yavaş.
+
+STRING_DISABLED_VT = Ne yazık ki performansınız, donanım sanallaştırma teknolojisi (VT) PC'nizde devre dışı bırakılmıştır. Lütfen VT'yi etkinleştirmek için bu SSS'ye bakın.
+
+STRING_RAM_NOTIF_TITLE = RAM nedeniyle performansınız yavaş
+
+STRING_RAM_NOTIF = Bilgisayarınız 4 veya daha az GB RAM'e sahip olduğundan, performansınız yavaş olabilir. BlueStacks için sistem gereksinimlerini okuyunuz.
+
+STRING_CONTINUE_ANYWAY = Devam Et
+
+STRING_RUNNING_CHECKS = OpenGL Kontrolleri Aktif
+
+STRING_OPENGL_NOTSUPPORTED_BODY = Ne yazık ki PC'nizin grafik kartı OpenGL modunu desteklemiyor. Lütfen devam butonuna tıklayın ve oyunu oynayın.
+
+STRING_OPENGL_NOT_SUPPORTED = OpenGL Desteklenmiyor
+
+STRING_UNFORTUNATELY_COULDNT_INSTALL = Maalesef, BlueStacks PC'nize yüklenemez.
+
+STRING_ERROR_CODE_COLON = Hata kodu:
+
+STRING_PREINSTALL_FAIL = Maalesef, PC'niz BlueStacks yüklemek için minimum gereksinimleri karşılamıyor.
+
+STRING_INSUFFICIENT_DISKSPACE = Bluestack'in ihtiyaç duyduğu kadar yeterli disk alanı yok
+
+STRING_OLD_INSTALLATION_INTERFERING = BlueStacks'in mevcut kurulumu, yeni sürüme müdahale ediyor gibi görünüyor.
+
+STRING_FAILED_TO_RESTORE_OLD_DATA = BlueStacks önceki verilerinizi geri yükleyemedi.
+
+STRING_ERROR_OCCURED_DEPLOYING_FILES = BlueStacks, bazı dosyaları uygulamaya alırken bir hatayla karşılaştı.
+
+STRING_COULDNT_RESTORE_UNUSABLE = BlueStacks geri yüklenemedi ve şu an kullanılamaz durumda.
+
+STRING_KITKAT_VERSION_REQUIRED_DETAILED = Bu uygulama BlueStacks 4'te desteklenmemektedir. Lütfen BlueStacks 3'ün son sürümünü indirin ve yükleyin.
+
+STRING_CHECK_FAQ = Sık Sorulan Sorular'ı Kontrol Edin
+
+STRING_INSTALLER = © Bluestack Systems, Inc., 2018, All Rights Reserved Worldwide
+
+STRING_PERFORMANCE_SETTINGS = Performans Ayarları
+
+STRING_SWITCH_HOME = Uygulamalar arasında standart Android geçişi
+
+STRING_CLEAN_BLUESTACKS = Bu, mevcut genel BlueStacks ve kayıtlı oyun verilerinizi tamamen silecektir.
+
+STRING_HYPERV_ENABLED_WARNING = Hyper-V etkinken BlueStacks başlatılamaz.
+
+STRING_IMPROVE_PERFORMANCE = Performans Geliştirme
+
+STRING_IMPROVE_PERFORMANCE_WARNING = BlueStacks daha yavaş ve daha az duyarlı tepkiler verebilir.
+
+STRING_PROMO_INFO = Ön yükleme tamamlandıktan sonra oyun yüklenecektir.
+
+STRING_INSTALL = Yükleme (Installs) Teklifleri
+
+STRING_PLAY = Oyna
+
+STRING_MOST_SEARCHED_APPS = En çok aranan uygulamalar
+
+STRING_PREREGISTER = Ön Kayıt
+
+STRING_KILL_WEBTAB = Oyunu çalıştırırken web sayfalarını devre dışı bırak.
+
+STRING_LOW_AVAILABLE_RAM_TITLE = PC'nizdeki kullanılabilir RAM düşük
+
+STRING_LOW_AVAILABLE_RAM_TEXT1 = Düşük RAM nedeniyle oldukça yavaş bir BlueStacks performansı yaşayabilirsiniz.
+
+STRING_LOW_AVAILABLE_RAM_TEXT2 = Lütfen diğer açık programları kapatın ve BlueStacks kullanmaya devam edin.
+
+STRING_CHANGE_DEVICE_PROFILE = Bu oyunu oynamak için lütfen cihaz profilinizi güncelleyin
+
+STRING_CHANGE_DEVICE_PROFILE_BODY = Bu oyun cihazınızda çalışmayabilir. Oyunu oynamaya devam etmek için lütfen cihazınızı değiştirin.
+
+STRING_SWITCH_PROFILE = Profil değiştir
+
+STRING_SWITCHING_PROFILE = Profil Değiştiriliyor
+
+STRING_SWITCH_PROFILE_FAILED = Cihaz profili değiştirilemedi
+
+STRING_SWITCH_PROFILE_UPDATED = Cihaz profili başarıyla güncellendi
+
+STRING_SETUP = Google Kur
+
+STRING_OLD_KEYMAPPINGS_CANNOT_USE = Yeni sürüme geçtikten sonra kullanılamayacak olan özel anahtar tuş eşlemeleriniz var.
+
+STRING_WOULD_LIKE_TO_CONTINUE = Devam etmek ister misin?
+
+STRING_CLOSE_GAME = Oyunu Kapat
+
+STRING_CLOSE_BLUESTACKS = BlueStacks'i Kapat
+
+STRING_GAME_CONTROLS_CONTROL_SCHEME = Kontrol Şeması
+
+STRING_BTV = BTV
+
+STRING_REVERT = Geri Al
+
+STRING_EDIT_KEYS = Düzenle
+
+STRING_SAVE_KEYS = Kaydet
+
+STRING_GAME_CONTROLS_WINDOW_HEADER = Oyun Kontrolleri
+
+STRING_GAME_CONTROLS_WINDOW_EDIT_HEADER = Oyun Kontrollerini Düzenle
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER1 = Bu ekranı istediğiniz zaman görmek için Ctrl+Shift+H tuşlarına basın.
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER2 = Başlangıçta bu ekranı göster
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER3 = İpucu - İlgili eyleme yeni bir anahtar tuş atamak için tuş kutusuna tıklayın ve değişiklikleri kaydetmek için “Kaydet” e tıklayın.
+
+STRING_ADVANCED_GAME_CONTROLS_WINDOW_HEADER = Gelişmiş Oyun Kontrolleri
+
+STRING_ADVANCED_GAME_CONTROLS_ACTION_HEADER = Tuşları doğrulamak için hareket ettirin ve ekrandaki hareketleri tıklayın.
+
+STRING_UNSAVED_CHANGES = Kaydedilmemiş bazı değişiklikler var. Kaydetmek ve çıkmak ister misiniz?
+
+STRING_CLEAR_CHANGES = Değişiklikler temizlendi
+
+STRING_REVERT_CHANGES = Değişiklikler geri alındı
+
+STRING_SAVE_CHANGES = Değişiklikler kaydedildi
+
+STRING_USING_SCHEME = Şema kullanılıyor
+
+STRING_MOBA_HERO_DUMMY = Kalibrasyon için kahramanı ekranın ortasına yerleştirin.
+
+STRING_MOBA_SKILL_CANCEL = Noktayı iptal tuşuna yerleştirin.
+
+STRING_LOOK_AROUND_MODE = Göz simgesi varsa kontrol etrafındaki yere yerleştirin
+
+STRING_SHOOT_MODE = Ekrandaki hedefi ateş ikonunun üzerine yerleştirin.
+
+STRING_AAVIDEO = Eğitim
+
+Imap_string_MouseRButton = Sağ tık
+
+Imap_string_MouseLButton = Sol tık
+
+Imap_string_MouseMButton = Orta tuş
+
+IMAP_STRING_Fields = Fields
+
+IMAP_STRING_CATEGORY_Shooting_Mode = Atış Modu
+
+STRING_ADVANCED_GAME_CONTROLS_ACTION_PROFILEHEADER = Düzenlenecek profili seçin
+
+IMAP_Video_Element_Body = Sadece BlueStacks'e özel oluşturulan ve en iyi oyun deneyimi sunmak için hazırlanan hızlı ipuçları ve püf noktalar eğiticisini izleyin
+
+IMAP_Video_Element_Header = Özel oyun videosu mevcut
+
+IMAP_MOBA_Video_Element_Body = Mobil arena savaş oyunu deneyiminizi geliştirmek için mouse'nızı kullanın.
+
+IMAP_MOBA_Video_Element_Header = Tüm hareketleri mouse ile gerçekleştirin
+
+IMAP_Pan_Video_Element_Body = Herhangi bir mobil FPS veya atış oyunu için oyun deneyiminizi geliştirmek için farenizi kullanın.
+
+IMAP_Pan_Video_Element_Header = Mouse ile Hedef Alın & Ateş Edin
+
+STRING_SHOW_GAMING = Kapatma esnasında oyun özetini göster
+
+STRING_SUBMIT = Gönder
+
+STRING_TROUBLE_LOGGING = Giriş esnasında problem mi yaşıyorsunuz?
+
+STRING_LET_HELP = Size yardımcı olalım
+
+STRING_OUTLINE_ISSUE = Lütfen size nasıl yardımcı olabileceğimizi anlayabilmemiz için sorunu açıklayın.
+
+STRING_DESC_ISSUE = Sorunu tanımlayın
+
+STRING_HOW_ISSUE = Yaşadığınız problem nedir?
+
+STRING_YOUR_EMAIL = E-posta Adresiniz
+
+STRING_YOUR_PHONE = Telefon Numaranız
+
+STRING_TEN_PHONE_NUMBER = Ülke koduyla birlikte telefon numaranız
+
+STRING_APPRECIATE_FEEDBACK = BlueStacks'i seçtiğiniz için teşekkür ederiz. Uzmanlarımız en kısa sürede size ulaşacaklar.
+
+STRING_THANK_YOU = Teşekkürler
+
+STRING_RESTART_BLUESTACKS_AFTER_GRAPHICS_CHANGE = {0} BlueStacks'i yeniden başlatın.
+
+STRING_CHECKING_GRAPHICS_COMPATIBILITY = {0} uyumluluk kontrol ediliyor
+
+STRING_GRAPHICS_NOT_SUPPORTED_ON_MACHINE = {0} PC'nizde desteklenmiyor.
+
+STRING_GUIDANCE_CATEGORY = Rehberlik kategorisi
+
+STRING_ENHANCEMENTS = Geliştirmeler
+
+STRING_TAGS = Etiketler (isteğe bağlı)
+
+STRING_ENABLE_MODE = Modu etkinleştir
+
+STRING_FIRE_WITH_MOUSE_LEFT = Sol mouse ile ateş et
+
+STRING_CANCEL_SKILL = Skill'i iptal et
+
+STRING_ENABLE_FEATURES = Özellikleri etkinleştir
+
+STRING_LOOK_AROUND_MODE_HEADER_TEXT = Serbest Bakış Modu
+
+STRING_MOBA_CONTROL_MODE = MOBA Kontrol Modu
+
+IMAP_STRING_UP = Yukarı
+
+IMAP_STRING_CATEGORY_MOVEMENT = Hareketler
+
+IMAP_STRING_DOWN = Aşağı
+
+IMAP_STRING_LEFT = Sol
+
+IMAP_STRING_RIGHT = Sağ
+
+IMAP_STRING_TAP = Dokunma
+
+IMAP_STRING_CATEGORY_ACTION = Aksiyon
+
+IMAP_STRING_SPECIAL_1 = Özel 1
+
+IMAP_STRING_SPECIAL_2 = Özel 2
+
+IMAP_STRING_SPECIAL_3 = Özel 3
+
+IMAP_STRING_SPECIAL_4 = Özel 4
+
+IMAP_STRING_MAIN_ABILITY = Ana Yetenek
+
+IMAP_STRING_DRAGON_BALL_ABILITY = Dragon Ball Yeteneği
+
+IMAP_STRING_SWITCH_CHARACTER_1 = Karakter Değiştirme 1
+
+IMAP_STRING_SWITCH_CHARACTER_2 = Karakter Değiştirme 2
+
+IMAP_STRING_ZOOM_IN = Yakınlaş
+
+IMAP_STRING_ZOOM_OUT = Uzaklaş
+
+IMAP_STRING_CATEGORY_ZOOM = Yakınlaştır
+
+IMAP_STRING_TOGGLE_SHOOTING_ = Atış modunu değiştir
+
+IMAP_STRING_SUSPEND_SHOOTING_MODE = Atış modunu askıya al
+
+IMAP_STRING_SHOOT = Ateş
+
+IMAP_STRING_SENSITIVITY = Hassasiyet
+
+IMAP_STRING_PAN_TWEAKS = Tweaks
+
+IMAP_STRING_CATEGORY_COMBAT = Dövüş
+
+IMAP_STRING_FORWARD = İleri
+
+IMAP_STRING_BACKWARD = Geri
+
+IMAP_STRING_JUMP = Jump
+
+IMAP_STRING_CROUCH = Çömelme
+
+IMAP_STRING_WEAPON_4 = Silah 4
+
+IMAP_STRING_RELOAD = Reload
+
+IMAP_STRING_PRONE = Yatış
+
+IMAP_STRING_TAP_KEY = Dokunma Tuşu
+
+STRING_MISC = Diğer
+
+IMAP_STRING_HEAL = Sağlık
+
+IMAP_STRING_CATEGORY_MISCELLANEOUS = Çeşitler
+
+IMAP_STRING_WEAPON_3 = Silah 3
+
+IMAP_STRING_INVENTORY = Envanter
+
+IMAP_STRING_GRENADE = El Bombası
+
+IMAP_STRING_MAP = Harita
+
+IMAP_STRING_CATEGORY_GENERAL = Genel
+
+IMAP_STRING_EJECT = Çık
+
+IMAP_STRING_CATEGORY_PARACHUTE = Paraşüt
+
+IMAP_STRING_ENTER = Giriş
+
+IMAP_STRING_CATEGORY_VEHICLE = Araç
+
+IMAP_STRING_ACCELERATE = Gaz
+
+IMAP_STRING_BRAKE = Fren
+
+IMAP_STRING_STEER_LEFT = Sola Git
+
+IMAP_STRING_STEER_RIGHT = Sağa Git
+
+IMAP_STRING_WEAPON_2 = 2. Silah
+
+IMAP_STRING_SPRINT = Hızlı Koşu
+
+IMAP_STRING_DIVE = Dalış
+
+IMAP_STRING_USE/DRIVE = Kullan
+
+IMAP_STRING_MOVE_FORWARD = İleriye Taşı
+
+IMAP_STRING_MOVE_BACKWARD = Geri Çek
+
+IMAP_STRING_MOVE_LEFT = Sola Hareket Ettir
+
+IMAP_STRING_MOVE_RIGHT = Sağa Hareket Ettir
+
+IMAP_STRING_ENTER_SHOOTING_MODE = Atış Moduna Geç
+
+IMAP_STRING_OPEN_DOOR = Kapı Aç
+
+IMAP_STRING_CATEGORY_INTERACT = Etkileşim
+
+IMAP_STRING_HIDE = Gizle
+
+IMAP_STRING_DROP = Bırak
+
+IMAP_STRING_BLOCK = Blok
+
+IMAP_STRING_SKILL_1 = Yetenek 1
+
+IMAP_STRING_SKILL_2 = Yetenek 2
+
+IMAP_STRING_SKILL_3 = Yetenek 3
+
+IMAP_STRING_CHARGE_ABILITY = Şarj Yeteneği
+
+IMAP_STRING_SWIPE_UP = Yukarı Kaydır
+
+IMAP_STRING_SWIPE_DOWN = Aşağı Kaydır
+
+IMAP_STRING_SWIPE_LEFT = Sola Kaydır
+
+IMAP_STRING_SWIPE_RIGHT = Sağa Kaydır
+
+IMAP_STRING_SPRINT_AND_SKILL/SPRINT_TACKLE = Hızlı Koşu ve Yetenekler
+
+IMAP_STRING_PASS/SWITCH = Geçiş / Değiştirme
+
+IMAP_STRING_SHOOT/SLIDE_TACKLE = Atış/Mücadele
+
+IMAP_STRING_THROUGH/2ND_DEFENDER = 2. Yedek Oyuncu
+
+IMAP_STRING_SPRINT/DEFEND = Hücum/Savunma
+
+IMAP_STRING_SHOOT/BLOCK = Atış/Blok
+
+IMAP_STRING_PASS = Geç
+
+IMAP_STRING_GAS = Yakıt
+
+IMAP_STRING_CATEGORY_GAMEPLAY = Oynanış
+
+IMAP_STRING_CATEGORY_SKILLS = Yetenekler
+
+IMAP_STRING_AUTO = Otomatik
+
+IMAP_STRING_CHANGE_SPEED = Hızı Değiştir
+
+IMAP_STRING_OPEN_SETTINGS = Ayarları Aç
+
+IMAP_STRING_MOVE_UP = Yukarı git
+
+IMAP_STRING_MOVE_DOWN = Eğilme
+
+IMAP_STRING_BASIC_ATTACK = Temel Saldırı
+
+IMAP_STRING_ITEM_1 = Item 1
+
+IMAP_STRING_ITEM_2 = Item 2
+
+IMAP_STRING_ITEM_3 = Item 3
+
+IMAP_STRING_ITEM_4 = Item 4
+
+IMAP_STRING_PICK_UP = Topla
+
+IMAP_STRING_SELF = Kişisel
+
+IMAP_STRING_CATEGORY_ITEMS = Item'ler
+
+IMAP_STRING_SWIPE_ITEMS_LEFT = Item'leri Sola Kaydır
+
+IMAP_STRING_SWIPE_ITEMS_RIGHT = Item'leri Sağa Kaydır
+
+IMAP_STRING_QUEST = Çekilişler
+
+IMAP_STRING_BACKPACK = Sırt Çantası
+
+IMAP_STRING_ATTACK_1 = Saldırı 1
+
+IMAP_STRING_CATEGORY_ATTACKS = Saldırılar
+
+IMAP_STRING_ATTACK_2 = Saldırı 2
+
+IMAP_STRING_ATTACK_3 = Saldırı 3
+
+IMAP_STRING_ATTACK_4 = Saldırı 4
+
+IMAP_STRING_ATTACK_5 = Saldırı 5
+
+IMAP_STRING_ATTACK_6 = Saldırı 6
+
+IMAP_STRING_QUICKBUY_ITEM_1 = Hızlı item satın al 1
+
+IMAP_STRING_CATEGORY_SHOP = Dükkan
+
+IMAP_STRING_QUICKBUY_ITEM_2 = Hızlı item satın al 2
+
+IMAP_STRING_LEVEL_UP_SPELL_1 = Seviye yükseltme 1
+
+IMAP_STRING_LEVEL_UP_SPELL_2 = Seviye yükseltme 2
+
+IMAP_STRING_LEVEL_UP_ULTIMATE = Seviye yükseltme
+
+IMAP_STRING_ABILITY_1 = Yetenek 1
+
+IMAP_STRING_SPELL_1 = Büyü 1
+
+IMAP_STRING_ENABLE_AUTOCAST_SPELL_1 = Otomatik büyüyü etkinleştir 1
+
+IMAP_STRING_CATEGORY_SPELLS = Büyüler
+
+IMAP_STRING_ENABLE_AUTOCAST_SPELL_2 = Otomatik büyüyü etkinleştir 2
+
+IMAP_STRING_ULTIMATE = Ultimate
+
+IMAP_STRING_ENABLE_AUTOCAST_ULTIMATE = Autocast Ultimate'i Etkinleştir
+
+IMAP_STRING_OPEN_SHOP = Dükkan Aç
+
+IMAP_STRING_ABILITY_2 = Yetenek 2
+
+IMAP_STRING_DASH_RIGHT = Sağa tıklayın
+
+IMAP_STRING_DASH_LEFT = Sola tıklayın
+
+IMAP_STRING_ATTACK = Saldır
+
+IMAP_STRING_SPECIAL_ATTACK = Özel Saldırı
+
+IMAP_STRING_SLIDE = Kayış
+
+IMAP_STRING_HOVERBOARD = Hoverboard
+
+IMAP_STRING_COLLECT = Topla
+
+IMAP_STRING_CATEGORY_TAP = Dokunma
+
+IMAP_STRING_BUY_LEMONADE_STAND = Limonata standı al
+
+IMAP_STRING_BUY_NEWSPAPER_STAND = Gazete standı al
+
+IMAP_STRING_BUY_CAR_WASH = Oto yıkama al
+
+IMAP_STRING_BUY_PIZZA_STAND = Pizza standı al
+
+IMAP_STRING_BUY_DONUT_SHOP = Donut dükkanı satın al
+
+IMAP_STRING_BUY_SHRIMP_BOAT = Karides teknesi al
+
+IMAP_STRING_BUY_HOCKEY_TEAM = Hokey takımı satın al
+
+IMAP_STRING_BUY_MOVIE_STAND = Film standı satın al
+
+IMAP_STRING_BUY_BANK = Banka al
+
+IMAP_STRING_BUY_OIL_COMPANY = Benzin istasyonu al
+
+IMAP_STRING_REGEN = Yenile
+
+IMAP_STRING_RECALL = Hatırlatma
+
+IMAP_STRING_USE_ACTIVE_ABILITY = Aktif yeteneği kullan
+
+IMAP_STRING_QUICK_BUY_ITEM_1 = Hızlı item satın al 1
+
+IMAP_STRING_QUICK_BUY_ITEM_2 = Hızlı item satın al 2
+
+IMAP_STRING_UPGRADE_SKILL_1 = Yetenek yükseltme 1
+
+IMAP_STRING_ENABLE_AUTOCAST = Otomatik yayını etkinleştir
+
+IMAP_STRING_CANCEL_CAST = Yayını İptal Et
+
+IMAP_STRING_UPGRADE_SKILL_2 = Yetenek yükseltme 2
+
+IMAP_STRING_UPGRADE_SKILL_3 = Yetenek yükseltme 3
+
+IMAP_STRING_SCOREBOARD = Sayı Tahtası
+
+IMAP_STRING_SKILL_4 = Yetenek 4
+
+IMAP_STRING_SKILL_5 = Yetenek 5
+
+IMAP_STRING_CHAT/CONFIRM = Chat/Onay
+
+IMAP_STRING_SPECIAL_POTIONS = Özel İksirler
+
+IMAP_STRING_HEALTH_POTION = Sağlık İksiri
+
+IMAP_STRING_MANA_POTION = Kudret İksiri
+
+IMAP_STRING_POWER_SCROLLS = Güç Scroll'u
+
+IMAP_STRING_EMOTES = Emotes
+
+IMAP_STRING_CO-OP_SKILL = Ortak Yetenek
+
+IMAP_STRING_CATEGORY_CHARACTERS = Karakterler
+
+IMAP_STRING_AUTO_SKILL = Auto skill
+
+IMAP_STRING_SUMMON = Davet
+
+IMAP_STRING_CATEGORY_SKILL = Yetenek
+
+IMAP_STRING_SHOOTING_MODE = Atış Modu
+
+IMAP_STRING_CATEGORY_AIM & ATEŞ = Nişan ve Ateş
+
+IMAP_STRING_MOVE_BACK = Geri Çek
+
+IMAP_STRING_SPRINT_LOCK = Sprint lock
+
+IMAP_STRING_MOUSE_SENSITIVITY = Fare Hassasiyeti
+
+IMAP_STRING_WEAPON_1 = 1. Silah
+
+IMAP_STRING_FIRING_MODE = Ateşleme Modu
+
+IMAP_STRING_DRIVE = Sürüş
+
+IMAP_STRING_GET_IN = İçeri Gir
+
+IMAP_STRING_EXIT = Çıkış
+
+IMAP_STRING_BOOST = Boost
+
+IMAP_STRING_LEAN_LEFT = Sola Eğil
+
+IMAP_STRING_LEAN_RIGHT = Sağa Eğil
+
+IMAP_STRING_CHAT = Chat
+
+IMAP_STRING_CATEGORY_CHAT = Chat
+
+IMAP_STRING_SEND = Gönder
+
+IMAP_STRING_USE_MIC = Mikrofonu Kullan
+
+IMAP_STRING_VOICE_CHANNEL = Ses Kanalı
+
+IMAP_STRING_SWIM_UP = Yukarı Yüzüş
+
+IMAP_STRING_SWIM_DOWN = Aşağı Yüzüş
+
+IMAP_STRING_SCOPE = Yakınlaştır
+
+IMAP_STRING_JUMP_PARACHUTE = Paraşütle Atla
+
+IMAP_STRING_DOOR = Kapı
+
+IMAP_STRING_SPRINT_(HOLD) = Sprint (beklet)
+
+IMAP_STRING_CATEGORY_CONTROLS = Kontroller
+
+IMAP_STRING_INTERACT = Etkileşim
+
+IMAP_STRING_MELEE_/_SHOOT = Yakın / Ateş
+
+IMAP_STRING_BLUEPRINTS = Planlar
+
+IMAP_STRING_PLAYER_INVENTORY = Oyuncu envanteri
+
+IMAP_STRING_BUILDING_MENU = Menü Düzeni
+
+IMAP_STRING_PAUSE = Duraklat
+
+IMAP_STRING_AUTO_MODE = Otomatik mod
+
+IMAP_STRING_Tap_Settings = Dokunma Ayarları
+
+IMAP_STRING_Dpad_Settings = D-pad Ayarları
+
+IMAP_STRING_DPAD_XRadius = Radius
+
+IMAP_STRING_DPAD_KeyUp = Yukarı
+
+IMAP_STRING_DPAD_KeyDown = Aşağı
+
+IMAP_STRING_DPAD_KeyLeft = Sol
+
+IMAP_STRING_DPAD_KeyRight = Sağ
+
+IMAP_STRING_TILT_KeyUp = Yukarı
+
+IMAP_STRING_TILT_KeyDown = Aşağı
+
+IMAP_STRING_TILT_KeyLeft = Sol
+
+IMAP_STRING_TILT_KeyRight = Sağ
+
+IMAP_STRING_DPAD_KeySpeedModifier1 = Hız değiştirici 1
+
+IMAP_STRING_DPAD_XRadius1 = Radius 1
+
+IMAP_STRING_DPAD_KeySpeedModifier2 = Hız değiştirici 2
+
+IMAP_STRING_DPAD_XRadius2 = Radius 2
+
+IMAP_STRING_DPAD_ActivationTime = Aktivasyon süresi
+
+IMAP_STRING_DPAD_ActivationSpeed = Etkinleştirme hızı
+
+IMAP_STRING_DPAD_Speed = Hız
+
+IMAP_STRING_MOBADPAD_CharSpeed = Kahraman hızı
+
+IMAP_STRING_MOBADPAD_OriginX = Kahraman pozisyonu X
+
+IMAP_STRING_MOBADPAD_OriginY = Kahraman pozisyonu Y
+
+IMAP_STRING_Zoom_Settings = Zoom Ayarları
+
+IMAP_STRING_ZOOM_Radius = Radius
+
+IMAP_STRING_ZOOM_KeyIn = Yakınlaş
+
+IMAP_STRING_ZOOM_KeyOut = Uzaklaş
+
+IMAP_STRING_ZOOM_KeyModifier = Değiştirici tuş
+
+IMAP_STRING_ZOOM_Mode = Mod
+
+IMAP_STRING_ZOOM_Override = Geçersiz Kıl
+
+IMAP_STRING_Pan_Settings = Yatay Hareket Ayarları
+
+IMAP_STRING_PAN_KeyStartStop = Başla dur
+
+IMAP_STRING_PAN_KeySuspend = Askıya Al
+
+IMAP_STRING_PAN_Sensitivity = Fare Hassasiyeti
+
+IMAP_STRING_PAN_KeyLookAround = Serbest bakış
+
+IMAP_STRING_PAN_LookAroundX = Serbest bakış pozisyonu X
+
+IMAP_STRING_PAN_LookAroundY = Serbest bakış pozisyonu Y
+
+IMAP_STRING_PAN_KeyAction = Aksiyon
+
+IMAP_STRING_PAN_LButtonX = Eylem pozisyonu X
+
+IMAP_STRING_PAN_LButtonY = Eylem pozisyonu Y
+
+IMAP_STRING_MOBASkill_DeadZoneRadius = Dead Zone Yarıçapı
+
+IMAP_STRING_MOBASkill_XRadius = Radius
+
+IMAP_STRING_MOBASkill_Settings = MOBA yetenek ayarları
+
+IMAP_STRING_MOBASKILL_KeyActivate = Etkinleştir
+
+IMAP_STRING_MOBASKILL_KeyAutocastToggle = Autocast Toggle
+
+IMAP_STRING_MOBASKILL_CancelSpeed = Hız iptali
+
+IMAP_STRING_MOBASKILL_KeyCancel = İptal
+
+IMAP_STRING_Swipe_Settings = Kaydırma Ayarları
+
+IMAP_STRING_SWIPE_X1 = X
+
+IMAP_STRING_SWIPE_Y1 = Y
+
+IMAP_STRING_MOBASKILL_X = X
+
+IMAP_STRING_MOBASKILL_Y = Y
+
+IMAP_STRING_TAP_X = X
+
+IMAP_STRING_TAP_Y = Y
+
+IMAP_STRING_ZOOM_X = X
+
+IMAP_STRING_ZOOM_Y = Y
+
+IMAP_STRING_DPAD_X = X
+
+IMAP_STRING_DPAD_Y = Y
+
+IMAP_STRING_PAN_X = X
+
+IMAP_STRING_PAN_Y = Y
+
+IMAP_STRING_SWIPE_Hold = Kaydır ve tut
+
+IMAP_STRING_SWIPE_True = Doğru
+
+IMAP_STRING_SWIPE_False = Yanlış
+
+IMAP_STRING_SWIPE_KeyUp = Yukarı Kaydır
+
+IMAP_STRING_SWIPE_KeyDown = Aşağı Kaydır
+
+IMAP_STRING_SWIPE_KeyLeft = Sola Kaydır
+
+IMAP_STRING_SWIPE_KeyRight = Sağa Kaydır
+
+IMAP_STRING_TILT_Settings = Dikey Hareket Ayarları
+
+IMAP_STRING_TILT_Speed = Hız
+
+IMAP_STRING_ZOOM_Speed = Hız
+
+IMAP_STRING_SWIPE_Speed = Hız
+
+IMAP_STRING_SWIPE_Radius = Radius
+
+IMAP_STRING_TILT_MaxAngle = Maksimum eğim açısı
+
+IMAP_STRING_TILT_AutoReset = Otomatik sıfırlama
+
+IMAP_STRING_MOBASkill_Header_Edit_UI = MOBA Skill Pad
+
+IMAP_STRING_MOBASkill_Description_Edit_UI = Özel geliştirilen D-pad'i kullanarak hareketlerinize yön verin
+
+IMAP_STRING_Dpad_Header_Edit_UI = D-pad
+
+IMAP_STRING_Dpad_Description_Edit_UI = Karakterinizin hareketini veya oyun analog çubuğunu klavyeyle eşleştirin.
+
+IMAP_STRING_Tilt_Header_Edit_UI = Dikey Hareket
+
+IMAP_STRING_Tilt_Description_Edit_UI = Eğmek veya döndürmek gerekirse, bu kontrolü kullanın.
+
+IMAP_STRING_Swipe_Header_Edit_UI = Kaydırma
+
+IMAP_STRING_Swipe_Description_Edit_UI = Klavye tuşlarını ayarlayın
+
+IMAP_STRING_Pan_Header_Edit_UI = Nişan Al & Ateş Et
+
+IMAP_STRING_Pan_Description_Edit_UI = Hedefleme ve etrafında kaydırma yaparken ateş etmek için farenizi kullanın.
+
+IMAP_STRING_Zoom_Header_Edit_UI = Yakınlaştır
+
+IMAP_STRING_Zoom_Description_Edit_UI = Yakınlaştırmak veya uzaklaştırmak için ekleyin
+
+IMAP_STRING_Tap_Header_Edit_UI = Noktaya dokunun
+
+IMAP_STRING_Tap_Description_Edit_UI = Her durumda farenizi kullanmak zorunda kalmamak için bir noktaya dokunarak bu işlemi atayın.
+
+STRING_ENTER_GUIDANCE_TEXT = Kılavuz metni girin
+
+STRING_FOLDER_CANNOT_CONTAIN_FOLLOWING_SPECIAL_CHARS = Yapılan seçim aşağıdaki karakterlerden herhangi birini içeremez:
+
+STRING_INSTANCE_MANAGER = Instance yöneticisi
+
+STRING_DELETE_APPS = Uygulamaları Sil
+
+STRING_NEW_INSTANCE = Yeni Oturum
+
+IMAP_STRING_SPEED = Hız
+
+IMAP_STRING_CATEGORY_SWIPE = Kaydırma
+
+IMAP_STRING_HEAD_LIGHTS = Üst ışıklar
+
+IMAP_STRING_RESET_ = Sıfırla
+
+IMAP_STRING_HAND_BREAK = El freni
+
+IMAP_STRING_VIEW = Görüntüle
+
+IMAP_STRING_CATEGORY_AIM = & ATEŞ = Nişan ve Ateş
+
+IMAP_STRING_BACKWARDS = Geri
+
+IMAP_STRING_SLOW_DOWN = Yavaşla
+
+IMAP_STRING__ACTIVATE = Etkinleştir
+
+IMAP_STRING_CATEGORY_CONTROL KAMERA = Kamera Kontrol
+
+IMAP_STRING_GUN = Silah
+
+IMAP_STRING_NITRO = Nitro
+
+IMAP_STRING_GEAR_SHIFT = Vites Değiştirme
+
+IMAP_STRING_CATEGORY_SHOOTING MOD = Atış modu
+
+IMAP_STRING_SWITCH_GUN = Silah değiştir
+
+IMAP_STRING_DUCK = Eğilme
+
+IMAP_STRING_BASIC = Temel
+
+IMAP_STRING_SUSPEND = Durdur
+
+IMAP_STRING_NINTROUS = Nitrous
+
+IMAP_STRING_DRIFT = Drift
+
+IMAP_STRING_THROTTLE = Gaz
+
+IMAP_STRING_MOVE_CAMERA = Kamerayı oynat
+
+IMAP_STRING_HOLD_ROTATE_CAMERA = Kamerayı döndür
+
+IMAP_STRING_CATEGORY_CAMERA = Kamera
+
+IMAP_STRING_PUNCH = Yumruk
+
+IMAP_STRING_EXIT_SHOOTING_MODE = Atış modundan çık
+
+IMAP_STRING_STAND/DUCK = Ayakta Dur/Eğil
+
+IMAP_STRING_ZOOM = Yakınlaştır
+
+IMAP_STRING_HEALTH_ = Sağlık
+
+IMAP_STRING_HEALTH = Sağlık
+
+IMAP_STRING_BOMB = Bomba
+
+IMAP_STRING_DOWNARD = Aşağı
+
+IMAP_STRING_ROLL = Yuvarlanma
+
+IMAP_STRING_BLAST = Patlama
+
+IMAP_STRING_TILT_LEFT = Sola kaydır
+
+IMAP_STRING_TILT_RIGHT = Sağa kaydır
+
+IMAP_STRING_ULTRA_ATTACK = Ultra saldırı
+
+IMAP_STRING_USE_MP_POTION = MP iksirini kullan
+
+IMAP_STRING_USE_HP_POTION = HP iksirini kullan
+
+IMAP_STRING_AUTO_KILL = Otomatik öldürme
+
+IMAP_STRING_ABILITY_3 = Güç 3
+
+IMAP_STRING_ABILITY_4 = Güç 4
+
+IMAP_STRING_SPECIALITY = Uzmanlık
+
+IMAP_STRING_TARGET = Hedef
+
+IMAP_STRING_BACKWORD = Geri
+
+IMAP_STRING_COVER/UNCOVER = Siper Al/Çık
+
+IMAP_STRING_SECONDARY_WEAPON = İkinci silah
+
+IMAP_STRING_CALL_SUPPORT_DRONE = Destek drone'u çağır
+
+IMAP_STRING_CATEGORY_CONTROL = KAMERA = Kamera Kontrol
+
+IMAP_STRING_SWAP = Takas
+
+IMAP_STRING_SWAP_WEAPON = Silah değiştir
+
+IMAP_STRING_LIGHTNING_ATTACK = Yıldırım saldırısı
+
+IMAP_STRING_SUMMON_ALLY_1 = Yardım çağır 1
+
+IMAP_STRING_SUMMON_ALLY_2 = Yardım çağır 2
+
+IMAP_STRING_KATANA_ATTACK = Katana saldırısı
+
+IMAP_STRING_SUMMON_ALLY_3 = Yardım çağır 3
+
+IMAP_STRING_SUMMON_ALLY_4 = Yardım çağır 4
+
+IMAP_STRING_SPELL_2 = Büyü 2
+
+IMAP_STRING_SPELL_3 = Büyü 3
+
+IMAP_STRING_SPELL_4 = Büyü 4
+
+IMAP_STRING_FREE_LOOK = Serbest bakış
+
+IMAP_STRING_FIRE = Ateş
+
+IMAP_STRING_CROUCH/SWIM_DOWN = Çömelme / Yüzme
+
+IMAP_STRING_JUMP_OUT_OF_PLANE = Uçaktan atlama
+
+IMAP_STRING_OPEN_HEALING_ITEMS = İyileştiriciyi aç
+
+IMAP_STRING_MELEE_WEAPON = Yakın dövüş silahı
+
+IMAP_STRING_USE_SCOPE = Scope kullan
+
+IMAP_STRING_CHANGE_FIRING_MODE = Ateşleme Modunu Değiştir
+
+IMAP_STRING_AUTO_RUN = Otomatik koşu
+
+IMAP_STRING_GRENADES = El bombası
+
+IMAP_STRING_DRIVE_VEHICLE = Araç Kullan
+
+IMAP_STRING_ENTER_VEHICLE = Araca Bin
+
+IMAP_STRING_THROTTLE_UP = Gaz Ver
+
+IMAP_STRING_THROTTLE_DOWN = Gaz Kıs
+
+IMAP_STRING_CHANGE_GEAR = Vites değiştir
+
+IMAP_STRING_LOW_SHOOT = Alçak ateş
+
+IMAP_STRING_HIGH_SHOOT = Yüksek Ateş
+
+IMAP_STRING_OPEN_SKILLS = Yetenekleri Aç
+
+IMAP_STRING_LAUCH_MISSILE/TORPEDO = Füze / torpido ateşle
+
+IMAP_STRING_TILT_UP = Yukarı Kaldır
+
+IMAP_STRING_TILT_DOWN = Aşağı Eğ
+
+IMAP_STRING_CATEGORY_TILT = Dikey Hareket
+
+IMAP_STRING__ATTACK = Saldır
+
+IMAP_STRING_SIDE_STEP = Yan adım
+
+IMAP_STRING_DODGE = Atlama
+
+IMAP_STRING_MEDIUM_ATTACK = Orta saldırı
+
+IMAP_STRING_HIT = Vur
+
+IMAP_STRING_BULLETS = Mermiler
+
+IMAP_STRING_CATEGORY_ACTIONS = Hareketler
+
+IMAP_STRING_SWORD = Kılıç
+
+IMAP_STRING_CATEGORY_ATTACK = Saldır
+
+IMAP_STRING_SPEED_MODIFIER = Hız değiştirici
+
+IMAP_STRING_IN = İçeri
+
+IMAP_STRING_OUT = Dışarı
+
+IMAP_STRING_ATTACK2 = Saldırı 2
+
+IMAP_STRING_MODIFIER = Düzenleyici
+
+IMAP_STRING_START_SHOOTING_MODE = Atış modunu başlat
+
+IMAP_STRING_CHANGE_CHARACTER = Karakteri değiştir
+
+IMAP_STRING_CATEGORY_SWAP = Takas
+
+IMAP_STRING_SPLIT = Böl
+
+IMAP_STRING_SHOOT/SPLIT = Atış/Böl
+
+IMAP_STRING_RACE = Yarış
+
+IMAP_STRING_MISSILES = Füzeler
+
+IMAP_STRING_GEAR_DOWN = Vites Küçültme
+
+IMAP_STRING_GEAR_UP = Hızlan
+
+IMAP_STRING_REV = Rev
+
+IMAP_STRING_KICK = Tekme
+
+IMAP_STRING_SHADOW_ABILITY = Gölge yeteneği
+
+IMAP_STRING_RUN = Çalıştır
+
+IMAP_STRING_MOVE_FORWARD/_RUN = İleri hareket / koşu
+
+IMAP_STRING_MOVE__DOWNWARD = Aşağı doğru hareket
+
+IMAP_STRING_LOOK_AROUND = Etrafa bak
+
+IMAP_STRING_SIT = Otur
+
+IMAP_STRING_PICK = Topla
+
+IMAP_STRING_MUTE/UNMUTE_MIC = Mikrofonun sesini kapat / aç
+
+IMAP_STRING_MUTE/UNMUTE_SPEAKER = Sesi aç / Sustur
+
+IMAP_STRING_OPEN/CLOSE = Aç/Kapat
+
+IMAP_STRING_BAG = Çanta
+
+IMAP_STRING_RIDE = Bin
+
+IMAP_STRING_LOCK_RUNNING = Koşuyu Kilitle
+
+IMAP_STRING_USE_PARACHUTE = Paraşüt kullan
+
+IMAP_STRING_OPEN_DOOR/DRIVE_VEHICLE = Kapıyı Aç/Aracı Kullan
+
+IMAP_STRING_RIDE_VEHICLE = Araç sür
+
+IMAP_STRING_RAGE_SKILL = Rage yeteneği
+
+IMAP_STRING_SHIELD = Zırh
+
+IMAP_STRING_TURN = Dönüş
+
+IMAP_STRING_CLIMB = Tırmanış
+
+IMAP_STRING_AMMO = Cephane
+
+IMAP_STRING_START_OR_STOP = Başla veya Dur
+
+IMAP_STRING_L = L
+
+IMAP_STRING_R = R
+
+IMAP_STRING_BREAK = Fren
+
+IMAP_STRING_REVERSE = Geri
+
+IMAP_STRING_HORN = Korna
+
+IMAP_STRING_HEAD_LIGHT = Far
+
+IMAP_STRING_PARKING_LIGHT = Park Lambası
+
+IMAP_STRING_LEFT_INDICATOR = Sol Sinyal
+
+IMAP_STRING_RIGHT_INDICATOR = Sağ Sinyal
+
+IMAP_STRING_WIPERS = Silecekler
+
+IMAP_STRING_CAMERA = Kamera
+
+IMAP_STRING_NITROS = Nitrous
+
+IMAP_STRING_LIGHT_ATTACK = Hafif saldırı
+
+IMAP_STRING_STRONG_ATTACK = Güçlü saldırı
+
+IMAP_STRING_TAG = Etiket
+
+IMAP_STRING_ENABLE_ATTACK_1 = Saldırıyı etkinleştir 1
+
+IMAP_STRING_ENABLE_ATTACK_2 = Saldırıyı etkinleştir 2
+
+IMAP_STRING_ENABLE_ATTACK_3 = Saldırıyı Etkinleştir 3
+
+IMAP_STRING_TELEPORT = Işınlanma
+
+IMAP_STRING_OBSERVE = Gözlem
+
+IMAP_STRING_ENABLE_ATTACK_4 = Saldırıyı etkinleştir 4
+
+IMAP_STRING_LEFT_ = Sol
+
+IMAP_STRING_RIGHT_ = Sağ
+
+IMAP_STRING_MP_PORTION = MP iksiri
+
+IMAP_STRING_DRIFT_MODE/GRIP_MODE = Drift Modu/Grip Modu
+
+IMAP_STRING_BRAKES = Fren
+
+IMAP_STRING_HEADLIGHTS = Far
+
+IMAP_STRING_ACCELERATOR = Gaz
+
+IMAP_STRING_MAGNET = Mıknatıs
+
+IMAP_STRING_FLY = Uçuş
+
+IMAP_STRING_AUTO_PLAY = Otomatik oynatma
+
+IMAP_STRING_TOGGLE_AUTOCAST = Otomatik yayını değiştir
+
+IMAP_STRING_ATTACK_ENEMIES = Düşman saldırısı
+
+IMAP_STRING_ATTACK_TOWER = Kule saldırısı
+
+IMAP_STRING_USE_ITEM_1 = Item 1'i Kullan
+
+IMAP_STRING_QUICK_BUY_ITEMS = Hızlı Item Al
+
+IMAP_STRING_VIEW_SCOREBOARD = Scoreboard göster
+
+IMAP_STRING_USE_ITEM_2 = Item 2'yi Kullan
+
+IMAP_STRING_TOGGLE_AUTO_CAST = Otomatik yayını değiştir
+
+IMAP_STRING_SHOP = Dükkan
+
+IMAP_STRING_ACTIVE_2 = Aktif 2
+
+IMAP_STRING_ACTIVE_1 = Aktif 1
+
+IMAP_STRING_CHANGE_CAMERA = Kamerayı değiştir
+
+IMAP_STRING_NITROUS = Nitrous
+
+IMAP_STRING_ACTIONS = Hareketler
+
+IMAP_STRING_CATEGORY_SHOOTING = MOD = Atış modu
+
+IMAP_STRING_AUTO_PILOT = Otomatik pilot
+
+IMAP_STRING_REPAIR = Onarım
+
+IMAP_STRING_CHANGE_VIEW = Görünümü değiştir
+
+IMAP_STRING_BACK_FLIP = Ters Takla
+
+IMAP_STRING_FRONT_FLIP = İleri Takla
+
+IMAP_STRING_SPECIAL_ABILITY = Özel yetenek
+
+IMAP_STRING_SKILL = Yetenek
+
+IMAP_STRING_RESET = Sıfırla
+
+IMAP_STRING_JAB = Aşı
+
+IMAP_STRING_PUNCH_RIGHT = Sağ Yumruk
+
+IMAP_STRING_PUNCH_LEFT = Sol Yumruk
+
+IMAP_STRING_SPECIAL_SKILL = Özel yetenek
+
+IMAP_STRING_RAGE = Öfke
+
+IMAP_STRING_BUY_BULLETS = Mermi al
+
+IMAP_STRING_CHANGE_DIRECTION = Yönü değiştir
+
+IMAP_STRING_ZOOM_UP = Yakınlaştırma
+
+IMAP_STRING_CATCH = Yakala
+
+IMAP_STRING_UPWARD = Yukarı
+
+IMAP_STRING_DOWNWARD = Aşağı
+
+IMAP_STRING_THROUGH = Doğruca
+
+IMAP_STRING_CLEAR/SHOOT = Temizle/Ateş
+
+IMAP_STRING_DASH = Dash
+
+IMAP_STRING_FALL_BACK = Geri çekil
+
+IMAP_STRING_AUTO_REPLAY = Otomatik tekrar oynat
+
+IMAP_STRING_FIGHT = Dövüş
+
+IMAP_STRING_ACTION_1 = Hareket 1
+
+IMAP_STRING_ACTION_2 = Hareket 2
+
+IMAP_STRING_ACTION_3 = Hareket 3
+
+IMAP_STRING_ACTION_4 = Hareket 4
+
+IMAP_STRING_CONSTRUCT = İnşa etmek
+
+IMAP_STRING_HOLD = Tut
+
+STRING_HOT_PINK_THEME = Hot Pink
+
+STRING_LINEAGE2_REVOLUTION_THEME = Lineage 2 Revolution
+
+STRING_COOL_BLUE_THEME = Cool Blue
+
+STRING_GET_XPACKS_TITLE = xPack İndirmek için Tıklayın
+
+STRING_VIEW_XPACK_TITLE = xPack'i Görüntülemek için Tıklayın
+
+IMAP_STRING_DEFUSE/SHOP = Defuse / Mağaza
+
+IMAP_STRING_TOGGLE_SHOOTING_MODE = Atış modunu değiştir
+
+IMAP_STRING_FIRE_WEAPON = Ateşle
+
+IMAP_STRING_HEALING = Sağlık
+
+IMAP_STRING_FREEFALL = Serbest düşüş
+
+IMAP_STRING_PICK_UP_ITEM_4 = 4 numaralı itemı al
+
+IMAP_STRING_PICK_UP_ITEM_3 = 3 numaralı itemı al
+
+IMAP_STRING_PICK_UP_ITEM_2 = 2 numaralı itemı al
+
+IMAP_STRING_PICK_UP_ITEM_1 = 1 numaralı itemı al
+
+IMAP_STRING_CATEGORY_DRIVING = Sürüş
+
+STRING_DUPLICATE_KEY_WARNING = Bu tuş farklı bir eyleme atanmıştır, ancak şimdi her ikisi için de kullanabilirsiniz.
+
+STRING_WAIT_WHILE_UPDATE_BLUESTACKS = BlueStacks'i son sürüme güncellerken lütfen bekleyin.
+
+STRING_DONT_LAUNCH_BS_WHILE_UPDATING = Veri kaybını önlemek için - bu güncelleme devam ederken BlueStacks'i başlatmayın veya bu pencereyi kapatmayın.
+
+STRING_UPDATING = BlueStacks güncelleniyor
+
+STRING_CAUTION_CUSTOM_CFG_UNUSABLE_AFTER_UPGRADE = Yükseltme, maalesef kaydettiğiniz klavye denetimlerini koruyamayacaktır, bu ayarlar kaybolacak.
+
+IMAP_STRING_VEHICLE_BOOST = Araç boost
+
+STRING_BLUESTACKS_STORE = BlueStacks Store
+
+IMAP_STRING_SPACE = Boşluk
+
+STRING_BEFORE_YOU_RESTORE  =  Geri yüklemeden önce
+
+STRING_CAUTION_CUSTOM_CFG_UNUSABLE_AFTER_RESTORE = Dikkat! Herhangi bir özel klavye ayarlarınız varsa, geri yükleme esnasında bunlar sıfırlanır ve ayarları kaybedersiniz.
+
+STRING_DATA_MANAGER_INFO_FILE_MISSING = Maalesef, BlueStacks'in eski bir sürümünden oluşturulan bir yedeklemeden geri yükleme mümkün değildir.
+
+STRING_OVERLAY = Overlay
+
+STRING_SHOW_ON_OVERLAY = Overlay üzerindeki tuşları göster
+
+STRING_POWER_PLAN = Güç planı ayarını yap
+
+STRING_POWER_PLAN_BODY = BlueStacks'i hızlandırmak için güç planı ayarınızı Yüksek Performans olarak ayarlayın.
+
+STRING_POWER_PLAN_HYPERLINK = Şimdi güç planını değiştir
+
+STRING_TERMS_OF_USE =  © Bluestack Systems, Inc.,2011 'ten 2019'A, hakları tüm dünyada saklıdır. BlueStacks'i kullanarak     kabul etmiş sayılırsınız.
+
+STRING_TERMS_OF_USE_LINK = Kullanım Şartları
+
+STRING_AUDIO_SERVICE_FAILURE = Ses başlatılamıyor
+
+STRING_AUDIO_SERVICE_FAILUE_FIX = Sorunu gidermek için bilgisayarınızı yeniden başlatmayı deneyin.
+
+STRING_AUDIO_SERVICE_FAILURE_ALTERNATE_FIX = Sorun devam ederse, lütfen sistem ses sürücülerinizi güncellemeyi düşünün.
+
+STRING_READ_MORE = Daha fazla oku
+
+STRING_MORE_APPS = Daha fazla uygulama
+
+STRING_ANTIVIRUS_ISSUE = Antivirüs çakışması
+
+STRING_ANTIVIRUS_ISSUE_HEADER = Bilgisayarınızın antivirüs yazılımındaki bazı ayarlar, ağ bağlantısına engel oluyor.
+
+STRING_TECHNICAL_TIP =	Teknik İpucu -
+
+STRING_ANTIVIRUS_ISSUE_FIX = Güvenli bağlantılar için HTTPS taraması için antivirüs ayarlarını devre dışı bırakmayı deneyin ve bilgisayarınızı yeniden başlatın.
+
+STRING_SEE_HOW_TO_FIX = Nasıl düzeltileceğini görün
+
+STRING_DELETE_COMBO_HEADER = Kayıt silinsin mi?
+
+STRING_DELETE_COMBO_BODY = Bu kayıt kaybolacak ve devam etmek için tekrar kayıt olmanız gerekecek. Silmek istediğinize emin misiniz?
+
+STRING_SAVE_COMBO_HEADER = Tuş dizisini kaydet
+
+STRING_SAVE_COMBO_BODY = Kaydınıza bir ad ve bir kısayol tuşu atayın. Eylemi hatırlamanıza yardımcı olacak bir ad verin.
+
+STRING_COMBO_DESCRIPTION = Dizinin adı
+
+STRING_COMBO_SHORTCUT_KEY = Kısayol tuşu
+
+STRING_NO_SEQUENCES = Dizin Yok
+
+STRING_RECORD_SEQUENCE = Bir diziyi kaydetmek için [+] simgesini kullanın
+
+STRING_RECORD_NEW_SEQUENCE_TITLE = Yeni diziyi kaydet
+
+STRING_RECORD_NEW_SEQUENCE_BODY = Kayıt sırasında mevcut klavye kontrollerini de kullanabilirsiniz.
+
+STRING_START_RECORDING = Kaydetmeye Başla
+
+STRING_STOP_RECORDING = Kaydetmeyi Durdur
+
+IMAP_STRING_MOBASKILL_NOCANCELONSWITCH = No cancel on switch
+
+IMAP_STRING_PAN_SENSITIVITYRATIOY = Duyarlılık oranı Y
+
+STRING_POST_OTS_SUCCESS_MESSAGE = Başarıyla giriş yaptınız.
+
+STRING_POST_OTS_SUCCESS_BUTTON_MESSAGE = BlueStacks kullanmaya başla
+
+STRING_POST_OTS_SYNCING_MESSAGE = BlueStacks hesabı senkronize ediliyor
+
+STRING_POST_OTS_SYNCING_BUTTON_MESSAGE = Lütfen bekleyin...
+
+STRING_POST_OTS_FAILED_MESSAGE = Verilerinizi senkronize edemedik
+
+STRING_POST_OTS_FAILED_BUTTON_MESSAGE = Tekrar Deneyin
+
+STRING_POST_OTS_FAILED_WARNING_MESSAGE = Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin.
+
+STRING_KEY_SEQUENCE = Anahtar dizileri
+
+STRING_COMBO_SEQUENCES_LIST = Tap/combo dizileri burada listeleniyor.
+
+STRING_DISCARD = Sil
+
+STRING_DISCARD_COMBO_HEADER = Kayıt silinsin mi?
+
+STRING_DISCARD_COMBO_BODY = Yaptığınız tüm ilerlemeler kaybolacak, mevcut kaydı silmek istediğinizden emin misiniz?
+
+STRING_ADD = Eklemek
+
+IMAP_STRING_MOUSEXBUTTON1  = X tuşu1
+
+IMAP_STRING_MOUSEXBUTTON2 = X tuşu2
+
+STRING_CHANGE_LOG = Yeni Gelişmeler
+
+STRING_USE_2GB = 2GB kullanacaktır
+
+STRING_RESTORE_NOT_PERMITTED = BlueStacks, daha yeni bir BlueStacks sürümünün yedeğinden daha eski bir sürüme geri yüklemeyi desteklemez.
+
+STRING_RESTORE_WARNING = Verileri, daha eski bir BlueStacks sürümünün yedeğinden daha yeni bir bilgisayara geri yüklemek istiyorsunuz fakat lütfen geri yükleme işleminin başarılı olmayabileceğini unutmayın.
+
+STRING_RESTORE_NOT_POSSIBLE = Maalesef, BlueStacks'in eski bir sürümünden oluşturulan bir yedeklemeden geri yükleme mümkün değildir.
+
+STRING_BACKUP_AND_RESTORE = Yedekleme & Geri Yükleme
+
+STRING_BACKUP_AND_RESTORE_SETTINGS_DETAIL = Kullanıcı verilerinizin, yüklü oyunların, klavye kontrollerinin ve ayarlarınızın bir yedeğini oluşturun veya mevcut bir yedeği geri yükleyin.
+
+STRING_BACKUP_AND_RESTORE_SETTINGS_WARNING = Yedeklemeler yalnızca oluşturuldukları sürüme başarıyla yüklenebilir.
+
+STRING_BACKUP_CURRENT_DATA = Mevcut verileri yedekle
+
+STRING_RESTORE_AN_EXISTING_BACKUP = Mevcut bir yedeği geri yükle
+
+STRING_ON_SCREEN_CONTROLS_TITLE = Ekran kontrolleri
+
+STRING_ON_SCREEN_CONTROLS_BODY = Oyunun tuş kontrollerini görüntülemek için göz simgesini tıklayın.
+
+STRING_UNFORTUNATELY_COULDNT_UPGRADE = Yükseltme başarılı olmadı. Yeni sürüme geçmeden önce BlueStacks'i önceki sürüme geri döndürün.
+
+STRING_CANCEL_COMBO = Çalışan bir combo'yu iptal etmek için F12 tuşuna basın.
+
+STRING_ADD_TOUCH_CONTROLS = Dokunma kontrolleri ekle
+
+STRING_CONFIGURATION_ACTIONS = Geçerli yapılandırma eylemleri
+
+STRING_ROLLBACK_FAILED_SORRY_MESSAGE = Üzgünüz ancak hem yükseltme hem de sonraki geri alma başarısız oldu ve BlueStacks'in yükseltme işlemine başlamadan önceki durumuna geri yüklenmesi artık mümkün değil. Maalesef, sadece mevcut sürümü kaldırabilir ve BlueStacks'in son sürümünü web sitesinden yükleyebilirsiniz.
+
+STRING_UPGRADE_BST_FULL = Bu oyunu yüklemek, bilgisayarınızda bulunan yerleşik BlueStacks'i standart BlueStacks'e yükseltecektir.
+
+STRING_USE_2GB = 2GB kullanacaktır
+
+STRING_CANCEL_COMBO = Çalışan bir combo'yu iptal etmek için F12 tuşuna basın.
+
+STRING_ADD_TOUCH_CONTROLS = Dokunma kontrolleri ekle
+
+STRING_CONFIGURATION_ACTIONS = Geçerli yapılandırma eylemleri
+
+STRING_DOWNLOADING_INSTALLING_GAME = Oyun İndirme ve Yükleme
+
+STRING_DONT_CLOSE_WINDOW_WHILE_DOWNLOADING_GAME = Oyun verileri indirilirken lütfen uygulamayı kapatmayın veya İnternet bağlantısını kesmeyin
+
+STRING_ERROR_WHILE_DOWNLOADING_GAME = Oyun verilerini indirmeye çalışırken bir hata oluştu
+
+STRING_UPGRADE_BST_FULL = Bu oyunu yüklemek, bilgisayarınızda bulunan yerleşik BlueStacks'i standart BlueStacks'e yükseltecektir.
+
+STRING_UPGRADE_SINGLE_GAME_TO_FULL = Bu oyunu yüklemek, bilgisayarınızda bulunan yerleşik BlueStacks'ı standart BlueStacks'a yükseltecektir.
+
+STRING_GAME_DOWNLOADED_SUCCESS = Oyun başarıyla indirildi
+
+STRING_PLAY_GAME = Oyun oynamak
+
+STRING_THIS_WILL_UPGRADE_SINGLE_GAME_TO_FULL = Bu oyunu yüklemek, bilgisayarınızda bulunan yerleşik BlueStacks'i standart BlueStacks'e yükseltecektir.
+
+STRING_LAUNCH_BLUESTACKS_FROM_DESK_SHORTCUT = Şu anda çalışmakta olan oyun kapatıldıktan sonra BlueStacks'i masa üstünüzden başlatın.
+
+STRING_UPGRADING_TEXT = Yükseltiliyor
+
+STRING_CONTAINS_INVALID_CHARACTER = Girdiğiniz isim bir ya da birden fazla uygun olmayan karakter içeriyor. Lütfen aşağıdaki karakterleri içermeyen, doğru bir isim giriniz:
+
+STRING_CANCEL_RECORDING = Kaydı iptal et
+
+STRING_RESTORE_CONFIG = Geri yüklemek ister misiniz?
+
+STRING_RESTORE_CHANGES = Değişiklikler geri yüklendi
+
+STRING_INSTALL_GAME = Oyun yükle
+
+STRING_UPGRADE_BLUESTACKS = BlueStacks'i Güncelle
+
+STRING_UPGRADE_TO_STANDARD_BST = Standart BlueStacks'e Yükselt
+
+STRING_UPGRADE_TEXT = Yükselt
+
+STRING_GAME_INSTALL_CURRENT_INSTANCE_OF_BST = Bu oyun PC'nizde var olan BlueStacks'e yüklenecektir. Devam etmek ister misin?
+
+STRING_GAME_INSTALL_IN_EMBEDDED_BST = Bu oyunu yüklemek, bilgisayarınızda bulunan yerleşik BlueStacks'i standart BlueStacks'e yükseltecektir.
+
+STRING_BST_INSTALL_IN_EMBEDDED_BST_UPGRADE = BlueStacks'i yüklemek, PC'nizde bulunan yerleşik BlueStacks'i en yeni standart BlueStacks'e yükseltir
+
+STRING_BST_INSTALL_IN_EMBEDDED_BST = Bu yükleme, bilgisayarınızda bulunan BlueStacks'i yükseltir.
+
+STRING_GAME_REQUIRES_NEW_BST = Oyun BlueStacks'in yeni bir sürümünü gerektirir. BlueStacks'i yükseltmek ve oyunu yüklemek ister misiniz?
+
+STRING_INSUFFICIENT_PHYSICALMEMORY = Bilgisayarınız BlueStacks tarafından talep edilen 2 GB'den daha az RAM değerine sahiptir.
+
+STRING_OS_VERSION_NOT_SUPPORTED = Bu bilgisayarda çalışan Windows sürümü, BlueStacks'i desteklemiyor.
+
+STRING_GL_UNSUPPORTED = Grafik kartınız veya sürücüsü BlueStacks'i desteklemiyor.
+
+STRING_REGISTRY_EDITING_DISABLED = BlueStacks bu yükleme için kayıt defteri düzenleme izni istiyor
+
+STRING_UPGRADE_FAILED = Yükseltme Başarısız Oldu
+
+STRING_CONTINUING_WILL_UPGRADE_TO_STD_BST = Devam etmeniz halinde, PC'nizde bulunan BlueStacks, güncel versiyona yükseltilecektir.
+
+STRING_MULTIINSTANCE_MANAGER = BlueStacks multi-instance yöneticisi
+
+STRING_INSTALLATION_FAILED = Maalesef, BlueStacks yüklenemedi.
+
+STRING_SELECT_ALL = Hepsini seç
+
+STRING_BATCH = Grup
+
+STRING_ARRANGE = Düzenle
+
+STRING_STOPPED = Durdu
+
+IMAP_STRING_MOBASkill_YAxisRatio = Y eksen oranı
+
+IMAP_STRING_MOBASkill_NoCancelTime = İptal süresi yok
+
+IMAP_STRING_MOBASkill_AutoAttack = Oto saldırı
+
+IMAP_STRING_MOBASkill_StopMOBADpad = MOBA Dpad'i durdur
+
+STRING_RUNNING = Çalışıyor
+
+IMAP_STRING_TapRepeat_Header_Edit_UI = Tekrarlanan vuruş
+
+IMAP_STRING_TapRepeat_Description_Edit_UI = Bir noktaya tek anahtarla tekrarlanan dokunuşlar yapmak için bunu kullan
+
+IMAP_STRING_TAPREPEAT_X = X
+
+IMAP_STRING_TAPREPEAT_Y = Y
+
+IMAP_STRING_TAPREPEAT_Key = Anahtar
+
+IMAP_STRING_TAPREPEAT_Count = Say
+
+IMAP_STRING_TAPREPEAT_Delay = Gecikme
+
+IMAP_STRING_CATEGORY_TAPREPEEAT = Vuruş tekrarı
+
+IMAP_STRING_TAPREPEAT_Settings = Vuruş tekrarı seçenekleri
+
+STRING_SELECTED_INSTANCE_RUNNING_WHILE_CLONING = Ne yazık ki instance'lar çalışrken klonlanamıyor. Instance'ları klonlamaya başlamadan önce çalışmalarını durdurmayı deneyin.
+
+STRING_MACRO_TOOL = BlueStacks makro kaydedici
+
+STRING_MACRO_TOOL_HEADER = Sıkıcı görevleri otomatikleştir ve rahatla!
+
+STRING_MACRO_TOOL_RECORD_1 = Mouse kliklerini, klavye tuş basımlarını ve metin dizgilerini kaydet.
+
+STRING_MACRO_TOOL_RECORD_2 = Aşağıdaki oyun kayıt tuşuna basarak kaydetmeye başla.
+
+STRING_RECORD_NEW_MACRO = Yeni kayıt oluştur
+
+STRING_OPEN_SCRIPTS = Yazı klasörünü aç.
+
+STRING_EXECUTION_LOOP = Uygulamayı tekrarla
+
+STRING_LOOP = Döngü
+
+STRING_TIMES = Zaman
+
+STRING_HOURS_SHORTFORM = SS
+
+STRING_MINUTES_SHORTFORM = dd
+
+STRING_SECONDS_SHORTFORM = ss
+
+STRING_PRESS_STOP_BUTTON = Oyun kayıt tuşunu durdurmak için stop tuşuna bas
+
+STRING_LOOP_INTERVAL = Döngü aralığı
+
+STRING_SECONDS = saniyeler
+
+STRING_ACCELERATION = Hızlanma
+
+STRING_EXECUTE_SCRIPT_ON_RESTART = Oynatıcı tekrar başladığında oyun kayıt tuşunu çalıştır.
+
+STRING_RESTART_PLAYER = Sonra oynatıcıyı yeniden başlat
+
+STRING_BATCH_NEW = Yeni grup
+
+STRING_BATCH_CLONE = Grup kopyası
+
+STRING_START_SELECTED = Seçileni başlat
+
+STRING_CLOSE_SELECTED = Seçileni kapat
+
+STRING_REMOVE_SELECTED = Seçileni sil
+
+STRING_INSTANCE_OPTIONS = Çoklu Oturum Seçenekleri
+
+STRING_FPS = FPS
+
+STRING_FPS_CHANGE_MESSAGE = Daha düşük bir FPS, daha çok instance'ın çalışmasını sağlayacaktır.
+
+STRING_DISABLE_AUDIO_MESSAGE = Birden fazla oturum çalışırken sesi kapat
+
+STRING_REDUCES_CPU_USAGE = CPU kullanımını azaltır
+
+STRING_ARRANGE_SETTINGS = Çoklu oturum düzenlemesi
+
+STRING_SPREAD_ALIGN = Grid düzeni
+
+STRING_OVERLAY_ALIGN = Diyagonal düzen
+
+STRING_INSTANCES_PER_ROW = Sıra başı çoklu oturum
+
+STRING_BATCH_OPERATIONS = Çoklu Oturum grubu operasyon varsayılanları
+
+STRING_START_INTERVAL = Aralığı başlat
+
+STRING_BATCH_NUMBER = Çoklu oturum grubu yaratma
+
+STRING_REMOVE = Öğeyi kaldırmak
+
+STRING_RENAME = Yeniden adlandır
+
+STRING_MINUTES = dakika
+
+STRING_TILL_LOOP_NUMBER = Sabit bir sayı için
+
+STRING_TILL_LOOP_TIME = Süresi boyunca
+
+STRING_TILL_MANUAL = Sonsuz
+
+STRING_DELETE_SCRIPT = Seçilmiş oyun kayıt tuşunu silmek istiyor musun?
+
+STRING_MACRO_RECORDER = Oyun Kayıt Tuşu
+
+STRING_PLAYING_MACRO = Oyun kayıt tuşu oynatılıyor
+
+STRING_INTERVAL = aralık
+
+STRING_PLAYERS = oyuncular
+
+STRING_EXECUTING_SCRIPT = Oyun kayıt tuşu çalıştırılıyor
+
+STRING_SCRIPT_SETTINGS = Oyun kayıt tuşu ayarlarını düzenle
+
+STRING_EDIT_COMBO_HEADER = Anahtar sırasını düzenle
+
+STRING_SCRIPT = Yazı
+
+STRING_FARM = Çiftlik
+
+STRING_INSTANCE_SETTINGS = Çoklu Oturum Ayarları
+
+STRING_DELETE_CONFIRMATION = Seçilli oturumları silmek istediğinden emin misin?
+
+STRING_CLOSE_CONFIRMATION = Seçili oturumu kapatmak ister misin?
+
+STRING_SHORTCUT_ADDED_SUCCESS = Kısayol başarıyla masaüstüne eklendi.
+
+STRING_CONFIRM = Onay
+
+STRING_CLONE_FROM_MAIN_INSTANCE_WARNING = Klonlama bundan yapıldı
+
+STRING_BATCH_INSTANCE_CLOSE_CONFIRMATION = Seçili instance'ları kapatmak ister misiniz?
+
+STRING_STOP_RECORDING_TOOLTIP = Oyun kayıt tuşunu buradan durdurabilirsin
+
+STRING_NO_OPERATION_MESSAGE = Hiçbir operasyon yapılmadığı için oyun kaydedilmedi.
+
+STRING_BATCH_INSTANCE_DELETE_CONFIRMATION = Seçili oturumları silmek istediğinden emin misin?
+
+STRING_BETA = Beta
+
+STRING_STREAM_MODE = Yayınlama modu
+
+STRING_USE_DEDICATED_GPU = Özel bilgisayar grafikleri kullan.
+
+IMAP_STRING_DPAD_GamepadStick = Gamepad çubuğu
+
+STRING_INSTALLATION_FAILED = Maalesef, BlueStacks yüklenemedi.
+
+IMAP_STRING_MOBASkill_YAxisRatio = Y eksen oranı
+
+IMAP_STRING_MOBASkill_NoCancelTime = İptal süresi yok
+
+IMAP_STRING_MOBASkill_AutoAttack = Oto saldırı
+
+IMAP_STRING_MOBASkill_StopMOBADpad = MOBA Dpad'i durdur
+
+STRING_CONNECT_DISCORD_BST = BlueStacks'in Discord'la bağlanmasına izin ver
+
+STRING_PROBLEM_TYPE = Problem Türü
+
+STRING_APP_DETAILS = Uygulama Detayları
+
+STRING_APPLICATION_NAME = Uygulama İsmi
+
+STRING_APP_NAME_WATERMARK = Uygulama adını buraya yazın
+
+STRING_DESCRIBE_PROBLEM = Problemi tarif edin
+
+STRING_SCREENSHOT = Ekran görüntüsü
+
+STRING_CHOOSE = Seç
+
+STRING_SUBMIT_REPORT = Şikayetinizi onaylayın
+
+STRING_BST_SUPPORT_UTILITY = BlueStacks Destek Aracı
+
+STRING_NO_INSTANCE_FOUND = BlueStacks instance'ı bulunamadı
+
+STRING_SYNC_OPERATIONS = Senkronizasyon işlemleri
+
+STRING_NO_INSTANCE_RUNNING = Başka bir instance yürütülmüyor.
+
+STRING_START_OTHER_INSTANCES = Şu an yürütülen instance'ın aktivitelerini senkronize etmek için yeni instance'lar başlatın.
+
+STRING_SYNC_SELECTED = Senkronizasyon seçildi
+
+STRING_SYNC_HELP = Senkronizasyon yardımı?
+
+STRING_STOP_SYNCING = Senkronizasyonu durdur
+
+STRING_FRAME_RATE_SETTING = Saniyelik görüntü sayısı
+
+STRING_RECOMMENDED_FPS = Senkronizasyonu durdur
+
+STRING_FPS_FOR_GAMERS = Daha iyi bir oyun akışı için 60 FPS (basit bilgisayarlarda oyun performansı etkilenebilir)
+
+STRING_FPS_FOR_MULTIINSTANCE = Çoklu instance için 20 FPS (bazı oyunlar sorunsuz şekilde çalışmayabilir)
+
+STRING_GAMEPAD_SUPPORT = Gamepad desteği
+
+STRING_GAMEPAD_POPUP_TEXT = BlueStacks üzerinden gamepad'le oynamayı destekleyen oyunları görmek için gamepad ikonunu takip edin.
+
+STRING_GAMEPAD_CONNECTED = BlueStacks üzerinden gamepad'le oynamayı destekleyen oyunları görmek için gamepad ikonunu takip edin.
+
+STRING_GAMEPAD_DISCONNECTED = Gamepad devre dışı bırakıldı.
+
+STRING_GAMEPAD = Gamepad
+
+STRING_KEYBOARD_MOUSE = Klavye ve mouse
+
+STRING_ENABLE_ADB = Android Hata Ayıklama Köprüsü'nü (ADB) Etkinleştir
+
+STRING_ENABLE_ADB_WARNING = Bu ayar açık olduğu sürece BlueStacks tam olarak korunmayabilir. Bu ayarı daha sonra kapatmayı düşünebilirsiniz.
+
+IMAP_STRING_GamepadDpadUp = Dpad yukarı
+
+IMAP_STRING_GamepadDpadDown = Dpad aşağı
+
+IMAP_STRING_GamepadDpadLeft = Dpad sol
+
+IMAP_STRING_GamepadDpadRight = Dpad sağ
+
+IMAP_STRING_GamepadStart = Başla
+
+IMAP_STRING_GamepadStop = Geri
+
+IMAP_STRING_GamepadLeftThumb = Sol başparmak
+
+IMAP_STRING_GamepadRightThumb = Sağ başparmak
+
+IMAP_STRING_GamepadLeftShoulder = Sol omuz
+
+IMAP_STRING_GamepadRightShoulder = Sağ omuz
+
+IMAP_STRING_GamepadA = Gamepad A
+
+IMAP_STRING_GamepadB = Gamepad B
+
+IMAP_STRING_GamepadX = Gamepad X
+
+IMAP_STRING_GamepadY = Gamepad Y
+
+IMAP_STRING_GamepadLStickUp = Sol çubuk yukarı
+
+IMAP_STRING_GamepadLStickDown = Sol çubuk aşağı
+
+IMAP_STRING_GamepadLStickLeft = Sol çubuk sola
+
+IMAP_STRING_GamepadLStickRight = Sol çubuk sağa
+
+IMAP_STRING_GamepadRStickUp = Sağ çubuk yukarı
+
+IMAP_STRING_GamepadRStickDown = Sağ çubuk aşağı
+
+IMAP_STRING_GamepadRStickLeft = Sağ çubuk sola
+
+IMAP_STRING_GamepadRStickRight = Sağ çubuk sağa
+
+IMAP_STRING_GamepadLTrigger = Sol tetikleyici
+
+IMAP_STRING_GamepadRTrigger = Sağ tetikleyici
+
+IMAP_STRING_LeftStick = Sol çubuk
+
+IMAP_STRING_RightStick = Sağ çubuk
+
+STRING_OPEN_GAMEPAD_UI = Gamepad kontrol UI'lerini aç
+
+IMAP_STRING_Rotate_KeyClock = Saat Yönüne Çevir
+
+IMAP_STRING_Rotate_KeyAntiClock = Saat Yönünün Tersine Çevir
+
+IMAP_STRING_Rotate_OriginX = OriginX
+
+IMAP_STRING_Rotate_OriginY = OriginY
+
+IMAP_STRING_Rotate_XRadius = XRadius
+
+IMAP_STRING_Rotate_Speed = Hız
+
+IMAP_STRING_Rotate_ActivationTime = Aktivasyon Süresi
+
+STRING_UPDATE_AVAILABLE = Güncelleme mevcut
+
+STRING_DETAILED_CHANGELOG = Ayrıntılı değişiklikleri görüntüle
+
+STRING_INVALID_FORMAT_HEADER = Geçersiz format
+
+STRING_SAVE_KEY_SEQUENCE_ERROR = Anahtar dizisi tanınmayan bir biçimde olduğu için güncellenemedi. Lütfen geçerli bir JSON metninin girili olduğundan emin olun.
+
+STRING_WAIT_DURING_UPDATE = Yeni sürümü indirirken lütfen bekleyin, indirme işlemi devam ederken BlueStacks'i kullanmaya devam edebilirsiniz.
+
+STRING_INSTALL_NEXT_BOOT = Bir sonraki açılışta yükle
+
+STRING_NEW_UPDATE_READY_WARNING = BlueStacks'ı güncelleme sırasında kullanamazsınız.
+
+IMAP_Gamepad_Video_Element_Header = Gamepad'le nişan al ve ateşle
+
+IMAP_Gamepad_Video_Element_Body = Bir oyun konsoluyla atış oyunu oynar gibi oynayın ve herkese fark atın.
+
+STRING_HELP_AND_SUPPORT = Yardım ve Destek
+
+STRING_POWER_UPS = Power up'lar
+
+STRING_CUSTOMISE = Özelleştir
+
+STRING_DOWNLOADING_UPDATE = Güncelleme indiriliyor
+
+STRING_SHOW_TOAST = Toast Bildirimlerini Göster
+
+IMAP_STRING_STATE_Key = State anahtarı
+
+IMAP_STRING_STATE_Name = İsim
+
+IMAP_STRING_STATE_Model = Model
+
+IMAP_STRING_STATE_Header_Edit_UI = State
+
+STRING_DEVICEPROFILE_SETTING_DETAIL = Aygıt profili, BlueStacks instance'ınız için bir aygıt sağlama profili oluşturmanıza olanak sağlar.
+
+STRING_PREDEFINED_DEVICEPROFILE_TEXT = Önceden tanımlanmış bir profil seçin
+
+STRING_CUSTOM_DEVICEPROFILE_TEXT = Özel bir profil oluşturun
+
+STRING_SAVE_CHANGE = Değişiklikleri Kaydet

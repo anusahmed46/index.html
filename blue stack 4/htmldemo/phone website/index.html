@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main">
+        <nav>
+            <div class="logo">my phone</div>
+            <br><br><div class="nav-links">
+                <ul>
+                   <button>home</button>
+                   <button>about us</button>
+                   <button>contact us</button>
+                </ul>
+            </div>
+           
+        </nav>
+    </div>
+
+    <div class="info">
+        <div><img src="smartphone.png" class="mobile"></div>
+        <div id="circle">
+            <div class="feature one">
+                <img src="battery.png">
+                <div>
+                    <h1>battery</h1>
+                    <p>5000mah</p>
+                </div>
+            </div>
+            <div class="feature two">
+                <div>
+                    <h1>social media</h1>
+                    <p>facebook,instagram,twitter</p>
+                </div>
+                <img src="bullhorn (1).png" >
+            </div>
+            <div class="feature three">
+                <img src="camera.png" >
+                <div>
+                    <h1>camera</h1>
+                    <p>25mega pixels</p>
+                </div>
+            </div>
+            <div class="feature four">
+                <img src="war.png" >
+                <div>
+                    <h1>warranty</h1>
+                    <p>1 year </p>
+                </div>
+                <div><img src="smartphone.png" class="mobile"></div>
+            </div>
+        </div>
+    </div> 
+
+    <div class="control">
+        <img src="next.png" id="btnup">
+        <h3>features</h3>
+        <img src="next.png" id="btndown">
+    </div>
+
+    <script>
+        var circle = document.getElementById("circle");
+        var btnup = document.getElementById("btnup");
+        var btndown = document.getElementById("btndown");
+
+        var rotateValue = circle.style.transform;
+        var rotateSum;
+
+        btnup.onclick = function(){
+            rotateSum = rotateValue + "rotate(-90deg)";
+            circle.style.transform = rotateSum;
+            rotateValue = rotateSum;
+        }
+
+        btndown.onclick = function(){
+            rotateSum = rotateValue + "rotate(90deg)";
+            circle.style.transform = rotateSum;
+            rotateValue = rotateSum;
+        }
+    </script>
+   
+</body>
+</html>

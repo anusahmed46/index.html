@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+/* .main1 {
+    background: blanchedalmond;
+
+
+}
+
+.main2{
+    background: blue;
+    width: 100vw;
+    height: 100vh;
+}
+ */
+:root {
+    --b-a-width : 10vw;
+    --b-a-mwidth : 15vw;
+    --b-a-swidth : 20vw;
+}
+
+/* .main {
+    width: 100vw;
+    height: 100vh;
+    background: rgb(71, 71, 2);
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+/* }
+
+h1 {
+    color: white;
+    text-shadow:rgb(71, 71, 2);
+    position: relative;
+}
+
+h1::before{
+    content: "full stack developer";
+    position: absolute;
+    /* width: var( --b-a-width); */
+/* ul {
+    font-size: large;
+/* } */
+/* ul:first-child{
+    color: black;
+}
+ul:last-child{
+    color: darkblue;
+}
+    .main {
+        width: 100vw;
+        height: 100vh;
+        background: rgb(71, 71, 2);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+     
+} */
+
+/* .main p {
+   line-height: 0.9;
+   font-weight: bold;
+   display: block;
+}
+
+a{
+    text-decoration: none;
+    transition: all 0.3s linera;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a:link{
+    color: white;
+}
+
+a:hover{
+    color: turquoise;
+    background: yellow;
+
+}
+
+a:active{
+    color: blueviolet;
+    background: darkgoldenrod;
+}
+
+h1 {
+    background: darkgreen;
+    mix-blend-mode: screen;
+} */ 
+
+.main {
+    height: auto;
+    width: 30vw;
+    background-color: cornsilk;
+    color: rgb(211, 27, 27);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+h1 {
+    font-size: large;
+    padding: 50px 0;
+    text-align: center;
+    color: rgb(240, 23, 23);
+}
+
+p{
+    text-align: center;
+}
+
+.main2{
+    background-color: yellow;
+    width: 30vw;
+    height: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1 200px;
+}
+
+.main3{
+    background-color: rgb(9, 42, 230);
+    width: 30vw;
+    height: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+@media(main){
+    html {
+        font-size: large;
+    }
+}

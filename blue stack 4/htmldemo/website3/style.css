@@ -1,0 +1,52 @@
+/* .main{
+    border: 2px solid gray;
+    width: 200px;
+    margin: auto;
+}
+
+.jani {
+    width: 98%;
+    background-color: gray;
+    color: white;
+
+}
+
+.clearbtn {
+    width: 100%;
+    margin-top: 10px;
+    background-color: gray;
+
+}
+
+.btn {
+    width: 45px;
+    background-color: gray;
+    margin: 1px;
+
+}
+
+.halfbtn {
+    width: 95px;
+    background-color: gray;
+    margin-top: auto;
+} */
+
+
+.small {
+    width: 100px;
+    height: 100px;
+}
+
+.big {
+    height: 150px;
+    width: 150px;
+} 
+
+
+.bold {
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+}  

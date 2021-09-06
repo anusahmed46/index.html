@@ -1,0 +1,21 @@
+#btn {
+    color: red;
+    width: 200px;
+    padding: 15px;
+    margin-top: 15px;
+    display: flex;
+    border-radius: 5px;
+    justify-content: center;
+}   
+
+#file {
+    color: red;
+    width: 200px;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+.form {
+    text-align: center;
+    font-size: large;
+}

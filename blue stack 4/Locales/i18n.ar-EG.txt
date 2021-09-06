@@ -1,0 +1,2773 @@
+﻿STRING_RESTART_BLUESTACKS = إعادة تشغيل
+
+STRING_QUIT_BLUESTACKS = غادر
+
+STRING_UPLOAD_DEBUG_LOGS = أبلغ عن مشكلة
+
+STRING_INSTALL_UPDATES = تثبيت التحديثات
+
+STRING_APPS = تطبيقات
+
+STRING_APP = تطبيق
+
+STRING_INSTALLED = مثبتة
+
+STRING_FULL_SCREEN_BUTTON_TOOLTIP = ملء الشاشة تبديل
+
+STRING_LOADING_MESSAGE = جار التحميل...
+
+STRING_SYSTEM_APP = تطبيق النظام
+
+STRING_BROWSER_APP = المتصفح
+
+STRING_SETTINGS = إعدادات
+
+STRING_SETTING_APP = إعدادات
+
+STRING_CAMERA_APP = كاميرا
+
+STRING_GOOGLE_PLAY_GAMES_APP = ألعاب جوجل بلاي
+
+STRING_MEDIA_MANAGER_APP = مدير الوسائط:
+
+STRING_GOOGLE_PLAY_STORE_APP = جوجل بلاي
+
+STRING_RETURN_APP = عودة
+
+STRING_HELP_CENTER_APP = مركز المساعدة
+
+STRING_INSTANCE_MANAGER_APP = إدارة النموذج
+
+STRING_MACRO_RECORDER_APP = مسجل الماكرو
+
+STRING_INITIALIZING = جار تهيئة
+
+STRING_FULL_SCREEN_TOAST = بلو ستاكس في وضع ملء الشاشة. اضغط على F11 للخروج من وضع ملء الشاشة.
+
+STRING_SNAPSHOT_ERROR_TOAST = لا يوجد تطبيق مشاركة للقطة مثبت
+
+STRING_INCOMPATIBLE_FRONTEND_QUIT_CAPTION = يقوم أحد برامج مكافحة الفيروسات أو تطبيقات الحماية من جهاز الكمبيوتر بمنع بلو ستاكس من التشغيل
+
+STRING_INCOMPATIBLE_FRONTEND_QUIT = يرجى إنهاء برنامج الحماية من الفيروسات أو تطبيق الحماية الخاص بك الذي يمنع تشغيل بلو ستاكس
+
+STRING_BLUESTACKS = بلو ستاكس
+
+STRING_INSTALL_SUCCESS = قد تم تثبيتها
+
+STRING_UNINSTALL_SUCCESS = تم إلغاء التثبيت
+
+STRING_INSTALL_FAIL = فشل التثبيت
+
+STRING_USER_WAIT = جارٍ تثبيت التطبيق ...
+
+STRING_FORM = أداة دعم لاعب التطبيق
+
+STRING_ATTACHMENT_SIZE_EXCEEDS_LIMIT = يتجاوز الملف الذي تحاول إرفاقه الحد الأقصى المسموح به وهو ٤ ميغابايت. يرجى تحديد ملف آخر.
+
+STRING_ATTACHMENT_UNALLOWED_EXTENSION = الملف الذي تحاول إرفاقه ليس صورة. يرجى إرفاق لقطة شاشة للمشكلة وإعادة المحاولة.
+
+STRING_STATUS_INITIAL = بدء الجامع
+
+STRING_STATUS_COLLECTING_PRODUCT = جمع معلومات المنتج
+
+STRING_STATUS_COLLECTING_HOST = جمع معلومات المضيف
+
+STRING_STATUS_COLLECTING_GUEST = جمع معلومات أندرويد
+
+STRING_STATUS_ARCHIVING = إنشاء أرشيف الدعم
+
+STRING_STATUS_SENDING = إرسال تقرير المشكلة
+
+STRING_APP_NAME = أدخل اسم التطبيق
+
+STRING_FINISH_CAPT = أداة دعم كاملة
+
+STRING_FINISH_REPORT_SEND = تم إرسال تقرير مشكلتك. سوف نعود اليك قريبا.
+
+STRING_PROMPT = لا يمكن إرسال تقرير المشكلة. تم إنشاء ملف باسم BlueStacks-Support.zip على سطح المكتب الخاص بك. يرجى إرسال هذا الملف بالبريد الإلكتروني مع وصف موجز للمشكلة التي تواجهها إلى beta-support@bluestacks.com.
+
+STRING_RPC_FORM = قم باستكشاف أخطاء RPC وإصلاحها
+
+STRING_STUCK_AT_INITIALIZING_FORM = تعطل مستكشف الأخطاء عند التهيئة
+
+STRING_WORK_DONE = إنتهى ، إذا استمرت المشكلة ، فيرجى الإبلاغ عنها
+
+STRING_PROGRESS = يرجى الانتظار ، نحن نحاول حل المشكلة.
+
+STRING_TROUBLESHOOTER = تحرّي الخلل وإصلاحه وحاول حل مشكلتي تلقائيًا
+
+STRING_LOGCOLLECTOR_RUNNING = الإبلاغ عن مشكلة قيد التشغيل بالفعل
+
+STRING_CATEGORY = الفئة
+
+STRING_ZIP_NAME = BlueStacks-Support.zip
+
+STRING_RESTART_UTILITY_TITLE = فائدة إعادة تشغيل بلو ستاكس
+
+STRING_RESTART_UTILITY_RESTARTING = إعادة تشغيل بلو ستاكس
+
+STRING_RESTART_UTILITY_CANNOT_START = لا يمكن بدء بلو ستاكس
+
+STRING_RESTART_UTILITY_UNHANDLED_EXCEPTION = مشكلة. يرجى التحقق من السجل للحصول على التفاصيل.
+
+STRING_APKINSTALLER_ALREADY_RUNNING = يجري حاليًا تثبيت أحد التطبيقات. يرجى الانتظار حتى اكتمال التثبيت.
+
+STRING_UPDATER_UTILITY_NO_UPDATE_TITLE = محدث بلو ستاكس
+
+STRING_UPDATER_UTILITY_ASK_TO_INSTALL = هل ترغب في التحديث إلى أحدث إصدار من بلو ستاكس؟
+
+STRING_UPDATE_SUCCESS = تم التحديث
+
+STRING_MINIMIZE_TOOLTIP = قلص
+
+STRING_CLOSE = إغلاق
+
+STRING_SET_LOCATION = تحديد المكان
+
+STRING_TOOLBAR_CAMERA = لقطة شاشة
+
+ANDROID = أندرويد
+
+STRING_FINISH = إكتمل
+
+STRING_START_BLUESTACKS = بدء بلو ستاكس
+
+STRING_DOWNLOADING = جارى التحميل
+
+BLUESTACKS = بلو ستاكس
+
+STRING_BACK = عودة
+
+STRING_EXIT = خروج
+
+STRING_WELCOME_TO_BLUESTACKS = مرحبًا بك في بلو ستاكس
+
+STRING_BLUESTACKS_APK_HANDLER_TITLE = معالج بلو ستاكس
+
+STRING_SNAPSHOT_SHARE_STRING = مشترك عبر تطبيق بلو ستاكس (www.bluestacks.com)
+
+STRING_LOADING_SCREEN_APP_TITLE = تطبيق بلو ستاكس
+
+STRING_CLOSE_MESSAGE_PROMPT = هل ترغب في إنهاء البث؟
+
+STRING_CLOSE_WHILE_STREAMING_TOOLTIP = إنهاء البث
+
+STRING_BLACKSCREEN_FORM = حل المشكلة شاشة سوداء
+
+STRING_SELECT_APP_NAME = حدد اسم التطبيق
+
+STRING_SELECT = تحديد...
+
+STRING_CREATE_BLUESTACKS_REGISTRY = إنشاء تسجيل بلو ستاكس
+
+STRING_CREATE_SHORTCUTS = إنشاء اختصارات بلو ستاكس
+
+STRING_COULD_NOT_RESOTRE_INSUFFICIENT_SPACE = لسوء الحظ ، لم يكن الاستعادة ناجح لأنها تتطلب على الأقل
+
+STRING_INSTALLATION_CORRUPT_TITLE = تثبيت بلو ستاكس تالف.
+
+STRING_INSTALLATION_CORRUPT_MESSAGE = تثبيت تطبيق بلو ستاكس تالف. يرجى تنزيل وتثبيت أحدث إصدار من www.bluestacks.com
+
+STRING_SUBCATEGORY = فرعية
+
+STRING_FILTER_UPDATE_TITLE = تحديث فلاتر بلو ستاكس
+
+STRING_INITIALIZING_DOWNLOADER = جارٍ بدء التحميل ...
+
+STRING_DOWNLOADING_0_of_1 = جارٍ التحميل {0} من {1} ...
+
+STRING_DOWNLOADED = انتها التحميل...
+
+STRING_APPLYING = تطبيق النمط ...
+
+STRING_LATER_BUTTON = وقت لاحق
+
+STRING_DOWNLOAD_ERROR = حدث خطأ ما. سيتم تحديث الفلاتر عند الإطلاق التالي
+
+STRING_STOP_STREAMING_REQUIRED = سيتطلب هذا التحديث إلى توقيف البث
+
+STRING_OBS_ERROR = لسوء الحظ ، حدث خطأ ما. هل ترغب في إعادة المحاولة؟
+
+STRING_OBS_ALREADY_RUNNING = يوجد نموذج OBS آخر قيد التشغيل بالفعل. يرجى إنهاءها قبل أن تتمكن من البث المباشر.
+
+STRING_RESTORE_BUTTON = استعادة
+
+STRING_RECOMMENDED = موصى به
+
+STRING_BLUESTACKS_WARNING_PROMPT =  تحذير بلو ستاكس
+
+STRING_SELECT_BACKUP = حدد مجلدًا تريد إنشاء نسخة احتياطية عليه
+
+STRING_SELECT_RESTORE = حدد المجلد الذي تريد الإستعادة منه
+
+STRING_QUITTING = إغلاق من بلو ستاكس
+
+STRING_ANDROID_BACKUP = إنشاء نسخة احتياطية من أندرويد
+
+STRING_ANDROID_RESTORE = استعادة النسخة الاحتياطية من أندرويد
+
+STRING_USER_DATA_BACKUP = إنشاء نسخة احتياطية من بيانات المستخدم
+
+STRING_USER_DATA_RESTORE = استعادة نسخة احتياطية من بيانات المستخدم
+
+STRING_BACKUP_COMPLETE = اكتمال النسخ الاحتياطي
+
+STRING_RESTORE_COMPLETE = اكتمل الاستعادة
+
+STRING_BACKUP_FAILED = فشل النسخ الاحتياطي. الرجاء معاودة المحاولة في وقت لاحق.
+
+STRING_RESTORE_FAILED = لسوء الحظ ، لم يكن الاستعادة ناجح لأنها تتطلب على الأقل
+
+STRING_DATA_MANAGER = مدير بيانات بلو ستاكس
+
+STRING_APP_PLAYER_ONLINE = التطبيق متوفر
+
+STRING_MANAGE_NOTIFICATION = إدارة الإشعارات
+
+STRING_MUTE_NOTIFICATION_TOOLTIP = كتم الصوت
+
+STRING_HOUR = ساعة واحدة
+
+STRING_WEEK = أسبوع ١
+
+STRING_DAY = يوم ١
+
+STRING_FOREVER = إلى الأبد
+
+STRING_CLEAR = واضح
+
+STRING_NO_NEW_NOTIFICATION = لا إشعارات
+
+STRING_NOTIFICATION = اشعارات
+
+STRING_SHOW = عرض
+
+STRING_AUTO_HIDE = اخفاء تلقائي
+
+STRING_SHOW_NOTIFICATIONS = إظهار إشعارات سطح المكتب
+
+STRING_AUTO_HIDE_TOOLTIP = سيظهر الإشعار بعد ١٠ ثوانٍ.
+
+STRING_DISMISS_TOOLTIP = فصل
+
+STRING_SHOW_NOTIFICATION_TOOLTIP = إظهار الإشعارات
+
+STRING_RESET_APPS_AND_DATA = إعادة تعيين جميع التطبيقات والبيانات.
+
+STRING_AUTO = تلقاءي
+
+STRING_WEBCAM_SOURCE_STRING = مصدر كاميرا الويب
+
+STRING_STREAM_QUALITY_DETAILS = هذا لا يؤثر على شاشة المعاينة على اليسار
+
+STRING_STREAM_QUALITY = جودة الدفق
+
+STRING_SERVER_LOCATION = اختر موقع الخادم الأقرب إليك
+
+STRING_LBL_RESTORE_DEFAULT = استعادة الافتراضي
+
+STRING_LBL_COMPUTER_SOUND = صوت الكمبيوتر
+
+STRING_LBL_MICROPHONE_SOUND = صوت الميكروفون
+
+STRING_LBL_MICROPHONE_SOURCE = مصدر الميكروفون
+
+STRING_LABEL_STREAM_AUDIO_SOURCE = مصدر دفق الصوت
+
+STRING_LABEL_STREAM_AUDIO_SOURCE_DETAIL = يؤثر هذا فقط على ما سيسمعه المشاهدون
+
+STRING_LBL_ADVANCED_STREAM_SETTINGS = إعدادات الدفق المتقدمة
+
+STRING_AUDIO_BUTTON = سمعي
+
+STRING_VIDEO_BUTTON = فيديو
+
+STRING_OTHER_BUTTON = آخر
+
+STRING_VIDEO_BUTTON_TOOLTIP = لا يمكن ضبط إعدادات الفيديو أثناء البث المباشر
+
+STRING_OTHER_BUTTON_TOOLTIP = لا يمكن ضبط الإعدادات الأخرى أثناء البث المباشر
+
+NONE = لا شيء
+
+STRING_ACCOUNT = حساب
+
+STRING_NAVIGATE_FAILED = فشل في الإنتقال
+
+STRING_RETRY = إعادة المحاولة
+
+STRING_INCORRECT_LOGIN_DETAILS = فشل في استعادة النسخة الاحتياطية. يختلف حساب بلو ستاكس المرتبط بهذه النسخة الاحتياطية عن الحساب الجاري.
+
+STRING_INCORRECT_PATH = لسوء الحظ ، لم يكن الاستعادة ناجحة. يرجى تحديد المسار الصحيح.
+
+STRING_RESTORE_FAILURE = فشل استعادة البيانات
+
+STRING_BACKUP_SUCCESSFUL = تم الاحتفاظ بنسخة احتياطية من بياناتك بنجاح. يمكنك العثور عليه في:
+
+STRING_RESTORE_SUCCESSFUL = تمت استعادة بياناتك بنجاح
+
+STRING_ADVANCED_SETTINGS = إعدادات متقدمة
+
+STRING_EXIT_BLUESTACKS = هل تريد الخروج من بلو ستاكس؟
+
+STRING_YES = نعم
+
+STRING_NO = لا
+
+STRING_HOME = الصفحة الرئيسية
+
+STRING_SHAKE = تحرك
+
+STRING_SCREENSHOT = لقطة شاشة
+
+STRING_LOCATION = الموقع
+
+STRING_LOADING_ENGINE = تحميل المحرك
+
+STRING_SEARCH = البحث
+
+STRING_APP_CENTER = مركز التطبيقات
+
+STRING_GIFT = هدايا
+
+STRING_FEEDBACK = مركز المساعدة
+
+STRING_ENGINE_VERSION = نموذج الانكليزي
+
+STRING_OK = حسنا
+
+STRING_SAVE = حفظ
+
+STRING_CPU_CORES = نواة وحدة المعالجة المركزية
+
+STRING_MEMORY = ذاكرة
+
+STRING_APPLY = تطبيق
+
+STRING_GOOGLE_LOGIN_MESSAGE = تسجيل الدخول باستخدام حساب جوجل الخاص بك لبدء استخدام بلو ستاكس
+
+STRING_MORE_GOOGLE_SEARCH_RESULT = نتائج بحث جوجل
+
+STRING_F11_EXIT_FULL_SCREEN = اضغط F11 للخروج من وضع ملء الشاشة
+
+STRING_ESC_EXIT_FULL_SCREEN = اضغط على Esc للخروج من وضع ملء الشاشة
+
+STRING_WARNING = تحذير
+
+STRING_BEGINNERS_GUIDE = دليل المبتدئين
+
+STRING_VOLUME_CONTROL = التحكم في مستوى الصوت
+
+STRING_ALWAYS_ON_TOP = دائما في القمة
+
+STRING_KEY_MAPPING_ENABLED = عناصر تحكم لوحة المفاتيح مفعلة
+
+STRING_KEY_MAPPING_DISABLED = عناصر تحكم لوحة المفاتيح معطلة
+
+STRING_MULTIINSTANCE_DELETE = هل ترغب في حذف هذا المثيل؟
+
+STRING_UNINSTALL_APP_ASK = هل ترغب في إلغاء تثبيت هذا التطبيق؟
+
+STRING_MAP = خرائط
+
+STRING_SOME_ERROR_OCCURED = لسوء الحظ ، حدث خطأ ما. حاول مرة اخرى.
+
+STRING_DATA_PATH = مسار البيانات بلو ستاكس
+
+STRING_INSTALL_NOW = تثبيت الآن
+
+STRING_SPACE_REQUIRED = المساحة المطلوبة
+
+STRING_SPACE_AVAILABLE = مساحة متاحة
+
+STRING_FOLDER = ملف
+
+STRING_INSTALL_DONE = إنتهى التثبيت
+
+STRING_INSTALLATION_CANCEL_CONFIRMATION = هل تود إنهاء التثبيت؟
+
+STRING_SELECT_FOLDER = يرجى تحديد ملف آخر
+
+STRING_AGREE_WITH_LICENSE = مطلوب اتفاقيتك للمضي قدما
+
+STRING_PRE_INSTALL_CHECKS = التحقق من متطلبات النظام
+
+STRING_INSTALLING_ENGINE = تثبيت المحرك
+
+STRING_EXTRACTING_FILES = استخراج ملفات
+
+STRING_INSTALL_FINISH = اكتمل التثبيت
+
+STRING_CUSTOM = تعديل التثبيت
+
+STRING_SOFTWARE_LICENSE = رخصة البرنامج
+
+STRING_AGREE = قبول
+
+STRING_UNINSTALL_FINISHED = إزالة تثبيت بلو ستاكس
+
+STRING_CANCEL = إلغاء
+
+STRING_UNINSTALL = الغاء التثبيت
+
+STRING_ENGINE_UNINSTALL = إلغاء تثبيت المحرك
+
+STRING_CLIENT_UNINSTALL = إلغاء تثبيت العميل
+
+STRING_FINISHED = إنتهى
+
+STRING_THANKS_FOR_USING_BLUESTACKS = شكرا لك على استخدام بلو ستاكس
+
+STRING_REASON_FOR_UNINSTALL = من فضلك أخبرنا عن سبب اختيارك لإلغاء تثبيت بلو ستاكس
+
+STRING_INSTALL_ENGINE_FAIL = لا يمكن تثبيت المحرك
+
+STRING_INSTALL_GAME_FAIL = لا يمكن تثبيت لعبة
+
+STRING_CONFLICT_WITH_OTHERS = مشكلة مع برنامج أخر
+
+STRING_START_ENGINE_FAIL = المحرك لم يبدأ
+
+STRING_GAME_LAG = اللعبة تبدو بطيئة / بطيئة
+
+STRING_BLACK_SCREEN = شاشة سوداء
+
+STRING_CANNOT_FIND_GAME = لا يمكن العثور على لعبة
+
+STRING_APP_CRASH = تعطل التطبيق
+
+STRING_EXE_CRASH = تعطل .exe
+
+STRING_OTHER_REASON = أسباب أو معلومات أخرى ، على سبيل المثال ، اسم اللعبة ، وما إلى ذلك.
+
+STRING_INSTANCE_ALREADY_RUNNING = هذا المثال قيد التشغيل بالفعل. هل أنت متأكد من حذفه؟
+
+STRING_GUEST_NOT_BOOTED = المحرك غير جاهز ، يرجى الانتظار
+
+STRING_MULTIINSTANCE = مثيل متعدد
+
+STRING_INSTALL_APK = تثبيت التطبيق
+
+STRING_UNINSTALL_APP = إزالة التطبيق
+
+STRING_DELETE = حذف
+
+STRING_DEFAULT_KEYBOARD_MAPPING_SETTING_01 = عناصر التحكم في لوحة المفاتيح متاحة لهذا التطبيق
+
+STRING_DEFAULT_KEYBOARD_MAPPING_SETTING_02 = الرجاء النقر أدناه للتحقق أو تصحيح
+
+STRING_DOWNLOAD_GOOGLE_APP_POPUP_STRING_04 = لا تظهر مرة أخرى
+
+STRING_UPGRADE_NOW = حدث الأن
+
+STRING_INSTALLATION_ERROR = خطأ في التثبيت
+
+STRING_TRY_RESTARTING_MACHINE = قم بإعادة تشغيل جهاز الكمبيوتر الخاص بك وحاول مرة أخرى
+
+STRING_MULTI_INSTANCE_CREATE_ERROR = للأسف ، لا يمكن إنشاء مثيل. سبب الخطأ:
+
+STRING_ARE_YOU_SURE = هل أنت واثق؟
+
+STRING_RESTART_MACHINE_PROMPT = هل ترغب في إعادة تشغيل جهاز الكمبيوتر الخاص بك؟
+
+STRING_OPEN_KEYMAPPING_UI = فتح عناصر تحكم لوحة المفاتيح واجهة المستخدم
+
+STRING_MAXIMIZE_TOOLTIP = تحقيق أقصى قدر
+
+STRING_VERION_DOWNGRADE = تخفيض
+
+STRING_VERSION_ALREADY_INSTALLED = أحدث نسخة مثبتة بالفعل
+
+STRING_CANT_USE_THIS_FOLDER = لسوء الحظ ، لا يمكن استخدام هذا الملف
+
+STRING_NO_DISK_SPACE = لسوء الحظ ، لا يوجد مساحة قرص كافية
+
+STRING_MULTI_INSTANCE_CREATE_BUSY = إنشاء مثيل جديد ، يرجى الانتظار
+
+STRING_MULTI_INSTANCE_DELETE_BUSY = حذف المثال ، يرجى الانتظار
+
+STRING_UNINSTALL_BLUESTACKS = هل ترغب في إلغاء تثبيت بلو ستاكس؟
+
+STRING_CLIENT_VERSION = إصدار العميل
+
+STRING_SYSTEM_REQUIREMENTS_NOT_MET = لم يتم استيفاء الحد الأدنى من متطلبات النظام
+
+STRING_RESTART_NOW = اعد البدء الان
+
+STRING_EXIT_INSTANCE = هل ترغب في إغلاق هذا المثيل؟
+
+STRING_INSTANCE_CLOSE_TITLE = إغلاق المثيل
+
+STRING_BLUESTACKS_UPDATE_AVAILABLE = محدث بلو ستاكس
+
+STRING_DOWNLOADING_BLUESTACKS_UPDATE = تحميل تحديث بلو ستاكس
+
+VERSION = الإصدار
+
+STRING_ERROR = خطأ
+
+STRING_SCREEN1_TEXT1 = انقر على الزر> المرئي على الشاشة لتتعرف على الميزات المفيدة
+
+STRING_DIRECTX = ديركت اكس
+
+STRING_OPENGL = أبن جل
+
+STRING_ENGINE_FAIL_HEADER = لا يمكن بدء المحرك
+
+STRING_ENGINE_RESTART = يمكنك محاولة إعادة تشغيل المحرك أو جهاز الكمبيوتر الخاص بك
+
+STRING_CREATING_BACKUP = خلق نسخ احتياطي
+
+STRING_BACKUP_PLEASE_WAIT = الرجاء الانتظار حتى نقوم بعمل نسخة احتياطية من بيانات بلو ستاكس الخاصة بك إلى الملف المختار.
+
+STRING_RESTORE_BACKUP = استعادة النسخ الاحتياطي
+
+STRING_RESTORING_BACKUP = استعادة النسخ الاحتياطي
+
+STRING_RESTORE_PLEASE_WAIT = يرجى الانتظار حتى نتمكن من استعادة بيانات بلو ستاكس من الملف المختار.
+
+STRING_MAKE_SURE_LATEST_WARNING = يرجى الاحتفاظ بنسخة احتياطية من أحدث بيانات بلو ستاكس (مثل النماذج والإعدادات والألعاب المثبتة وبيانات الألعاب وعناصر تحكم لوحة المفاتيح) قبل الاستعادة من نسخة احتياطية أخرى تم التقاطها مسبقًا. وإلا ، فقد تفقدها وقد لا تتمكن من استعادتها مرة أخرى.
+
+STRING_BACKUP_WARNING = تحذير النسخ الاحتياطي
+
+STRING_BLUESTACKS_BACKUP_PROMPT = لن تتمكن من استخدام بلو ستاكس أثناء العملية ، فهل تريد بتأكيد المتابعة؟
+
+STRING_QUITTING_BLUESTACKS_WHILE_BACKUP_PROMPT = أنت على وشك الخروج من بلو ستاكس لإنشاء نسخة احتياطية. هل أنت متأكد من أنك تريد المتابعة؟
+
+STRING_BLANK_NOTIFICATION = تطبيقك لديه إشعار
+
+STRING_QUITTING_BLUESTACKS_WHILE_RESTORE_PROMPT = الرجاء الانتظار حتى نتمكن من إغلاق بلو ستاكس ، وسيبدأ تلقائيًا عند اكتمال الاستعادة.
+
+STRING_SUCCESS = نجاح
+
+STRING_LAUNCHING_BLUESTACKS = إنطلاق بلو ستاكس
+
+STRING_RUNNING_COMMANDS = تشغيل الأوامر
+
+STRING_COMMANDS_ERROR = واجه خطأ ، رمز الخطأ هو
+
+STRING_TOOL_SUCCESS = تم بنجاح.
+
+STRING_DELETING_BACKUP = حذف النسخ الاحتياطي
+
+STRING_DELETING_BACKUP_INFO = الرجاء الانتظار بينما نقوم بإلغاء النسخة الاحتياطية.
+
+STRING_ANOTHER_BLUESTACKS_INSTANCE_RUNNING_PROMT_TEXT1 = برنامج بلو ستاكس آخر قيد التشغيل بالفعل.
+
+STRING_ANOTHER_BLUESTACKS_INSTANCE_RUNNING_PROMT_TEXT2 = انقر فوق موافق لإغلاق برنامج بلو ستاكس الموجود والمتابعة.
+
+STRING_BACKUP_ERROR_INVALID_PATH_SELECTED = فشل النسخ الاحتياطي لهذا الموقع. ليس لديك أذونات الكتابة
+
+STRING_BACKUP_FAILURE = فشل النسخ الاحتياطي
+
+STRING_DATA_MANAGER_INVALID_OEM = للأسف ، لم تنجح عملية الاستعادة لأن هذه نسخة احتياطية غير صالحة لا تتوافق مع إصدار بلوستاكس الموجود.
+
+STRING_UNINSTALL_TITLE = إلغاء تثبيت بلو ستاكس
+
+STRING_UNINSTALL_BLUESTACKS_WARNING = سيتم فقد بياناتك. انتقل إلى الإعدادات> النسخ الاحتياطي والاستعادة للنسخ الاحتياطي لبياناتك.
+
+STRING_BLUESTACKS_UPDATE = تحديث بلو ستاكس
+
+STRING_RESTART_PC = إعادة تشغيل الكمبيوتر
+
+STRING_RESTART_ENGINE = قم بإعادة تشغيل المحرك
+
+STRING_INVALID_PATH = المسار غير صالح. يجب أن يكون اسم الملف إما امتداد jpg أو jpeg.
+
+STRING_INVALID_CHARACTER = لسوء الحظ ، لا يُسمح إلا بمفاتيح أبجدية.
+
+STRING_BOOT_TIME = قد يستغرق الأمر ما يصل إلى 40 ثانية بناءً على أداء جهاز الكمبيوتر الخاص بك
+
+STRING_BOOTING_ENGINE = بدء المحرك ، يرجى الانتظار ...
+
+STRING_FIRST_BOOT = قد يستغرق التمهيد الأول من 2 إلى 3 دقائق حسب أداء الكمبيوتر
+
+STRING_INSTANCE = نموذج
+
+STRING_DYNAMIC_RAM = تخصيص ذاكرة الوصول العشوائي تلقائي
+
+STRING_CONNECTION_ISSUE_TEXT1 = حدثت مشكلة في الاتصال
+
+STRING_CONNECTION_ISSUE_TEXT2 = حاول مرة اخرى.
+
+STRING_RETRY_CONNECTION_ISSUE_TEXT1 = حول مرة أخرى
+
+STRING_REMOVE_ACCOUNT_ON_EXIT = الخروج من بلو ستاكس. هل ترغب في إزالة حساب جوجل الخاص بك وجميع المحتويات المرتبطة به من بلو ستاكس؟
+
+STRING_CLOSING_BLUESTACKS = إغلاق بلو ستاكس
+
+STRING_EXIT_BLUESTACKS3 = الخروج من بلو ستاكس
+
+STRING_PERF_WARNING = تحذير الأداء
+
+STRING_MIN_REQ_NOT_MET = للأسف ، لا يلبي الكمبيوتر الحد الأدنى من المتطلبات لتشغيل بلو ستاكس بكفاءة. قد تواجه ضعف الأداء.
+
+STRING_CREATE_INSTANCE = إنشاء نموذج جديد
+
+STRING_CLONE_INSTANCE = إستنساخ النموذج
+
+STRING_DONT_CREATE = لا تخلق
+
+STRING_SPEEDUP_BLUESTACKS = تسريع بلوستاكس
+
+STRING_SPEEDUP_SUGGESTION_INSTANCE = توصي بلو ستاكس بتمكين الظاهرية على الكمبيوتر الخاص بك لتشغيل نماذج متعددة. خلاف ذلك ، قد تواجه ضعف الأداء.
+
+STRING_INSTALLATION_ROLLBACK = التراجع في التثبيت
+
+STRING_UNINSTALLING_WAIT = إلغاء تثبيت بلو ستاكس ، يرجى الانتظار
+
+STRING_CLEANER_TITLE = منظف بلو ستاكس\n
+
+STRING_UPGRADE_FROM_BS1_CLEAN_OK = تثبيت جديد
+
+STRING_UPGRADE_FROM_BS1_CLEAN_CANCEL = اتركها قديمة
+
+STRING_REC_MEM = الذاكرة الموصى بها:
+
+STRING_DISPLAY_SETTINGS = عرض
+
+STRING_ENGINE_SETTING = محرك
+
+STRING_BOSSKEY_SETTING = مفتاح رئيسي
+
+STRING_NOTIFICATION_SETTING = إشعار
+
+STRING_BACKUPRESTORE_SETTING = نسخ احتياطي واستعادة
+
+STRING_UPDATE_SETTING = تحديث
+
+STRING_ABOUT_SETTING = حول
+
+STRING_DEVICEPROFILE_SETTING = الملف الشخصي للجهاز
+
+STRING_KEEP_BLUESTACKS_UPDATED = حافظ على تحديث بلوستاكس حتى تتمكن من الاستمرار في تشغيل الألعاب بشكل أسرع والحصول على أحدث الميزات.
+
+STRING_LATEST_VERSION = أنت على أحدث إصدار
+
+STRING_LATEST_VERSION_INSTALLED = تم تثبيت أحدث إصدار من بلو ستاكس بالفعل على جهاز الكمبيوتر الخاص بك.
+
+STRING_CHECK_UPDATES = البحث عن تحديثات
+
+STRING_NEW_UPDATE = التحديث الجديد متاح
+
+STRING_DOWNLOAD = حمّل
+
+STRING_ASPECT_RATIO_NEW = دقة
+
+STRING_DPI = DPI
+
+STRING_SYSTEM_DEFAULT = النظام الافتراضي
+
+STRING_CUSTOM_SIZE = حجم مخصص
+
+STRING_LOW = منخفض
+
+STRING_HIGH = مرتفع
+
+STRING_CREATE_BACKUP = خلق نسخ احتياطي
+
+STRING_VERSION_FOUR = الإصدار 4
+
+STRING_ABOUT_BLUESTACKS = حول بلو ستاكس
+
+STRING_RESTORE_BLUESTACKS_DATA = استعادة النسخ الاحتياطي لإصدارات بلو ستاكس والإعدادات والتطبيقات والألعاب المثبتة وبياناتها وعناصر تحكم لوحة المفاتيح.
+
+STRING_CHANGES_APPLY_RESTART = سيتم تطبيق التغييرات عند إعادة التشغيل التالي
+
+STRING_PREFERENCES = تفضيلات
+
+STRING_PLATFORM_SETTINGS = إعدادات النظام الأساسي
+
+STRING_ADD_ICONS = أضف رموزًا للتطبيقات المثبتة
+
+STRING_SETUP_BOSSKEY = نصب المفتاح الرئيسي
+
+STRING_BOSSKEY_SHORTCUT = Ctrl + Alt +
+
+STRING_BOSSKEY_DESCRIPTION = إخفاء / إظهار بلو ستاكس باستخدام المفتاح الرئيسي بشكل فوري
+
+STRING_CHOOSE_GRAPHICS_MODE = اختر وضع الرسومات
+
+STRING_BETTER_GRAPHICS = رسومات أفضل
+
+STRING_MORE_COMPATIBLE = أكثر توافقا
+
+STRING_CPU_AND_RAM_ALLOCATION = وحدة المعالجة المركزية وتخصيص ذاكرة الوصول العشوائي
+
+STRING_CHOOSE_BETWEEN_ONE_TO = اختر من بين
+
+STRING_CHANGELOG = تغيير السجل
+
+STRING_CHANGES_APPLY_AUTOMATIC = سيتم حفظ التغييرات تلقائيا
+
+STRING_DOWNLOAD_UPDATE = حمل التحديث
+
+STRING_CONTINUE_PRESENT = أكمل
+
+STRING_INSTALL_UPDATE = تثبيت التحديث
+
+STRING_NEW_UPDATE_READY = يتم تنزيل إصدار جديد من بلوستاكس وجاهز للتثبيت. هل تريد تثبيته.
+
+STRING_UPDATE_NEXT_BOOT = تحديث عند إعادة التشغيل
+
+STRING_INSTALLED_APPS = التطبيقات المثبتة
+
+STRING_CUSTOM_NOTIFICATION_SETTING = استخدم إعداد الإشعارات المخصصة للتطبيقات المثبتة
+
+STRING_REPORT_A_PROBLEM = الإبلاغ عن مشكلة
+
+STRING_CREATE_DESKTOP_SHORTCUT = إنشاء اختصار سطح المكتب
+
+STRING_DELETE_INSTANCE = حذف النموذج
+
+STRING_RESTART_INSTANCE = اعد بدء النموذج
+
+STRING_RUNNING_DOTED = يعمل...
+
+STRING_BOOTING_DOTED = إعادة تشغيل...
+
+STRING_CLOSING_DOTED = إغلاق...
+
+STRING_LASTBOOTEDON = توقف، إعادة التشغيل
+
+STRING_INSTANCES = نماذج
+
+STRING_START = إبدأ
+
+STRING_STOP = أوقف
+
+STRING_NEW_FRESH_INSTANCE = مثال جديد
+
+STRING_NEW_FRESH_INSTANCE_MESSAGE = سوف تحتاج إلى تثبيت كل شيء
+
+STRING_CLONE_SAME_ACCOUNT = إستنساخ النموذج
+
+NAME = اسم
+
+STRING_CREATE = خلق
+
+STRING_ANTIVIRUS_WARNING_STRING = قم بتعطيل برنامج مكافحة فيروسات الكمبيوتر الخاص بك إذا كان يتداخل مع تثبيت بلو ستاكس
+
+STRING_ANTIVIRUS_PAUSE_INSTALLER =  قم بإيقاف برنامج مكافحة الفيروسات عن الكمبيوتر الخاص بك إذا كان يتدخل في تثبيت بلوستاكس
+
+STRING_BACKUP_DESKTOP = إستخدم نسخ الاحتياطي على سطح المكتب قبل التحديث
+
+STRING_TAKE_10MIN = هذا قد يستغرق حتى ١٠ دقائق
+
+STRING_HIDE = إخفاء التقدم
+
+STRING_RESTARTING = إعادة تشغيل
+
+STRING_SUPPORT = الدعم
+
+STRING_WEBSITE = موقع الكتروني
+
+STRING_SUPPORT_EMAIL = البريد الإلكتروني للدعم
+
+STRING_CHOOSE_NEW = اختر جديد
+
+STRING_RESTORE_DEFAULT = استعادة الافتراضي
+
+STRING_WALLPAPER = خلفية
+
+STRING_CHANGE_WALLPAPER = تغيير الخلفية،
+
+STRING_RESTORE_DEFAULT_WALLPAPER = هل تريد إستعادة الخلفية الإفتراضية؟
+
+STRING_PREMIUM_FEATURE = ميزة متميزة
+
+STRING_PREMIUM_FEATURE_POPUP = يتطلب منك شراء اشتراك بلو ستاكس مميز لاستخدام هذه الميزة.
+
+STRING_ENABLE_VT = تمكين VT لجعل بلو ستاكس بشكل أسرع
+
+STRING_LEARN_MORE = أعرف أكثر
+
+STRING_SPEED_UP_BLUESTACKS = تسريع بلو ستاكس
+
+STRING_SPEED_UP_TIPS = تسريع النصائح
+
+STRING_ENABLE_VIRT = تمكين المحاكاة الافتراضية للأجهزة
+
+STRING_ENABLE_VIRT_BODY = ستتيح المحاكاة الافتراضية للأجهزة إمكانية تشغيل التطبيقات بشكل أسرع من خلال تخصيص المزيد من الموارد وتقليل أوقات المعالجة.
+
+STRING_ENABLE_VIRT_HYPERLINK = كيف أقوم بتمكين الظاهرية؟
+
+STRING_UPGRADE_SYSTEM = قم بترقية الكمبيوتر الخاص بك
+
+STRING_UPGRADE_SYSTEM_BODY = يمكن أن يؤدي الترقية إلى كمبيوتر مزود بمزيد من ذاكرة الوصول العشوائي ووحدة المعالجة المركزية الأسرع (باستخدام الأجهزة الظاهرية بمساعدة الأجهزة) إلى تعزيز أداء بلو ستاكس بشكل كبير. كما يمكن لشاشة عرض كبيرة وواضحة مع لوحة مفاتيح أو ماوس جيدة تحسين التجربة بشكل كبير.
+
+STRING_UPGRADE_SYSTEM_HYPERLINK = ما هي مواصفات النظام الموصى بها؟
+
+STRING_CONFIGURE_ANTIVIRUS = تعطيل برنامج مكافحة الفيروسات
+
+STRING_CONFIGURE_ANTIVIRUS_BODY = يمكن أن تتداخل بعض ميزات الحماية من الفيروسات مع المحاكاة الافتراضية وتتسبب في تدهور كبير للأداء. يمكن تعطيل هذه الميزات تسريع بلو ستاكس بشكل كبير.
+
+STRING_CONFIGURE_ANTIVIRUS_HYPERLINK = كيف يمكنني إعداد برنامج مكافحة الفيروسات الخاص بي؟
+
+STRING_DISABLE_HYPERV = سيكون عليك تعطيل هيبير-ف وبرامج هيبيرفيسر الأخرى.
+
+STRING_DISABLE_HYPERV_BODY = يستخدم بلو ستاكس تقنية المحاكاة الافتراضية وعندما تعمل برامج هيبير-ف الأخرى مثل هيبير-ف أو فرتولبكس أو فموار ، فقد يضعف ذلك من قدرتنا على العمل بالشكل الأمثل. حاول تعطيل البرامج الأخرى التي قد تستخدم تقنية الظاهرية.
+
+STRING_DISABLE_HYPERV_HYPERLINK = كيف أقوم بتعطيل برامج هيبيرفيسر ؟ .
+
+STRING_NOT_ENOUGH_RAM = ليس لديك ذاكرة وصول عشوائي كافية في جهاز الكمبيوتر الخاص بك لتشغيل مثيلات متعددة بسلاسة. فكر في ترقية ذاكرة الوصول العشوائي لنظامك قبل إنشاء مثيل آخر.
+
+STRING_LOGOUT_BUTTON = الخروج
+
+STRING_LOGOUT_BLUESTACKS3 = الخروج من بلو ستاكس
+
+STRING_REMOVE_GOOGLE_ACCOUNT = هل ترغب في تسجيل الخروج من جوجل بلاي؟
+
+STRING_APP_UPGRADE = هل ترغب في ترقية هذا التطبيق؟
+
+STRING_PLAY_NOW = العب الآن
+
+STRING_RESTORE_INFO = فكّر في النسخ الاحتياطي قبل الاستعادة ، فستستبدل عملية الاستعادة بياناتك الحالية وستفقد.
+
+STRING_BACKUP_INFO = قد يستغرق ذلك 5 دقائق حسب الألعاب المثبتة.
+
+STRING_BTV_WARNING = يمكن أن يؤدي البث عبر الفيديو وتسجيل الفيديو إلى إبطاء معدل عرض الإطارات للعبك. .
+
+STRING_BTV_DOWNLOAD = تحميل تلفزيون بلو ستاكس
+
+STRING_BTV_INSTALL_WAIT = يرجى الانتظار بينما نقوم بتحميل تلفزيون بلو ستاكس
+
+STRING_BTV_DOWNLOAD_CANCEL = هل ترغب في إلغاء تحميل تلفزيون بلو ستاكس؟
+
+STRING_LANGUAGE_SETTING = اعدادات اللغة
+
+STRING_DOWNLOAD_NOW = حمّل الآن
+
+STRING_HYPERV_ENABLED_MESSAGE = لم يتمكن بلو ستاكس استخدام الظاهري المحاكاة الافتراضية عند تمكين هيبير-ف. يرجى تعطيل هيبير-ف من لوحة التحكم. تحقق من الأسئلة الشائعة للحصول على التفاصيل.
+
+STRING_SHOW_GUIDE = مراجعة الأسئلة الشائعة
+
+STRING_UPGRADE_NOT_SUPPORTED = للأسف ، لا يمكن ترقية الإصدار الحالي من بلوستاكس إلى الإصدار الأحدث.
+
+STRING_UNINSTALL_CURRENT_AND_REINSTALL = الرجاء إلغاء تثبيت الإصدار الحالي وإعادة تثبيت بلو ستاكس.
+
+STRING_AVAILABLE_TO_DOWNLOAD = متاح للتنزيل
+
+STRING_XPAC_PERF_BOOST = تعزيز الأداء
+
+STRING_XPAC_DEF_KEYMAP = ضوابط لوحة المفاتيح الافتراضية
+
+STRING_XPAC_SPECIAL_THEMES = شكل خاص
+
+STRING_XPAC_GUIDE_TUTORIALS = أدلة ودروس
+
+STRING_XPAC_SPECIAL_GIFTS = هدايا خاصة
+
+STRING_XPAC_DESCRIPTION = تعمل أكس باك على تحسين تجربة الألعاب على بلو ستاكس من خلال جلب الأدوات التي تحتاجها للحصول على ميزة متقدمة على الألعاب في أي مكان آخر.
+
+STRING_XPAC_GET_FREE = احصل علية بدون مقابل
+
+STRING_XPAC_APPLY_THEME = تطبيق شكل أكس باك
+
+STRING_XPAC_REVERT_THEME = العودة إلى المظهر الافتراضي
+
+STRING_XPAC_INSTALLED = أكس باك مثبت
+
+STRING_CAPTURE_ERROR = للأسف ، لا يمكن التقاط الشاشة. راجع الأسئلة الشائعة لمعرفة كيفية تغيير وضع الرسومات إلى ديركت أكس.
+
+STRING_DIRECTX_DOWNLOAD = يتطلب تلفزيون بلو ستاكس  بعض مكونات رسومات ديركت اكس من ويندوز والتي يبدو أنها مفقودة على جهاز الكمبيوتر الخاص بك. هل ترغب في تنزيلها؟
+
+STRING_CHANGE_SKINS = تغيير شكل تطبيق
+
+STRING_BLUESTACKS_SKIN = أشكال بلو ستاكس
+
+STRING_CHANGE_SKIN = تغيير الشكل
+
+STRING_ICON_REMOVE = هل ترغب في إزالة هذا الرمز؟
+
+STRING_SOME_ERROR_OCCURED_DOWNLOAD = للأسف ، تعذر تنزيل التحديث بالكامل. يرجى المحاولة مرة أخرى أو اتصل بدعم بلو ستاكس.
+
+STRING_MAPS = عالم بلو ستاكس
+
+STRING_DELETING_DOTED = حذف ...
+
+STRING_AUTO_START_ON_FINISH = البدء التلقائي عند الانتهاء
+
+STRING_PIKA_POINTS = نقاط بلو ستاكس
+
+STRING_APPLIED = مطبق
+
+STRING_REDEEM = إستهلك
+
+STRING_INVALID_APK_BLACKLISTED_ERROR = لا يمكن تثبيت هذا التطبيق على هذا الإصدار من بلو ستاكس
+
+STRING_MACRO_RUNNING = ماكرو قيد التشغيل حاليًا.
+
+STRING_REROLL_APP_PREFIX = إعادة إستعمال
+
+STRING_START_REROLL = هل تريد أن تبدأ ررول؟
+
+STRING_REROLL_COMPLETED = اكتمل ررول.
+
+STRING_GL3_SWITCH = تبديل وضع الرسومات بلو ستاكس لاستخدام برنامج OpenGL.
+
+STRING_GL3_WINDOW_TITLE = لسوء الحظ ، لا يمكنك لعب هذه اللعبة
+
+STRING_GL3_WINDOW_BODY_DIRECTX = لا تدعم بطاقة الرسومات هذه اللعبة في الوضع الحالي. يرجى تبديل وضع الرسومات بلو ستاكس إلى وضع OpenGL لتشغيل هذه اللعبة.
+
+STRING_SWITCH_OPENGL_MODE = لتشغيل هذه اللعبة ، سيكون عليك تبديل وضع الرسومات بلو ستاكس لاستخدام OpenGL.
+
+STRING_GL_MODE_RESTART = سيضطر بلو ستاكس إلى إعادة التشغيل لتبديل وضع الرسومات.
+
+STRING_GL3_WINDOW_BODY_OPENGL = للأسف ، لا تدعم بطاقة الرسومات الخاصة بك هذه اللعبة.
+
+STRING_GL3_UPDATE_DRIVER = يرجى تحديث برنامج تشغيل بطاقة الرسومات الخاصة بك لتشغيل هذه اللعبة.
+
+STRING_IMPORTANT_UPDATES = تحديثات مهمة
+
+STRING_VIEW_XPACK = مشاهدة اكس باك
+
+STRING_NOTIFICATION_CENTER = مركز الإشعارات
+
+STRING_CLEAR_ALL = امسح الكل
+
+STRING_XPACK = أكس باك
+
+STRING_GET_XPACKS = احصل على اكس باك
+
+STRING_SHOW_RIBBON = عرض إشعارات الشريط
+
+STRING_PRECAUTION_BEFORE_UPGRADE = قد نوصيك بعمل نسخة احتياطية من بياناتك كضمان في حالة عدم نجاح الترقية.
+
+STRING_HOW_TO_TAKE_BACKUP = كيف تستخدم النسخ الاحتياطي؟
+
+STRING_BEFORE_YOU_UPDATE = قبل التحديث
+
+STRING_CONTINUE = تابع
+
+STRING_VIEW_XPACK_TOOLTIP = عرض نقاط قوة اكس باك  والتحسينات لهذه اللعبة.
+
+STRING_GET_XPACK_TOOLTIP = عزّز أداء الألعاب واحصل على نقاط قوة التي تعزز تجربتك من خلال تنزيل اكس باك لهذه اللعبة.
+
+STRING_APP_CANNOT_START = قد لا يبدأ التطبيق
+
+STRING_ADVANCED_GRAPHIC_ENGINE_REQUIRED = يتطلب هذا التطبيق محرك رسومات متقدم
+
+STRING_SWITCH_TO_ADVANCED_ENGINE_RESTART = يرجى التبديل إلى وضع محرك الرسومات المتقدمة لتشغيل هذا التطبيق. يتطلب بلو ستاكس إعادة تشغيل التغيير ليصبح ساري المفعول. يمكنك أيضا تغيير محرك الرسومات من إعدادات -> المحرك.
+
+STRING_SWITCH_RESTART = تبديل وضع الرسومات وإعادة تشغيله
+
+STRING_ADVANCE_GRAPHICS_ENGINE_SETTING = استخدام وضع محرك الرسومات المتقدمة (إصدار تجريبي)
+
+STRING_INSTALLATION_ROLLBACK_COMPLETE = إنتهى التراجع
+
+STRING_INSTALLER_PROPERTIES_INIT_FAILED_BODY = حدث خطأ أثناء تهيئة خصائص المثبت
+
+STRING_CLICK_HERE = إضغط هنا للتحميل
+
+STRING_DIRECTX_WARNING_TITLE = OpenGL يعمل بشكل أفضل من DirectX في هذا الإصدار.
+
+STRING_DIRECTX_WARNING = قم بالتبديل إلى OpenGL للحصول على أداء أفضل وقابلية للمقارنة. إذا كنت لا تزال ترغب في استخدام DirectX ، فالرجاء تثبيت بلو ستاكس ٣
+
+STRING_LATEST_VERSION_REQUIRED = يتطلب هذا التطبيق أحدث إصدار من بلو ستاكس
+
+STRING_LATEST_VERSION_REQUIRED_DETAILED = هذه اللعبة غير متوافقة مع الإصدار الحالي من بلو ستاكس. يرجى تنزيل وتثبيت أحدث إصدار من بلو ستاكس ٣ للعب هذه اللعبة.
+
+STRING_KITKAT_VERSION_REQUIRED = هذا التطبيق متوافق فقط مع بلو ستاكس ٣.
+
+STRING_NOUGAT_VERSION_REQUIRED = هذا التطبيق متوافق فقط مع بلو ستاكس ن.
+
+STRING_NOUGAT_VERSION_REQUIRED_DETAILED = ويدعم هذا التطبيق فقط على أحدث بلو ستاكس ن. الرجاء تنزيل وتثبيت أحدث إصدار من بلو ستاكس ن.
+
+STRING_DX_SWITCH = تبديل وضع الرسومات بلو ستاكس إلى وضع DirectX.
+
+STRING_ADX_SWITCH = تبديل وضع الرسومات بلو ستاكس إلى وضع DirectX المتقدم.
+
+STRING_DX_WINDOW_BODY_DIRECTX = لا تدعم بطاقة الرسومات هذه اللعبة في الوضع الحالي. يرجى تبديل وضع الرسومات بلو ستاكس إلى وضع DirectX لتشغيل هذه اللعبة.
+
+STRING_INCOMPATIBLE_INSTALLER_STARTED = هذا الإصدار من مثبت بلو ستاكس غير متوافق مع إصدار ويندوز الخاص بك. يرجى تنزيل الإصدار {0} من بلو ستاكس والمحاولة مرة أخرى.
+
+STRING_VTX_DISABLED_WARNING_MESSAGE = يتعذر على بلو ستاكس استخدام مساعد الأجهزة الافتراضية للحصول على أداء أفضل. يرجى التحقق من إعدادات BIOS والتأكد من تمكينها. إذا كنت تستخدم أفاست أو ٣٦٠ مضادًا للفيروسات ، فالرجاء التحقق من إعدادات الحماية من الفيروسات والتأكد من تعطيل استخدام الأجهزة الظاهرية في الأجهزة. تحقق من الأسئلة الشائعة للحصول على التفاصيل.
+
+STRING_VTX_UNAVAILABLE_WARNING_MESSAGE = لا يدعم الكمبيوتر الخاص بك مساعد الأجهزة الافتراضية . هذا قد يؤثر على تجربتك على بلو ستاكس.
+
+STRING_DISABLED_VT_TITLE = الأداء بطيء بسبب تعطيل الظاهرية.
+
+STRING_DISABLED_VT = لسوء الحظ ، يكون الأداء بطيئًا نظرًا لتعطيل تقنية الظاهرية للأجهزة لوحدة المعالجة المركزية على جهاز الكمبيوتر. يرجى الرجوع إلى هذه الأسئلة الشائعة لتمكين تقنية الظاهرية .
+
+STRING_RAM_NOTIF_TITLE = الأداء بطيء بسبب ذاكرة الوصول العشوائي
+
+STRING_RAM_NOTIF = قد تواجه بطء الأداء لأن جهاز الكمبيوتر الخاص بك لديه 4 أو أقل غيغابايت من ذاكرة الوصول العشوائي. يرجى قراءة متطلبات النظام لبلو ستاكس
+
+STRING_CONTINUE_ANYWAY = أكمل على أي حال
+
+STRING_RUNNING_CHECKS = تشغيل مراجعة OpenGl
+
+STRING_OPENGL_NOTSUPPORTED_BODY = لسوء الحظ ، لا تدعم بطاقة رسومات جهاز الكمبيوتر الخاص بك وضع OpenGL. يرجى النقر على زر المتابعة ولعب اللعبة.
+
+STRING_OPENGL_NOT_SUPPORTED = OpenGL غير مدعوم
+
+STRING_UNFORTUNATELY_COULDNT_INSTALL = للأسف ، لا يمكن تثبيت بلو ستاكس على جهاز الكمبيوتر الخاص بك.
+
+STRING_ERROR_CODE_COLON = خطا بالكود:
+
+STRING_PREINSTALL_FAIL = للأسف ، لا يلبي الكمبيوتر الحد الأدنى من المتطلبات لتثبيت بلو ستاكس.
+
+STRING_INSUFFICIENT_DISKSPACE = لا يحتوي الكمبيوتر الخاص بك على مساحة كافية على القرص. يتطلب بلو ستاكس
+
+STRING_OLD_INSTALLATION_INTERFERING = يبدو أن التثبيت الحالي لبلوستاكس يتداخل مع المحاولة الحالية لتثبيت بلوستاكس.
+
+STRING_FAILED_TO_RESTORE_OLD_DATA = لم يستطع بلو ستاكس استعادة بياناتك السابقة.
+
+STRING_ERROR_OCCURED_DEPLOYING_FILES = واجه بلو ستاكس خطأ أثناء نشر بعض الملفات.
+
+STRING_COULDNT_RESTORE_UNUSABLE = تعذر استعادة بلو ستاكس إلى حالته السابقة وقد تكون غير قابلة للاستخدام.
+
+STRING_KITKAT_VERSION_REQUIRED_DETAILED = هذا التطبيق غير مدعوم في بلو ستاكس ٤. الرجاء تنزيل وتثبيت أحدث إصدار من بلو ستاكس ٣.
+
+STRING_CHECK_FAQ = تحقق من الأسئلة الشائعة
+
+STRING_INSTALLER = © Bluestack Systems، Inc. ، 2018 ، جميع الحقوق محفوظة في جميع أنحاء العالم
+
+STRING_PERFORMANCE_SETTINGS = إعدادات الأداء
+
+STRING_SWITCH_HOME = التبديل بين نظام التشغيل أندرويد القياسي بين التطبيقات
+
+STRING_CLEAN_BLUESTACKS = سيؤدي ذلك إلى مسح بلو ستاكس وبيانات اللعبة المحفوظة المحلية.
+
+STRING_HYPERV_ENABLED_WARNING = لا يمكن بدء بلو ستاكس عند تمكين هيبير-ف.
+
+STRING_IMPROVE_PERFORMANCE = تحسين الأداء
+
+STRING_IMPROVE_PERFORMANCE_WARNING = قد يشعرك بلو ستاكس ببطء وأقل استجابة.
+
+STRING_PROMO_INFO = سيتم تثبيت اللعبة بعد التمهيد
+
+STRING_INSTALL = تثبيت
+
+STRING_PLAY = إلعب
+
+STRING_MOST_SEARCHED_APPS = أكثر التطبيقات التي تم البحث عنها
+
+STRING_PREREGISTER = ما قبل التسجيل
+
+STRING_KILL_WEBTAB = إغلاق صفحات الويب عند تشغيل اللعبة
+
+STRING_LOW_AVAILABLE_RAM_TITLE = ذاكرة الوصول العشوائي المتاحة على جهاز الكمبيوتر الخاص بك منخفضة
+
+STRING_LOW_AVAILABLE_RAM_TEXT1 = قد تواجه بطء الأداء مع بلو ستاكس بسبب انخفاض ذاكرة الوصول العشوائي المتاحة.
+
+STRING_LOW_AVAILABLE_RAM_TEXT2 = يرجى النظر في إغلاق بعض البرامج والمتابعة.
+
+STRING_CHANGE_DEVICE_PROFILE = يرجى تحديث ملف تعريف جهازك للعب هذه اللعبة
+
+STRING_CHANGE_DEVICE_PROFILE_BODY = قد لا تعمل هذه اللعبة على جهازك. يرجى تغيير جهازك للاستمرار في اللعب.
+
+STRING_SWITCH_PROFILE = تبديل الملف الشخصي
+
+STRING_SWITCHING_PROFILE = تبديل الملف الشخصي
+
+STRING_SWITCH_PROFILE_FAILED = فشل تبديل الملف الشخصي للجهاز
+
+STRING_SWITCH_PROFILE_UPDATED = تم تحديث الملف الشخصي للجهاز بنجاح
+
+STRING_SETUP = إعداد جوجل
+
+STRING_OLD_KEYMAPPINGS_CANNOT_USE = لديك تخصيصات مفاتيح مخصصة محفوظة للألعاب والتي ستصبح غير قابلة للاستخدام بعد الترقية.
+
+STRING_WOULD_LIKE_TO_CONTINUE = هل ترغب في الاستمرار؟
+
+STRING_CLOSE_GAME = إغلاق اللعبة
+
+STRING_CLOSE_BLUESTACKS = إغلاق بلو ستاكس
+
+STRING_GAME_CONTROLS_CONTROL_SCHEME = مخطط التحكم
+
+STRING_BTV = BTV
+
+STRING_REVERT = العودة
+
+STRING_EDIT_KEYS = تصحيح
+
+STRING_SAVE_KEYS = حفظ
+
+STRING_GAME_CONTROLS_WINDOW_HEADER = أدوات تحكم اللعبة
+
+STRING_GAME_CONTROLS_WINDOW_EDIT_HEADER = تعديل أدوات تحكم اللعبة
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER1 = إضغط على Ctrl+Shift+H لرؤية الشاشة في أي وقت
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER2 = اعرض هذه الشاشة عند بدء التشغيل
+
+STRING_GAME_CONTROLS_WINDOW_FOOTER3 = نصيحة - انقر فوق مربع المفتاح لتعيين مفتاح جديد للنشاط ذي الصلة ، واضغط على "حفظ" لحفظ التغييرات.
+
+STRING_ADVANCED_GAME_CONTROLS_WINDOW_HEADER = ضوابط اللعبة المتقدمة
+
+STRING_ADVANCED_GAME_CONTROLS_ACTION_HEADER = انقر أو اسحب الأفعال على الشاشة لربط المفاتيح.
+
+STRING_UNSAVED_CHANGES = هناك بعض التغييرات غير المحفوظة. هل تريد الحفظ والخروج؟
+
+STRING_CLEAR_CHANGES = التغييرات مسحت
+
+STRING_REVERT_CHANGES = التغييرات تمت إعادتها
+
+STRING_SAVE_CHANGES = تم حفظ التغييرات
+
+STRING_USING_SCHEME = باستخدام مخطط
+
+STRING_MOBA_HERO_DUMMY = ضع بطل الدمية في وسط الشاشة للمعايرة
+
+STRING_MOBA_SKILL_CANCEL = ضع النقطة على مفتاح الإلغاء
+
+STRING_LOOK_AROUND_MODE = ضع رمز العين في عنصر التحكم على مفتاح العين في حال توفره
+
+STRING_SHOOT_MODE = ضع رمز إطلاق النار على مفتاح إطلاق النار على الشاشة
+
+STRING_AAVIDEO = الدورة التعليمية
+
+Imap_string_MouseRButton = انقر بزر الماوس الأيمن
+
+Imap_string_MouseLButton = انقر بزر الماوس الأيسر
+
+Imap_string_MouseMButton = انقر بزر الماوس المتوسط
+
+IMAP_STRING_Fields = مجالات
+
+IMAP_STRING_CATEGORY_Shooting_Mode = نمط اطلاق النار
+
+STRING_ADVANCED_GAME_CONTROLS_ACTION_PROFILEHEADER = اختر ملف التعريف المطلوب تعديله.
+
+IMAP_Video_Element_Body = شاهد البرنامج التعليمي الحصري للعبة مع النصائح والحيل السريعة للعب اللعبة الأمثل والمتاح فقط على بلو ستاكس
+
+IMAP_Video_Element_Header = حصريا  فيديو اللعبة متاح
+
+IMAP_MOBA_Video_Element_Body = استخدام الماوس الخاص بك لتحسين تجربة الألعاب الخاصة بك لأي ألعاب ساحة المعركة.
+
+IMAP_MOBA_Video_Element_Header = الحركة والتعيين بالماوس
+
+IMAP_Pan_Video_Element_Body = استخدم الماوس لتحسين تجربة الألعاب لأي لعبة FPS أو لعبة إطلاق النار
+
+IMAP_Pan_Video_Element_Header = الهدف وعموم بإستخدام الماوس
+
+STRING_SHOW_GAMING = عرض ملخص الألعاب عند الإغلاق
+
+STRING_SUBMIT = إرسال
+
+STRING_TROUBLE_LOGGING = مشكلة في تسجيل الدخول؟
+
+STRING_LET_HELP = دعنا نساعدك
+
+STRING_OUTLINE_ISSUE = يرجى وصف المشكلة أدناه حتى نتمكن من فهم كيفية مساعدتك.
+
+STRING_DESC_ISSUE = صف المشكلة
+
+STRING_HOW_ISSUE = ما كانت تجربتك؟
+
+STRING_YOUR_EMAIL = عنوان البريد الإلكتروني
+
+STRING_YOUR_PHONE = رقم الهاتف
+
+STRING_TEN_PHONE_NUMBER = رقم هاتفك بما في ذلك رمز البلد
+
+STRING_APPRECIATE_FEEDBACK = نحن نقدر اختيارك بلو ستاكس للألعاب. سيتواصل معك خبراء تجربة العملاء قريبًا.
+
+STRING_THANK_YOU = شكراً،
+
+STRING_RESTART_BLUESTACKS_AFTER_GRAPHICS_CHANGE = أعد تشغيل بلو ستاكس للإقلاع في {0}.
+
+STRING_CHECKING_GRAPHICS_COMPATIBILITY = التحقق من التوافق {0}
+
+STRING_GRAPHICS_NOT_SUPPORTED_ON_MACHINE = {0} غير معتمد على جهاز الكمبيوتر الخاص بك.
+
+STRING_GUIDANCE_CATEGORY = فئة الإرشاد
+
+STRING_ENHANCEMENTS = التحسينات
+
+STRING_TAGS = العلامات (اختياري)
+
+STRING_ENABLE_MODE = تفعيل النمط
+
+STRING_FIRE_WITH_MOUSE_LEFT = إطلاق النار بيسار الماوس
+
+STRING_CANCEL_SKILL = إلغاء المهارة
+
+STRING_ENABLE_FEATURES = تفعيل الميزات
+
+STRING_LOOK_AROUND_MODE_HEADER_TEXT = نمط النظر حولك
+
+STRING_MOBA_CONTROL_MODE = نمط السيطرة MOBA
+
+IMAP_STRING_UP = فوق
+
+IMAP_STRING_CATEGORY_MOVEMENT = حركة
+
+IMAP_STRING_DOWN = أسفل
+
+IMAP_STRING_LEFT = يسار
+
+IMAP_STRING_RIGHT = يمين
+
+IMAP_STRING_TAP = نقر
+
+IMAP_STRING_CATEGORY_ACTION = حماس
+
+IMAP_STRING_SPECIAL_1 = خاص 1
+
+IMAP_STRING_SPECIAL_2 = خاص 2
+
+IMAP_STRING_SPECIAL_3 = خاص 3
+
+IMAP_STRING_SPECIAL_4 = خاص 4
+
+IMAP_STRING_MAIN_ABILITY = القدرة الرئيسية
+
+IMAP_STRING_DRAGON_BALL_ABILITY = قدرة دراجون بول
+
+IMAP_STRING_SWITCH_CHARACTER_1 = تبديل الشخصية 1
+
+IMAP_STRING_SWITCH_CHARACTER_2 = تبديل الشخصية 2
+
+IMAP_STRING_ZOOM_IN = تكبير
+
+IMAP_STRING_ZOOM_OUT = تصغير
+
+IMAP_STRING_CATEGORY_ZOOM = تكبير
+
+IMAP_STRING_TOGGLE_SHOOTING_ = تبديل نمط إطلاق النار
+
+IMAP_STRING_SUSPEND_SHOOTING_MODE = تعطيل نمط إطلاق النار
+
+IMAP_STRING_SHOOT = أطلق النار
+
+IMAP_STRING_SENSITIVITY = حساسية
+
+IMAP_STRING_PAN_TWEAKS = القرص
+
+IMAP_STRING_CATEGORY_COMBAT = معركة
+
+IMAP_STRING_FORWARD = إلى الأمام
+
+IMAP_STRING_BACKWARD = الى الوراء
+
+IMAP_STRING_JUMP = قفز
+
+IMAP_STRING_CROUCH = انحنى
+
+IMAP_STRING_WEAPON_4 = سلاح 4
+
+IMAP_STRING_RELOAD = إعادة تحميل
+
+IMAP_STRING_PRONE = منبطح
+
+IMAP_STRING_TAP_KEY = اضغط على مفتاح
+
+STRING_MISC = متفرقات
+
+IMAP_STRING_HEAL = عالج
+
+IMAP_STRING_CATEGORY_MISCELLANEOUS = متنوع
+
+IMAP_STRING_WEAPON_3 = سلاح 3
+
+IMAP_STRING_INVENTORY = المخزون
+
+IMAP_STRING_GRENADE = قنبلة يدوية
+
+IMAP_STRING_MAP = خريطة
+
+IMAP_STRING_CATEGORY_GENERAL = عام
+
+IMAP_STRING_EJECT = طرد
+
+IMAP_STRING_CATEGORY_PARACHUTE = مظلة
+
+IMAP_STRING_ENTER = أدخل
+
+IMAP_STRING_CATEGORY_VEHICLE = مركبة
+
+IMAP_STRING_ACCELERATE = سرع
+
+IMAP_STRING_BRAKE = فرامل
+
+IMAP_STRING_STEER_LEFT = إنعطف لليسار
+
+IMAP_STRING_STEER_RIGHT = إنعطف لليمين
+
+IMAP_STRING_WEAPON_2 = سلاح ٢
+
+IMAP_STRING_SPRINT = عدا
+
+IMAP_STRING_DIVE = اغطس
+
+IMAP_STRING_USE/DRIVE = استخدام / قيادة
+
+IMAP_STRING_MOVE_FORWARD = تقدم إلى الأمام
+
+IMAP_STRING_MOVE_BACKWARD = ارجع للوراء
+
+IMAP_STRING_MOVE_LEFT = تحرك يسارا
+
+IMAP_STRING_MOVE_RIGHT = تحرك يمينا
+
+IMAP_STRING_ENTER_SHOOTING_MODE = أدخل نمط اطلاق النار
+
+IMAP_STRING_OPEN_DOOR = إفتح الباب
+
+IMAP_STRING_CATEGORY_INTERACT = تفاعل
+
+IMAP_STRING_HIDE = إخفاء
+
+IMAP_STRING_DROP = أسقط
+
+IMAP_STRING_BLOCK = سد
+
+IMAP_STRING_SKILL_1 = المهارة 1
+
+IMAP_STRING_SKILL_2 = المهارة 2
+
+IMAP_STRING_SKILL_3 = المهارة 3
+
+IMAP_STRING_CHARGE_ABILITY = شحن القدرة
+
+IMAP_STRING_SWIPE_UP = إمسح لأعلى
+
+IMAP_STRING_SWIPE_DOWN = إمسح للأسفل
+
+IMAP_STRING_SWIPE_LEFT = إمسح لليسار
+
+IMAP_STRING_SWIPE_RIGHT = إمسح لليمين
+
+IMAP_STRING_SPRINT_AND_SKILL/SPRINT_TACKLE = عدو سريع ومهارة/ بدأ العدو السريع
+
+IMAP_STRING_PASS/SWITCH = مرر / تبديل
+
+IMAP_STRING_SHOOT/SLIDE_TACKLE = سدد/ توقيف الخصم
+
+IMAP_STRING_THROUGH/2ND_DEFENDER = من خلال / المدافع الثاني
+
+IMAP_STRING_SPRINT/DEFEND = اركض/ دافع
+
+IMAP_STRING_SHOOT/BLOCK = سدد/سد
+
+IMAP_STRING_PASS = مرر
+
+IMAP_STRING_GAS = غاز
+
+IMAP_STRING_CATEGORY_GAMEPLAY = نمط اللعب
+
+IMAP_STRING_CATEGORY_SKILLS = مهارات
+
+IMAP_STRING_AUTO = تلقاءي
+
+IMAP_STRING_CHANGE_SPEED = تغيير السرعة
+
+IMAP_STRING_OPEN_SETTINGS = فتح الإعدادات
+
+IMAP_STRING_MOVE_UP = تحرك
+
+IMAP_STRING_MOVE_DOWN = تحرك للأسفل
+
+IMAP_STRING_BASIC_ATTACK = الهجمة الأساسية
+
+IMAP_STRING_ITEM_1 = العنصر 1
+
+IMAP_STRING_ITEM_2 = العنصر 2
+
+IMAP_STRING_ITEM_3 = العنصر 3
+
+IMAP_STRING_ITEM_4 = العنصر 4
+
+IMAP_STRING_PICK_UP = التقط
+
+IMAP_STRING_SELF = النفس
+
+IMAP_STRING_CATEGORY_ITEMS = العناصر
+
+IMAP_STRING_SWIPE_ITEMS_LEFT = إمسح العناصر لليسار
+
+IMAP_STRING_SWIPE_ITEMS_RIGHT = إمسح العناصر لليمين
+
+IMAP_STRING_QUEST = مهمة
+
+IMAP_STRING_BACKPACK = حقيبة ظهر
+
+IMAP_STRING_ATTACK_1 = الهجوم 1
+
+IMAP_STRING_CATEGORY_ATTACKS = هجمات
+
+IMAP_STRING_ATTACK_2 = الهجوم 2
+
+IMAP_STRING_ATTACK_3 = الهجوم 3
+
+IMAP_STRING_ATTACK_4 = الهجوم 4
+
+IMAP_STRING_ATTACK_5 = الهجوم 5
+
+IMAP_STRING_ATTACK_6 = الهجوم 6
+
+IMAP_STRING_QUICKBUY_ITEM_1 = شراء سريع العنصر 1
+
+IMAP_STRING_CATEGORY_SHOP = متجر
+
+IMAP_STRING_QUICKBUY_ITEM_2 = شراء سريع العنصر 2
+
+IMAP_STRING_LEVEL_UP_SPELL_1 = رفع مستوى سحر 1
+
+IMAP_STRING_LEVEL_UP_SPELL_2 = رفع مستوى سحر 2
+
+IMAP_STRING_LEVEL_UP_ULTIMATE = رفع مستوى الذروة
+
+IMAP_STRING_ABILITY_1 = القدرة 1
+
+IMAP_STRING_SPELL_1 = سحر 1
+
+IMAP_STRING_ENABLE_AUTOCAST_SPELL_1 = تفعيل الإرسال التلقائي سحر 1
+
+IMAP_STRING_CATEGORY_SPELLS = سحر
+
+IMAP_STRING_ENABLE_AUTOCAST_SPELL_2 = تفعيل الإرسال التلقائي سحر 2
+
+IMAP_STRING_ULTIMATE = الذروة
+
+IMAP_STRING_ENABLE_AUTOCAST_ULTIMATE = تفعيل الإرسال التلقائي الذروة
+
+IMAP_STRING_OPEN_SHOP = افتح المتجر
+
+IMAP_STRING_ABILITY_2 = القدرة 2
+
+IMAP_STRING_DASH_RIGHT = إندفع لليمين
+
+IMAP_STRING_DASH_LEFT = إندفع لليسار
+
+IMAP_STRING_ATTACK = هجوم
+
+IMAP_STRING_SPECIAL_ATTACK = هجمة خاصة
+
+IMAP_STRING_SLIDE = إنزلق
+
+IMAP_STRING_HOVERBOARD = هوفيربوارد
+
+IMAP_STRING_COLLECT = جمع
+
+IMAP_STRING_CATEGORY_TAP = نقر
+
+IMAP_STRING_BUY_LEMONADE_STAND = شراء منصة عصير الليمون
+
+IMAP_STRING_BUY_NEWSPAPER_STAND = شراء منصة الجريدة
+
+IMAP_STRING_BUY_CAR_WASH = شراء غسيل السيارات
+
+IMAP_STRING_BUY_PIZZA_STAND = شراء منصة البيزا
+
+IMAP_STRING_BUY_DONUT_SHOP = شراء منصة الدونتس
+
+IMAP_STRING_BUY_SHRIMP_BOAT = شراء قارب القريدس
+
+IMAP_STRING_BUY_HOCKEY_TEAM = شراء فريق الهوكي
+
+IMAP_STRING_BUY_MOVIE_STAND = شراء منصة الأفلام
+
+IMAP_STRING_BUY_BANK = شراء البنك
+
+IMAP_STRING_BUY_OIL_COMPANY = شراء شركة نفط
+
+IMAP_STRING_REGEN = تجدد
+
+IMAP_STRING_RECALL = ارتداد
+
+IMAP_STRING_USE_ACTIVE_ABILITY = استخدام القدرة النشطة
+
+IMAP_STRING_QUICK_BUY_ITEM_1 = شراء سريع العنصر 1
+
+IMAP_STRING_QUICK_BUY_ITEM_2 = شراء سريع العنصر 2
+
+IMAP_STRING_UPGRADE_SKILL_1 = ترقية المهارة 1
+
+IMAP_STRING_ENABLE_AUTOCAST = تفعيل الإرسال التلقائي
+
+IMAP_STRING_CANCEL_CAST = إلغاء الإرسال
+
+IMAP_STRING_UPGRADE_SKILL_2 = ترقية المهارة 2
+
+IMAP_STRING_UPGRADE_SKILL_3 = ترقية المهارة 3
+
+IMAP_STRING_SCOREBOARD = لوحة النتائج
+
+IMAP_STRING_SKILL_4 = المهارة 4
+
+IMAP_STRING_SKILL_5 = المهارة 5
+
+IMAP_STRING_CHAT/CONFIRM = دردشة / تأكيد
+
+IMAP_STRING_SPECIAL_POTIONS = جرعات خاصة
+
+IMAP_STRING_HEALTH_POTION = جرعة الدم
+
+IMAP_STRING_MANA_POTION = جرعة مانا
+
+IMAP_STRING_POWER_SCROLLS = قوة المخطوطات
+
+IMAP_STRING_EMOTES = تعابير
+
+IMAP_STRING_CO-OP_SKILL = مهارة تعاونية
+
+IMAP_STRING_CATEGORY_CHARACTERS = الشخصيات
+
+IMAP_STRING_AUTO_SKILL = مهارة تلقائية
+
+IMAP_STRING_SUMMON = استدعى
+
+IMAP_STRING_CATEGORY_SKILL = مهارة
+
+IMAP_STRING_SHOOTING_MODE = نمط اطلاق النار
+
+IMAP_STRING_CATEGORY_AIM & SHOOT = الهدف واطلاق النار
+
+IMAP_STRING_MOVE_BACK = ارجع للوراء
+
+IMAP_STRING_SPRINT_LOCK = تثبيت العدى
+
+IMAP_STRING_MOUSE_SENSITIVITY = حساسية الماوس
+
+IMAP_STRING_WEAPON_1 = سلاح ١
+
+IMAP_STRING_FIRING_MODE = نمط اطلاق النار
+
+IMAP_STRING_DRIVE = قيادة
+
+IMAP_STRING_GET_IN = أدخل
+
+IMAP_STRING_EXIT = خروج
+
+IMAP_STRING_BOOST = تعزيز
+
+IMAP_STRING_LEAN_LEFT = ميل يسارا
+
+IMAP_STRING_LEAN_RIGHT = ميل يمين
+
+IMAP_STRING_CHAT = دردشة
+
+IMAP_STRING_CATEGORY_CHAT = دردشة
+
+IMAP_STRING_SEND = إرسال
+
+IMAP_STRING_USE_MIC = استخدم الميكروفون
+
+IMAP_STRING_VOICE_CHANNEL = قناة صوتية
+
+IMAP_STRING_SWIM_UP = السباحة فوق
+
+IMAP_STRING_SWIM_DOWN = السباحة أسفل
+
+IMAP_STRING_SCOPE = منظار الأفق
+
+IMAP_STRING_JUMP_PARACHUTE = قفز المظلة
+
+IMAP_STRING_DOOR = باب
+
+IMAP_STRING_SPRINT_(HOLD) = العدو (استمر)
+
+IMAP_STRING_CATEGORY_CONTROLS = التحكم
+
+IMAP_STRING_INTERACT = تفاعل
+
+IMAP_STRING_MELEE_/_SHOOT = عراك / تبادل لاطلاق النار
+
+IMAP_STRING_BLUEPRINTS = المخططات
+
+IMAP_STRING_PLAYER_INVENTORY = مخزون اللاعب
+
+IMAP_STRING_BUILDING_MENU = قائمة البناء
+
+IMAP_STRING_PAUSE = توقف
+
+IMAP_STRING_AUTO_MODE = النمط التلقائي
+
+IMAP_STRING_Tap_Settings = اضغط على الإعدادات
+
+IMAP_STRING_Dpad_Settings = إعدادات لوحة د
+
+IMAP_STRING_DPAD_XRadius = نصف القطر
+
+IMAP_STRING_DPAD_KeyUp = فوق
+
+IMAP_STRING_DPAD_KeyDown = أسفل
+
+IMAP_STRING_DPAD_KeyLeft = يسار
+
+IMAP_STRING_DPAD_KeyRight = يمين
+
+IMAP_STRING_TILT_KeyUp = فوق
+
+IMAP_STRING_TILT_KeyDown = أسفل
+
+IMAP_STRING_TILT_KeyLeft = يسار
+
+IMAP_STRING_TILT_KeyRight = يمين
+
+IMAP_STRING_DPAD_KeySpeedModifier1 = معدل السرعة 1
+
+IMAP_STRING_DPAD_XRadius1 = نصف القطر 1
+
+IMAP_STRING_DPAD_KeySpeedModifier2 = معدل السرعة 2
+
+IMAP_STRING_DPAD_XRadius2 = نصف القطر 2
+
+IMAP_STRING_DPAD_ActivationTime = وقت التنشيط
+
+IMAP_STRING_DPAD_ActivationSpeed = سرعة التنشيط
+
+IMAP_STRING_DPAD_Speed = سرعة
+
+IMAP_STRING_MOBADPAD_CharSpeed = سرعة البطل
+
+IMAP_STRING_MOBADPAD_OriginX = موضع البطل إكس
+
+IMAP_STRING_MOBADPAD_OriginY = موضع البطل واي
+
+IMAP_STRING_Zoom_Settings = Zoom settings
+
+IMAP_STRING_ZOOM_Radius = نصف القطر
+
+IMAP_STRING_ZOOM_KeyIn = تكبير
+
+IMAP_STRING_ZOOM_KeyOut = تصغير
+
+IMAP_STRING_ZOOM_KeyModifier = مفتاح التعديل
+
+IMAP_STRING_ZOOM_Mode = نمط
+
+IMAP_STRING_ZOOM_Override = تجاوز
+
+IMAP_STRING_Pan_Settings = Pan settings
+
+IMAP_STRING_PAN_KeyStartStop = بدء توقف
+
+IMAP_STRING_PAN_KeySuspend = قطع
+
+IMAP_STRING_PAN_Sensitivity = Mouse sensitivity
+
+IMAP_STRING_PAN_KeyLookAround = النظر الحر
+
+IMAP_STRING_PAN_LookAroundX = موضع النظر الحر أكس
+
+IMAP_STRING_PAN_LookAroundY = موضع النظر الحر Y
+
+IMAP_STRING_PAN_KeyAction = حماس
+
+IMAP_STRING_PAN_LButtonX = موضع العمل أكس
+
+IMAP_STRING_PAN_LButtonY = موضع العمل واي
+
+IMAP_STRING_MOBASkill_DeadZoneRadius = حدود المطقة الميتة
+
+IMAP_STRING_MOBASkill_XRadius = نصف القطر
+
+IMAP_STRING_MOBASkill_Settings = إعدادات مهارة MOBA
+
+IMAP_STRING_MOBASKILL_KeyActivate = تفعيل
+
+IMAP_STRING_MOBASKILL_KeyAutocastToggle = تعيين التلقائي
+
+IMAP_STRING_MOBASKILL_CancelSpeed = إلغاء السرعة
+
+IMAP_STRING_MOBASKILL_KeyCancel = إلغاء
+
+IMAP_STRING_Swipe_Settings = إعدادات انتقاد
+
+IMAP_STRING_SWIPE_X1 = أكس
+
+IMAP_STRING_SWIPE_Y1 = Y
+
+IMAP_STRING_MOBASKILL_X = أكس
+
+IMAP_STRING_MOBASKILL_Y = Y
+
+IMAP_STRING_TAP_X = أكس
+
+IMAP_STRING_TAP_Y = Y
+
+IMAP_STRING_ZOOM_X = أكس
+
+IMAP_STRING_ZOOM_Y = Y
+
+IMAP_STRING_DPAD_X = أكس
+
+IMAP_STRING_DPAD_Y = Y
+
+IMAP_STRING_PAN_X = أكس
+
+IMAP_STRING_PAN_Y = Y
+
+IMAP_STRING_SWIPE_Hold = إمسح وعلق
+
+IMAP_STRING_SWIPE_True = صحيح
+
+IMAP_STRING_SWIPE_False = خاطئة
+
+IMAP_STRING_SWIPE_KeyUp = إمسح لأعلى
+
+IMAP_STRING_SWIPE_KeyDown = إمسح للأسفل
+
+IMAP_STRING_SWIPE_KeyLeft = إمسح لليسار
+
+IMAP_STRING_SWIPE_KeyRight = إمسح لليمين
+
+IMAP_STRING_TILT_Settings = Tilt settings
+
+IMAP_STRING_TILT_Speed = سرعة
+
+IMAP_STRING_ZOOM_Speed = سرعة
+
+IMAP_STRING_SWIPE_Speed = سرعة
+
+IMAP_STRING_SWIPE_Radius = نصف القطر
+
+IMAP_STRING_TILT_MaxAngle = أقصى زاوية إمالة
+
+IMAP_STRING_TILT_AutoReset = إعادة ضبط تلقائي
+
+IMAP_STRING_MOBASkill_Header_Edit_UI = MOBA مهارة الوسادة
+
+IMAP_STRING_MOBASkill_Description_Edit_UI = Map the direction of spells using this special D-pad
+
+IMAP_STRING_Dpad_Header_Edit_UI = D-pad
+
+IMAP_STRING_Dpad_Description_Edit_UI = رسم حركة شخصيتك مع لوحة المفاتيح.
+
+IMAP_STRING_Tilt_Header_Edit_UI = إمالة
+
+IMAP_STRING_Tilt_Description_Edit_UI = إذا كنت بحاجة إلى الإمالة أو التدوير ، فاستخدم عنصر التحكم هذا.
+
+IMAP_STRING_Swipe_Header_Edit_UI = مسح
+
+IMAP_STRING_Swipe_Description_Edit_UI = انتقد الخريطة لمفاتيح لوحة المفاتيح.
+
+IMAP_STRING_Pan_Header_Edit_UI = الهدف ، وعموم تبادل لاطلاق النار
+
+IMAP_STRING_Pan_Description_Edit_UI = استخدم الماوس لاطلاق النار أثناء التصويب والتحريك.
+
+IMAP_STRING_Zoom_Header_Edit_UI = تكبير
+
+IMAP_STRING_Zoom_Description_Edit_UI = أضف التكبير أو التصغير إلى الشاشة التي تدعم بنش و زوم.
+
+IMAP_STRING_Tap_Header_Edit_UI = اضغط على البقعة
+
+IMAP_STRING_Tap_Description_Edit_UI = قم بتعيين التنصت على نقطة باستخدام هذا الإجراء حتى لا تضطر إلى استخدام الماوس.
+
+STRING_ENTER_GUIDANCE_TEXT = أدخل النص الإرشادي
+
+STRING_FOLDER_CANNOT_CONTAIN_FOLLOWING_SPECIAL_CHARS = لا يمكن أن يحتوي المسار المحدد على أي من الأحرف التالية:
+
+STRING_INSTANCE_MANAGER = إدارة النموذج
+
+STRING_DELETE_APPS = حذف التطبيقات
+
+STRING_NEW_INSTANCE = نموذج جديد
+
+IMAP_STRING_SPEED = سرعة
+
+IMAP_STRING_CATEGORY_SWIPE = مسح
+
+IMAP_STRING_HEAD_LIGHTS = ضوء الأمامي
+
+IMAP_STRING_RESET_ = إعادة تعيين
+
+IMAP_STRING_HAND_BREAK = فرملة اليد
+
+IMAP_STRING_VIEW = عرض
+
+IMAP_STRING_CATEGORY_AIM = & SHOOT = الهدف واطلاق النار
+
+IMAP_STRING_BACKWARDS = الى الوراء
+
+IMAP_STRING_SLOW_DOWN = ابطئ
+
+IMAP_STRING__ACTIVATE = تفعيل
+
+IMAP_STRING_CATEGORY_CONTROL كاميرا = تحكم بالكاميرا
+
+IMAP_STRING_GUN = بندقية
+
+IMAP_STRING_NITRO = نيترو
+
+IMAP_STRING_GEAR_SHIFT = مغير التروس
+
+IMAP_STRING_CATEGORY_SHOOTING نمط = اطلاق النار
+
+IMAP_STRING_SWITCH_GUN = تبديل بندقية
+
+IMAP_STRING_DUCK = تجنب
+
+IMAP_STRING_BASIC = الأساسية
+
+IMAP_STRING_SUSPEND = قطع
+
+IMAP_STRING_NINTROUS = نتروجيني
+
+IMAP_STRING_DRIFT = انسياق
+
+IMAP_STRING_THROTTLE = سرع
+
+IMAP_STRING_MOVE_CAMERA = حرك الكاميرا
+
+IMAP_STRING_HOLD_ROTATE_CAMERA = عقد تدوير الكاميرا
+
+IMAP_STRING_CATEGORY_CAMERA = كاميرا
+
+IMAP_STRING_PUNCH = لكمة
+
+IMAP_STRING_EXIT_SHOOTING_MODE = الخروج من نمط اطلاق النار
+
+IMAP_STRING_STAND/DUCK = قف/نجنب
+
+IMAP_STRING_ZOOM = تكبير
+
+IMAP_STRING_HEALTH_ = الصحة
+
+IMAP_STRING_HEALTH = الصحة
+
+IMAP_STRING_BOMB = قنبلة
+
+IMAP_STRING_DOWNARD = نزولا
+
+IMAP_STRING_ROLL = تدحرج
+
+IMAP_STRING_BLAST = انفجار
+
+IMAP_STRING_TILT_LEFT = الميل لليسار
+
+IMAP_STRING_TILT_RIGHT = الميل لليمين
+
+IMAP_STRING_ULTRA_ATTACK = هجوم مسرف
+
+IMAP_STRING_USE_MP_POTION = استخدم جرعة MP
+
+IMAP_STRING_USE_HP_POTION = استخدم جرعة HP
+
+IMAP_STRING_AUTO_KILL = قتل تلقائي
+
+IMAP_STRING_ABILITY_3 = القدرة 3
+
+IMAP_STRING_ABILITY_4 = القدرة 4
+
+IMAP_STRING_SPECIALITY = تخصص
+
+IMAP_STRING_TARGET = هدف
+
+IMAP_STRING_BACKWORD = الكلمة الخلفية
+
+IMAP_STRING_COVER/UNCOVER = تغطية / كشف
+
+IMAP_STRING_SECONDARY_WEAPON = سلاح ثانوي
+
+IMAP_STRING_CALL_SUPPORT_DRONE = استدعاء دعم الطائرة بدون طيار
+
+IMAP_STRING_CATEGORY_CONTROL = كاميرا = تحكم بالكاميرا
+
+IMAP_STRING_SWAP = التبديل
+
+IMAP_STRING_SWAP_WEAPON = تبديل السلاح
+
+IMAP_STRING_LIGHTNING_ATTACK = هجوم البرق
+
+IMAP_STRING_SUMMON_ALLY_1 = استدعاء الحليف 1
+
+IMAP_STRING_SUMMON_ALLY_2 = استدعاء الحليف 2
+
+IMAP_STRING_KATANA_ATTACK = هجوم كاتانا
+
+IMAP_STRING_SUMMON_ALLY_3 = استدعاء الحليف 3
+
+IMAP_STRING_SUMMON_ALLY_4 = استدعاء الحليف 4
+
+IMAP_STRING_SPELL_2 = سحر 2
+
+IMAP_STRING_SPELL_3 = سحر 3
+
+IMAP_STRING_SPELL_4 = سحر 4
+
+IMAP_STRING_FREE_LOOK = النظر الحر
+
+IMAP_STRING_FIRE = نار
+
+IMAP_STRING_CROUCH/SWIM_DOWN = ربوض / اسبح للأسفل
+
+IMAP_STRING_JUMP_OUT_OF_PLANE = اقفز خارج الطائرة
+
+IMAP_STRING_OPEN_HEALING_ITEMS = افتح عناصر الشفاء
+
+IMAP_STRING_MELEE_WEAPON = سلاح المشاجرة
+
+IMAP_STRING_USE_SCOPE = استخدام النطاق
+
+IMAP_STRING_CHANGE_FIRING_MODE = تغيير نمط اطلاق النار
+
+IMAP_STRING_AUTO_RUN = تشغيل تلقائي
+
+IMAP_STRING_GRENADES = قنبلة يدوية
+
+IMAP_STRING_DRIVE_VEHICLE = قيادة السيارة
+
+IMAP_STRING_ENTER_VEHICLE = ادخل الى المركبة
+
+IMAP_STRING_THROTTLE_UP = زيادة سرعة
+
+IMAP_STRING_THROTTLE_DOWN = تخفيف السرعة
+
+IMAP_STRING_CHANGE_GEAR = تغييير العتاد
+
+IMAP_STRING_LOW_SHOOT = انخفاض اطلاق النار
+
+IMAP_STRING_HIGH_SHOOT = ارتفاع اطلاق النار
+
+IMAP_STRING_OPEN_SKILLS = افتح المهارة
+
+IMAP_STRING_LAUCH_MISSILE/TORPEDO = إطلاق صاروخ / طوربيد
+
+IMAP_STRING_TILT_UP = إمالة للأعلى
+
+IMAP_STRING_TILT_DOWN = إمالة للأسفل
+
+IMAP_STRING_CATEGORY_TILT = إمالة
+
+IMAP_STRING__ATTACK = هجوم
+
+IMAP_STRING_SIDE_STEP = خطوة جانبية
+
+IMAP_STRING_DODGE = مراوغة
+
+IMAP_STRING_MEDIUM_ATTACK = هجوم متوسط
+
+IMAP_STRING_HIT = ضربة
+
+IMAP_STRING_BULLETS = الرصاص
+
+IMAP_STRING_CATEGORY_ACTIONS = أفعال
+
+IMAP_STRING_SWORD = سيف
+
+IMAP_STRING_CATEGORY_ATTACK = هجوم
+
+IMAP_STRING_SPEED_MODIFIER = معدل السرعة
+
+IMAP_STRING_IN = الى الداخل
+
+IMAP_STRING_OUT = الى الخارج
+
+IMAP_STRING_ATTACK2 = الهجوم 2
+
+IMAP_STRING_MODIFIER = التعديل
+
+IMAP_STRING_START_SHOOTING_MODE = بدء نمط اطلاق النار
+
+IMAP_STRING_CHANGE_CHARACTER = تغيير الشخصية
+
+IMAP_STRING_CATEGORY_SWAP = التبديل
+
+IMAP_STRING_SPLIT = انقسم
+
+IMAP_STRING_SHOOT/SPLIT = تبادل لاطلاق النار / الانقسام
+
+IMAP_STRING_RACE = سباق
+
+IMAP_STRING_MISSILES = صواريخ
+
+IMAP_STRING_GEAR_DOWN = ترس للاسفل
+
+IMAP_STRING_GEAR_UP = ترس للاعلى
+
+IMAP_STRING_REV = زيادة السرعة
+
+IMAP_STRING_KICK = ركلة
+
+IMAP_STRING_SHADOW_ABILITY = قدرة الظل
+
+IMAP_STRING_RUN = شغل
+
+IMAP_STRING_MOVE_FORWARD/_RUN = تقدم إلى الأمام / اركض
+
+IMAP_STRING_MOVE__DOWNWARD = تحرك للأسفل
+
+IMAP_STRING_LOOK_AROUND = النظر حولك
+
+IMAP_STRING_SIT = أجلس
+
+IMAP_STRING_PICK = التقط
+
+IMAP_STRING_MUTE/UNMUTE_MIC = كتم الميكرفون / إلغاء كتم الميكرفون
+
+IMAP_STRING_MUTE/UNMUTE_SPEAKER = كتم صوت / إلغاء كتم الصوت
+
+IMAP_STRING_OPEN/CLOSE = فتح / إغلاق
+
+IMAP_STRING_BAG = حقيبة
+
+IMAP_STRING_RIDE = اركب
+
+IMAP_STRING_LOCK_RUNNING = اقفل الجري
+
+IMAP_STRING_USE_PARACHUTE = استخدم المظلة
+
+IMAP_STRING_OPEN_DOOR/DRIVE_VEHICLE = افتح الباب/قد السيارة
+
+IMAP_STRING_RIDE_VEHICLE = اركب السيارة
+
+IMAP_STRING_RAGE_SKILL = مهارة الغضب
+
+IMAP_STRING_SHIELD = درع
+
+IMAP_STRING_TURN = انعطاف
+
+IMAP_STRING_CLIMB = تسلق
+
+IMAP_STRING_AMMO = ذخيرة
+
+IMAP_STRING_START_OR_STOP = ابدأ أو توقف
+
+IMAP_STRING_L = L
+
+IMAP_STRING_R = R
+
+IMAP_STRING_BREAK = استراحة
+
+IMAP_STRING_REVERSE = عكسي
+
+IMAP_STRING_HORN = بوق
+
+IMAP_STRING_HEAD_LIGHT = ضوء الأمامي
+
+IMAP_STRING_PARKING_LIGHT = ضوء وقوف السيارات
+
+IMAP_STRING_LEFT_INDICATOR = مؤشر اليسار
+
+IMAP_STRING_RIGHT_INDICATOR = مؤشر اليمين
+
+IMAP_STRING_WIPERS = مساحات
+
+IMAP_STRING_CAMERA = كاميرا
+
+IMAP_STRING_NITROS = نتروجيني
+
+IMAP_STRING_LIGHT_ATTACK = هجوم خفيف
+
+IMAP_STRING_STRONG_ATTACK = هجوم قوي
+
+IMAP_STRING_TAG = بطاقة
+
+IMAP_STRING_ENABLE_ATTACK_1 = تمكين الهجوم 1
+
+IMAP_STRING_ENABLE_ATTACK_2 = تمكين الهجوم 2
+
+IMAP_STRING_ENABLE_ATTACK_3 = تمكين الهجوم 3
+
+IMAP_STRING_TELEPORT = النقل الفضائي
+
+IMAP_STRING_OBSERVE = رصد
+
+IMAP_STRING_ENABLE_ATTACK_4 = تمكين الهجوم 4
+
+IMAP_STRING_LEFT_ = يسار
+
+IMAP_STRING_RIGHT_ = يمين
+
+IMAP_STRING_MP_PORTION = جرعة MP
+
+IMAP_STRING_DRIFT_MODE/GRIP_MODE = وضع الانجراف / وضع قبضة
+
+IMAP_STRING_BRAKES = فرامل
+
+IMAP_STRING_HEADLIGHTS = المصابيح الأمامية
+
+IMAP_STRING_ACCELERATOR = مسرع
+
+IMAP_STRING_MAGNET = مغناطيس
+
+IMAP_STRING_FLY = طر
+
+IMAP_STRING_AUTO_PLAY = تشغيل تلقائي
+
+IMAP_STRING_TOGGLE_AUTOCAST = تبديل التلقائي الصب
+
+IMAP_STRING_ATTACK_ENEMIES = هجوم على الأعداء
+
+IMAP_STRING_ATTACK_TOWER = الهجوم على البرج
+
+IMAP_STRING_USE_ITEM_1 = استخدام العنصر 1
+
+IMAP_STRING_QUICK_BUY_ITEMS = شراء سريع العنصر 1
+
+IMAP_STRING_VIEW_SCOREBOARD = عرض لائحة النتائج
+
+IMAP_STRING_USE_ITEM_2 = استخدام العنصر 2
+
+IMAP_STRING_TOGGLE_AUTO_CAST = تبديل التلقائي الصب
+
+IMAP_STRING_SHOP = متجر
+
+IMAP_STRING_ACTIVE_2 = تفعيل 2
+
+IMAP_STRING_ACTIVE_1 = تفعيل 1
+
+IMAP_STRING_CHANGE_CAMERA = غير الكاميرا
+
+IMAP_STRING_NITROUS = نتروجيني
+
+IMAP_STRING_ACTIONS = أفعال
+
+IMAP_STRING_CATEGORY_SHOOTING = نمط = اطلاق النار
+
+IMAP_STRING_AUTO_PILOT = الطيار الآلي
+
+IMAP_STRING_REPAIR = إصلاح
+
+IMAP_STRING_CHANGE_VIEW = تغيير العرض
+
+IMAP_STRING_BACK_FLIP = شقلبة خلفية
+
+IMAP_STRING_FRONT_FLIP = شقلبة أمامية
+
+IMAP_STRING_SPECIAL_ABILITY = قدرة خاصة
+
+IMAP_STRING_SKILL = مهارة
+
+IMAP_STRING_RESET = إعادة تعيين
+
+IMAP_STRING_JAB = ضربة بالكوع
+
+IMAP_STRING_PUNCH_RIGHT = لكمة اليمين
+
+IMAP_STRING_PUNCH_LEFT = لكمة اليسار
+
+IMAP_STRING_SPECIAL_SKILL = مهارة خاصة
+
+IMAP_STRING_RAGE = غضب
+
+IMAP_STRING_BUY_BULLETS = شراء الرصاص
+
+IMAP_STRING_CHANGE_DIRECTION = غير الاتجاه
+
+IMAP_STRING_ZOOM_UP = التكبير
+
+IMAP_STRING_CATCH = قبض
+
+IMAP_STRING_UPWARD = صعوداً
+
+IMAP_STRING_DOWNWARD = نزولا
+
+IMAP_STRING_THROUGH = من خلال
+
+IMAP_STRING_CLEAR/SHOOT = واضح / تبادل لاطلاق النار
+
+IMAP_STRING_DASH = إندفع
+
+IMAP_STRING_FALL_BACK = تراجع
+
+IMAP_STRING_AUTO_REPLAY = إعادة التشغيل التلقائي
+
+IMAP_STRING_FIGHT = حارب
+
+IMAP_STRING_ACTION_1 = تصرف 1
+
+IMAP_STRING_ACTION_2 = تصرف 2
+
+IMAP_STRING_ACTION_3 = تصرف 3
+
+IMAP_STRING_ACTION_4 = تصرف 4
+
+IMAP_STRING_CONSTRUCT = بناء
+
+IMAP_STRING_HOLD = معلق
+
+STRING_HOT_PINK_THEME = وردي فاقع
+
+STRING_LINEAGE2_REVOLUTION_THEME = Lineage 2: Revolution
+
+STRING_COOL_BLUE_THEME = أزرق بارد
+
+STRING_GET_XPACKS_TITLE = انقر لتنزيل اكس باك
+
+STRING_VIEW_XPACK_TITLE = انقر لعرض اكس باك
+
+IMAP_STRING_DEFUSE/SHOP = فصل/متجر
+
+IMAP_STRING_TOGGLE_SHOOTING_MODE = تبديل نمط إطلاق النار
+
+IMAP_STRING_FIRE_WEAPON = أطلق النار
+
+IMAP_STRING_HEALING = معافاة
+
+IMAP_STRING_FREEFALL = السقوط الحر
+
+IMAP_STRING_PICK_UP_ITEM_4 = التقط العنصر 4
+
+IMAP_STRING_PICK_UP_ITEM_3 = التقط العنصر 3
+
+IMAP_STRING_PICK_UP_ITEM_2 = التقط العنصر 2
+
+IMAP_STRING_PICK_UP_ITEM_1 = لتقط العنصر 1
+
+IMAP_STRING_CATEGORY_DRIVING = قيادة
+
+STRING_DUPLICATE_KEY_WARNING = هذا المحتح قد عين من قبل لعمل أخر، لكن الأن يمكن تعيينه لكليهما
+
+STRING_WAIT_WHILE_UPDATE_BLUESTACKS = الرجاء الانتظار بينما نقوم بتحديث عميل بلو ستاكس إلى أحدث إصدار.
+
+STRING_DONT_LAUNCH_BS_WHILE_UPDATING = لمنع فقدان البيانات - أثناء إجراء هذا التحديث، لا تقم بتشغيل بلو ستاكس أو إنهاؤها بإغلاق هذه النافذة
+
+STRING_UPDATING = جاري تحديث بلو ستاكس
+
+STRING_CAUTION_CUSTOM_CFG_UNUSABLE_AFTER_UPGRADE = للأسف ، لن تتمكن الترقية من الحفاظ على عناصر التحكم في لوحة المفاتيح التي حفظتها ، وستفقدها. "
+
+IMAP_STRING_VEHICLE_BOOST = تعزيز المركبة
+
+STRING_BLUESTACKS_STORE = متجر بلو ستاكس
+
+IMAP_STRING_SPACE = مساحة
+
+STRING_BEFORE_YOU_RESTORE  =  قبل الاستعادة
+
+STRING_CAUTION_CUSTOM_CFG_UNUSABLE_AFTER_RESTORE = إحذر! إذا كانت لديك أية عناصر تحكم مخصصة في لوحة المفاتيح ، فستتم اعادتها بعد الاستعادة وستفقدها.
+
+STRING_DATA_MANAGER_INFO_FILE_MISSING = لسوء الحظ ، لا يمكن استعادة البيانات من نسخة احتياطية تم إنشاؤها باستخدام إصدار قديم من بلوستاكس إلى الإصدار الأحدث.
+
+STRING_OVERLAY = غطاء
+
+STRING_SHOW_ON_OVERLAY = عرض المفاتيح على الغطاء
+
+STRING_POWER_PLAN = ضبط ضوابط خطة الطاقة
+
+STRING_POWER_PLAN_BODY = اضبط إعداد خطة الطاقة على الأداء العالي لتسريع بلو ستاكس
+
+STRING_POWER_PLAN_HYPERLINK = غيّر خطة الطاقة الآن
+
+STRING_TERMS_OF_USE =  © BlueStacks Systems Inc. ، من 2011 حتى 2019 ، جميع الحقوق محفوظة في جميع أنحاء العالم. عند إستخدام بلو ستاكس فإنك توافق على 
+
+STRING_TERMS_OF_USE_LINK = شروط الاستخدام
+
+STRING_AUDIO_SERVICE_FAILURE = غير قادر على تهيئة الصوت
+
+STRING_AUDIO_SERVICE_FAILUE_FIX = حاول إعادة تشغيل جهاز الكمبيوتر لإصلاح المشكلة.
+
+STRING_AUDIO_SERVICE_FAILURE_ALTERNATE_FIX = إذا استمرت المشكلة يرجى تحديث برامج تشغيل الصوت النظام الخاص بك.
+
+STRING_READ_MORE = اقرأ المزيد
+
+STRING_MORE_APPS = تطبيقات أكثر
+
+STRING_ANTIVIRUS_ISSUE = تعارض برنامج مكافحة الفيروسات
+
+STRING_ANTIVIRUS_ISSUE_HEADER = تتداخل بعض إعدادات برنامج مكافحة الفيروسات على الكمبيوتر الخاص بك مع اتصال الشبكة.
+
+STRING_TECHNICAL_TIP =	نصيحة تقنية -
+
+STRING_ANTIVIRUS_ISSUE_FIX = حاول تعطيل إعدادات مكافحة الفيروسات لمسح HTTPS واعتراض الاتصالات الآمنة وإعادة تشغيل الكمبيوتر.
+
+STRING_SEE_HOW_TO_FIX = انظر كيفية الإصلاح
+
+STRING_DELETE_COMBO_HEADER = حذف التسجيل؟
+
+STRING_DELETE_COMBO_BODY = سيتم فقدان هذا التسلسل وسيتعين عليك التسجيل مرة أخرى للمتابعة. هل أنت متأكد أنك تريد حذف؟
+
+STRING_SAVE_COMBO_HEADER = حفظ تسلسل المفاتيح
+
+STRING_SAVE_COMBO_BODY = إعطاء تسلسل اسم ومفتاح اختصار. امنحها اسماً يساعدك على تذكر الإجراء الذي تقوم به.
+
+STRING_COMBO_DESCRIPTION = اسم التسلسل
+
+STRING_COMBO_SHORTCUT_KEY = مفتاح الاختصار
+
+STRING_NO_SEQUENCES = لا تسلسل
+
+STRING_RECORD_SEQUENCE = استخدم الرمز [+] لتسجيل تسلسل
+
+STRING_RECORD_NEW_SEQUENCE_TITLE = سجل تسلسل جديد
+
+STRING_RECORD_NEW_SEQUENCE_BODY = يمكنك أيضًا استخدام عناصر تحكم لوحة المفاتيح الحالية أثناء التسجيل.
+
+STRING_START_RECORDING = ابدأ التسجيل
+
+STRING_STOP_RECORDING = إيقاف التسجيل
+
+IMAP_STRING_MOBASKILL_NOCANCELONSWITCH = لا الغاء عند التبديل
+
+IMAP_STRING_PAN_SENSITIVITYRATIOY = نسبة الحساسية Y
+
+STRING_POST_OTS_SUCCESS_MESSAGE = لقد قمت بتسجيل الدخول بنجاح.
+
+STRING_POST_OTS_SUCCESS_BUTTON_MESSAGE = إبدأ في استخدام بلو ستاكس
+
+STRING_POST_OTS_SYNCING_MESSAGE = مزامنة حساب بلوستاكس
+
+STRING_POST_OTS_SYNCING_BUTTON_MESSAGE = أرجو الإنتظار...
+
+STRING_POST_OTS_FAILED_MESSAGE = لم نتمكن من مزامنة بياناتك
+
+STRING_POST_OTS_FAILED_BUTTON_MESSAGE = حول مرة أخرى
+
+STRING_POST_OTS_FAILED_WARNING_MESSAGE = يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى.
+
+STRING_KEY_SEQUENCE = تسلسل المفاتيح
+
+STRING_COMBO_SEQUENCES_LIST = يتم سرد تسلسلات تاب / كومبو هنا.
+
+STRING_DISCARD = تجاهل
+
+STRING_DISCARD_COMBO_HEADER = تجاهل التسجيل؟
+
+STRING_DISCARD_COMBO_BODY = سيتم فقد كل التقدم الذي أحرزته لهذا التسلسل ، فهل تريد بالتأكيد تجاهل التسجيل الحالي؟
+
+STRING_ADD = إضافة
+
+IMAP_STRING_MOUSEXBUTTON1  = X زر 1
+
+IMAP_STRING_MOUSEXBUTTON2 = X زر 2
+
+STRING_CHANGE_LOG = ما هو الجديد
+
+STRING_USE_2GB = سوف تستخدم 2GB
+
+STRING_RESTORE_NOT_PERMITTED = لا يدعم بلوستاكس استعادة البيانات من نسخة احتياطية من إصدار أحدث من بلوستاكس إلى إصدار قديم.
+
+STRING_RESTORE_WARNING = أنت تعتزم استعادة البيانات من نسخة احتياطية من إصدار قديم من بلوستاكس إلى إصدار أحدث. يرجى العلم بأن عملية الاستعادة قد لا تكون ناجحة.
+
+STRING_RESTORE_NOT_POSSIBLE = لسوء الحظ ، لا يمكن استعادة البيانات من نسخة احتياطية تم إنشاؤها باستخدام إصدار قديم من بلوستاكس إلى الإصدار الأحدث.
+
+STRING_BACKUP_AND_RESTORE = نسخ احتياطي واستعادة
+
+STRING_BACKUP_AND_RESTORE_SETTINGS_DETAIL = قم بإنشاء نسخة احتياطية أو استعادة نسخة احتياطية موجودة من بيانات المستخدم والألعاب المثبتة وعناصر التحكم في لوحة المفاتيح والإعدادات.
+
+STRING_BACKUP_AND_RESTORE_SETTINGS_WARNING = يمكن استعادة النسخ الاحتياطية بنجاح إلى الإصدار الذي تم إنشاؤه منها.
+
+STRING_BACKUP_CURRENT_DATA = النسخ الاحتياطي للبيانات الحالية
+
+STRING_RESTORE_AN_EXISTING_BACKUP = استعادة نسخة احتياطية موجودة
+
+STRING_ON_SCREEN_CONTROLS_TITLE = على ضوابط الشاشة
+
+STRING_ON_SCREEN_CONTROLS_BODY = انقر فوق رمز العين لعرض عناصر التحكم الرئيسية في هذه اللعبة.
+
+STRING_UNFORTUNATELY_COULDNT_UPGRADE = ترقية لم تنجح. عودة بلوستاكس إلى الحالة التي كانت عليها قبل بدء الترقية.
+
+STRING_CANCEL_COMBO = اضغط F12 لإلغاء التحرير والسرد قيد التشغيل.
+
+STRING_ADD_TOUCH_CONTROLS = إضافة الضوابط التي تعمل باللمس
+
+STRING_CONFIGURATION_ACTIONS = إجراءات التكوين الحالية
+
+STRING_ROLLBACK_FAILED_SORRY_MESSAGE = نأسف كثيرًا ، ولكن كل من الترقية والتراجع اللاحق قد فشلا ولم يعد من الممكن استعادة بلوستاكس إلى الحالة التي كانت عليها قبل بدء الترقية. لسوء الحظ ، يمكنك فقط إلغاء تثبيت الإصدار الموجود من بلوستاكس وتثبيت أحدث إصدار من بلوستاكس من موقع الويب.
+
+STRING_UPGRADE_BST_FULL = سيؤدي تثبيت هذه اللعبة إلى ترقية بلوستاكس المدمجة الموجودة بالفعل على الكمبيوتر الخاص بك إلى بلوستاكس العادي.
+
+STRING_USE_2GB = سوف تستخدم 2GB
+
+STRING_CANCEL_COMBO = اضغط F12 لإلغاء التحرير والسرد قيد التشغيل.
+
+STRING_ADD_TOUCH_CONTROLS = إضافة الضوابط التي تعمل باللمس
+
+STRING_CONFIGURATION_ACTIONS = إجراءات التكوين الحالية
+
+STRING_DOWNLOADING_INSTALLING_GAME = تحميل وتثبيت اللعبة
+
+STRING_DONT_CLOSE_WINDOW_WHILE_DOWNLOADING_GAME = يرجى عدم إغلاق التطبيق أو قطع الاتصال بالإنترنت أثناء تحميل بيانات اللعبة
+
+STRING_ERROR_WHILE_DOWNLOADING_GAME = حدث خطأ أثناء محاولة تحميل بيانات اللعبة
+
+STRING_UPGRADE_BST_FULL = سيؤدي تثبيت هذه اللعبة إلى ترقية بلوستاكس المدمجة الموجودة بالفعل على الكمبيوتر الخاص بك إلى بلوستاكس العادي.
+
+STRING_UPGRADE_SINGLE_GAME_TO_FULL = سيؤدي تثبيت هذه اللعبة إلى ترقية بلوستاكس المدمجة الموجودة بالفعل على الكمبيوتر الخاص بك إلى بلوستاكس العادي.
+
+STRING_GAME_DOWNLOADED_SUCCESS = تم تحميل اللعبة بنجاح
+
+STRING_PLAY_GAME = ألعب لعبة
+
+STRING_THIS_WILL_UPGRADE_SINGLE_GAME_TO_FULL = سيؤدي تثبيت هذه اللعبة إلى ترقية بلوستاكس المدمجة الموجودة بالفعل على الكمبيوتر الخاص بك إلى بلوستاكس العادي.
+
+STRING_LAUNCH_BLUESTACKS_FROM_DESK_SHORTCUT = يرجى تشغيل بلوستاكس بعد إغلاق اللعبة الحالية
+
+STRING_UPGRADING_TEXT = جاري الترقية
+
+STRING_CONTAINS_INVALID_CHARACTER = يحتوي الاسم الذي أدخلته على حرف غير صالح أو أكثر. الرجاء إدخال اسم صالح لا يحتوي على أي من الأحرف التالية:
+
+STRING_CANCEL_RECORDING = إلغاء التسجيل
+
+STRING_RESTORE_CONFIG = هل ترغب في استعادة؟
+
+STRING_RESTORE_CHANGES = التغييرات استعادت
+
+STRING_INSTALL_GAME = تثبيت اللعبة
+
+STRING_UPGRADE_BLUESTACKS = ترقية بلوستاكس
+
+STRING_UPGRADE_TO_STANDARD_BST = الترقية إلى بلوستاكس العادي
+
+STRING_UPGRADE_TEXT = ترقية
+
+STRING_GAME_INSTALL_CURRENT_INSTANCE_OF_BST = سيتم تثبيت هذه اللعبة في بلوستاكس الموجودة بالفعل على جهاز الكمبيوتر الخاص بك. هل ترغب في الاستمرار؟
+
+STRING_GAME_INSTALL_IN_EMBEDDED_BST = سيؤدي تثبيت هذه اللعبة إلى ترقية بلوستاكس المدمجة الموجودة بالفعل على الكمبيوتر الخاص بك إلى بلوستاكس العادي.
+
+STRING_BST_INSTALL_IN_EMBEDDED_BST_UPGRADE = سيؤدي تثبيت بلوستاكس إلى ترقية بلوستاكس المدمجة الموجودة بالفعل على الكمبيوتر الخاص بك إلى بلوستاكس العادي.
+
+STRING_BST_INSTALL_IN_EMBEDDED_BST = سيؤدي تثبيت بلوستاكس إلى ترقية بلوستاكس المدمجة الموجودة بالفعل على الكمبيوتر الخاص بك إلى بلوستاكس العادي.
+
+STRING_GAME_REQUIRES_NEW_BST = تتطلب اللعبة إصدارًا جديدًا من بلوستاكس. هل ترغب في ترقية بلوستاكس وتثبيت اللعبة؟
+
+STRING_INSUFFICIENT_PHYSICALMEMORY = يحتوي الكمبيوتر على ذاكرة وصول عشوائي أقل من ٢ جيجابايت المطلوبة لبلو ستاكس.
+
+STRING_OS_VERSION_NOT_SUPPORTED = بلو ستاكس غير مدعوم لإصدار ويندوز الذي يعمل على هذا الكمبيوتر.
+
+STRING_GL_UNSUPPORTED = بطاقة الرسومات أو برنامج التشغيل الخاص بها لا يدعم بلوستاكس.
+
+STRING_REGISTRY_EDITING_DISABLED = يتطلب بلو ستاكس حقوق تحرير التسجيل للتثبيت على جهاز الكمبيوتر الخاص بك.
+
+STRING_UPGRADE_FAILED = فشلت الترقية
+
+STRING_CONTINUING_WILL_UPGRADE_TO_STD_BST = سيؤدي الاستمرار إلى ترقية بلوستاكس المدمجة الموجودة بالفعل على الكمبيوتر الخاص بك إلى بلوستاكس العادي.
+
+STRING_MULTIINSTANCE_MANAGER = بلوستاكس مدير متعدد المثيل
+
+STRING_INSTALLATION_FAILED = للأسف ، تعذر تثبيت بلوستاكس.
+
+STRING_SELECT_ALL = اختر الكل
+
+STRING_BATCH = دفعة
+
+STRING_ARRANGE = رتب
+
+STRING_STOPPED = توقفت
+
+IMAP_STRING_MOBASkill_YAxisRatio = نسبة المحور Y
+
+IMAP_STRING_MOBASkill_NoCancelTime = لا إلغاء للتوقيت
+
+IMAP_STRING_MOBASkill_AutoAttack = هجوم تلقائي
+
+IMAP_STRING_MOBASkill_StopMOBADpad = توقيف MOBA Dpad
+
+STRING_RUNNING = جاري
+
+IMAP_STRING_TapRepeat_Header_Edit_UI = نقر متكرر
+
+IMAP_STRING_TapRepeat_Description_Edit_UI = استخدم هذا لإضافة النقر المتكرر في مكان ما باستخدام مفتاح واحد
+
+IMAP_STRING_TAPREPEAT_X = أكس
+
+IMAP_STRING_TAPREPEAT_Y = Y
+
+IMAP_STRING_TAPREPEAT_Key = مفتاح
+
+IMAP_STRING_TAPREPEAT_Count = عد
+
+IMAP_STRING_TAPREPEAT_Delay = تأجيل
+
+IMAP_STRING_CATEGORY_TAPREPEEAT = انقر فوق تكرار
+
+IMAP_STRING_TAPREPEAT_Settings = انقر فوق إعدادات التكرار
+
+STRING_SELECTED_INSTANCE_RUNNING_WHILE_CLONING = لسوء الحظ ، لا يمكن نسخ الحالات أثناء تشغيلها. هل نطلب منك إغلاق المثيلات قيد التشغيل قبل المتابعة لاستنساخها؟
+
+STRING_MACRO_TOOL = أداة ماكرو للتسجيل
+
+STRING_MACRO_TOOL_HEADER = شغل أوتوماتيكيا المهام المملة والاسترخاء!
+
+STRING_MACRO_TOOL_RECORD_1 = سجل نقرات الماوس ، وضغطات لوحة المفاتيح والسلاسل النصية.
+
+STRING_MACRO_TOOL_RECORD_2 = بدء تسجيل ماكرو باستخدام زر الماكرو سجل أدناه.
+
+STRING_RECORD_NEW_MACRO = سجل ماكرو جديد
+
+STRING_OPEN_SCRIPTS = فتح مجلد البرامج النصية
+
+STRING_EXECUTION_LOOP = كرر التنفيذ
+
+STRING_LOOP = عقدة
+
+STRING_TIMES = مرات
+
+STRING_HOURS_SHORTFORM = HH
+
+STRING_MINUTES_SHORTFORM = mm
+
+STRING_SECONDS_SHORTFORM = ss
+
+STRING_PRESS_STOP_BUTTON = اضغط على زر التوقف لإيقاف الماكرو
+
+STRING_LOOP_INTERVAL = فترة العقدة
+
+STRING_SECONDS = ثواني
+
+STRING_ACCELERATION = التعجيل
+
+STRING_EXECUTE_SCRIPT_ON_RESTART = تنفيذ الماكرو عند إعادة تشغيل المشغل
+
+STRING_RESTART_PLAYER = إعادة تشغيل اللاعب
+
+STRING_BATCH_NEW = دفعة جديدة
+
+STRING_BATCH_CLONE = استنساخ الدفعات
+
+STRING_START_SELECTED = بدء المحدد
+
+STRING_CLOSE_SELECTED = أغلق المحدد
+
+STRING_REMOVE_SELECTED = ازل المحدد
+
+STRING_INSTANCE_OPTIONS = خيارات المثيل
+
+STRING_FPS = FPS
+
+STRING_FPS_CHANGE_MESSAGE = يسمح FPS المنخفض بتشغيل المزيد من المثيلات
+
+STRING_DISABLE_AUDIO_MESSAGE = قم بتعطيل الصوت عند تشغيل أكثر من مثيل
+
+STRING_REDUCES_CPU_USAGE = يقلل من استخدام وحدة المعالجة المركزية
+
+STRING_ARRANGE_SETTINGS = ترتيب مثيل
+
+STRING_SPREAD_ALIGN = تخطيط الشبكة
+
+STRING_OVERLAY_ALIGN = تخطيط قطري
+
+STRING_INSTANCES_PER_ROW = المثيلات لكل صف
+
+STRING_BATCH_OPERATIONS = عملية التخلف دفعة واحدة
+
+STRING_START_INTERVAL = بداية الفاصل
+
+STRING_BATCH_NUMBER = دفعة إنشاء حالات
+
+STRING_REMOVE = إزالة عنصر
+
+STRING_RENAME = إعادة تسمية
+
+STRING_MINUTES = الدقائق
+
+STRING_TILL_LOOP_NUMBER = للحصول على رقم ثابت
+
+STRING_TILL_LOOP_TIME = لمدة
+
+STRING_TILL_MANUAL = غير محدود
+
+STRING_DELETE_SCRIPT = هل تريد حذف الماكرو المحدد؟
+
+STRING_MACRO_RECORDER = مسجل الماكرو
+
+STRING_PLAYING_MACRO = لعب الماكرو
+
+STRING_INTERVAL = فترة
+
+STRING_PLAYERS = لاعبين
+
+STRING_EXECUTING_SCRIPT = تنفيذ الماكرو
+
+STRING_SCRIPT_SETTINGS = تحرير إعدادات الماكرو
+
+STRING_EDIT_COMBO_HEADER = تحرير تسلسل المفاتيح
+
+STRING_SCRIPT = سيناريو
+
+STRING_FARM = إقطاع
+
+STRING_INSTANCE_SETTINGS = إعدادات مثيل
+
+STRING_DELETE_CONFIRMATION = هل أنت متأكد من أنك تريد حذف المثيل المحدد؟
+
+STRING_CLOSE_CONFIRMATION = هل ترغب في إغلاق المثيل المحدد؟
+
+STRING_SHORTCUT_ADDED_SUCCESS = تمت إضافة الاختصار إلى سطح المكتب بنجاح
+
+STRING_CONFIRM = أكد
+
+STRING_CLONE_FROM_MAIN_INSTANCE_WARNING = يتم الاستنساخ من
+
+STRING_BATCH_INSTANCE_CLOSE_CONFIRMATION = هل ترغب في إغلاق المثيل المحدد؟
+
+STRING_STOP_RECORDING_TOOLTIP = يمكنك إيقاف تسجيل الماكرو من هنا
+
+STRING_NO_OPERATION_MESSAGE = لم يتم إجراء أي عملية ، وبالتالي لم يتم حفظ الماكرو.
+
+STRING_BATCH_INSTANCE_DELETE_CONFIRMATION = هل أنت متأكد من أنك تريد حذف المثيلات المختارة؟
+
+STRING_BETA = بيتا
+
+STRING_STREAM_MODE = وضع البث المباشر
+
+STRING_USE_DEDICATED_GPU = استخدم رسومات الكمبيوتر المخصصة
+
+IMAP_STRING_DPAD_GamepadStick = عصا Gamepad
+
+STRING_INSTALLATION_FAILED = للأسف ، تعذر تثبيت بلوستاكس.
+
+IMAP_STRING_MOBASkill_YAxisRatio = نسبة المحور Y
+
+IMAP_STRING_MOBASkill_NoCancelTime = لا إلغاء للتوقيت
+
+IMAP_STRING_MOBASkill_AutoAttack = هجوم تلقائي
+
+IMAP_STRING_MOBASkill_StopMOBADpad = توقيف MOBA Dpad
+
+STRING_CONNECT_DISCORD_BST = السماح لبلوستاكس بالاتصال بديسكورد
+
+STRING_PROBLEM_TYPE = نوع المشكلة
+
+STRING_APP_DETAILS = تفاصيل التطبيق
+
+STRING_APPLICATION_NAME = اسم التطبيق
+
+STRING_APP_NAME_WATERMARK = اكتب اسم التطبيق هنا
+
+STRING_DESCRIBE_PROBLEM = صف المشكلة
+
+STRING_SCREENSHOT = لقطة شاشة
+
+STRING_CHOOSE = أختر
+
+STRING_SUBMIT_REPORT = تقديم التقرير
+
+STRING_BST_SUPPORT_UTILITY = دعم خدمة بلو ستاكس
+
+STRING_NO_INSTANCE_FOUND = لم يتم العثور على مثيلات بلوستاكس
+
+STRING_SYNC_OPERATIONS = عمليات المزامنة
+
+STRING_NO_INSTANCE_RUNNING = لا مثيل آخر على التوالي
+
+STRING_START_OTHER_INSTANCES = يرجى بدء حالات أخرى لمزامنة إجراءات المثيل الحالي معهم.
+
+STRING_SYNC_SELECTED = تم اختيار المزامنة
+
+STRING_SYNC_HELP = مساعدة المزامنة؟
+
+STRING_STOP_SYNCING = أوقف المزامنة
+
+STRING_FRAME_RATE_SETTING = معدل الإطار
+
+STRING_RECOMMENDED_FPS = FPS الموصى به 
+
+STRING_FPS_FOR_GAMERS = 60 إطارًا في الثانية للعب أكثر سلاسة (قد يؤثر على أداء الألعاب لأجهزة الكمبيوتر منخفضة الجودة)
+
+STRING_FPS_FOR_MULTIINSTANCE = 20 إطارًا في الثانية للعديد من الإصدارات (قد يخفق تشغيل بعض الألعاب بسلاسة)
+
+STRING_GAMEPAD_SUPPORT = دعم Gamepad
+
+STRING_GAMEPAD_POPUP_TEXT = ابحث عن رمز لوحة الألعاب على الألعاب التي تدعم اللعب باستخدام gamepad على بلوستاكس.
+
+STRING_GAMEPAD_CONNECTED = Gamepad متصل
+
+STRING_GAMEPAD_DISCONNECTED = قطع الاتصال Gamepad
+
+STRING_GAMEPAD = Gamepad
+
+STRING_KEYBOARD_MOUSE = لوحة المفاتيح والماوس
+
+STRING_ENABLE_ADB = تمكين أندرويد جسر التصحيح
+
+STRING_ENABLE_ADB_WARNING = قد لا يكون بلوستاكس محميًا تمامًا مع تشغيل هذا الإعداد. قد تفكر في إيقافها بعد ذلك
+
+IMAP_STRING_GamepadDpadUp = Dpad للأعلى
+
+IMAP_STRING_GamepadDpadDown = DPad للأسفل
+
+IMAP_STRING_GamepadDpadLeft = Dpad لليسار
+
+IMAP_STRING_GamepadDpadRight = Dpad لليمين
+
+IMAP_STRING_GamepadStart = إبدأ
+
+IMAP_STRING_GamepadStop = عودة
+
+IMAP_STRING_GamepadLeftThumb = الإبهام الأيسر
+
+IMAP_STRING_GamepadRightThumb = الإبهام الأيمن
+
+IMAP_STRING_GamepadLeftShoulder = الكتف الأيسر
+
+IMAP_STRING_GamepadRightShoulder = الكتف الأيمن
+
+IMAP_STRING_GamepadA = Gamepad A
+
+IMAP_STRING_GamepadB = Gamepad B
+
+IMAP_STRING_GamepadX = Gamepad X
+
+IMAP_STRING_GamepadY = Gamepad Y
+
+IMAP_STRING_GamepadLStickUp = العصا اليسرى للأعلى
+
+IMAP_STRING_GamepadLStickDown = العصا اليسرى للأسفل
+
+IMAP_STRING_GamepadLStickLeft = العصا اليسرى لليسار
+
+IMAP_STRING_GamepadLStickRight = العصا اليسرى لليمين
+
+IMAP_STRING_GamepadRStickUp = العصا اليمنى للأعلى 
+
+IMAP_STRING_GamepadRStickDown = العصا اليمنى للأسفل
+
+IMAP_STRING_GamepadRStickLeft = العصا اليمنى لليسار
+
+IMAP_STRING_GamepadRStickRight = العصا اليمنى لليمين
+
+IMAP_STRING_GamepadLTrigger = الزناد الأيسر
+
+IMAP_STRING_GamepadRTrigger = الزناد الأيمن
+
+IMAP_STRING_LeftStick = العصا اليسرى
+
+IMAP_STRING_RightStick = العصا اليمنى
+
+STRING_OPEN_GAMEPAD_UI = تعمل عناصر تحكم لوحة التحكم المفتوحة على واجهة المستخدم
+
+IMAP_STRING_Rotate_KeyClock = مفتاح الساعة
+
+IMAP_STRING_Rotate_KeyAntiClock = مفتاح مكافحة الساعة
+
+IMAP_STRING_Rotate_OriginX = OriginX
+
+IMAP_STRING_Rotate_OriginY = OriginY
+
+IMAP_STRING_Rotate_XRadius = XRadius
+
+IMAP_STRING_Rotate_Speed = سرعة
+
+IMAP_STRING_Rotate_ActivationTime = وقت التنشيط
+
+STRING_UPDATE_AVAILABLE = التحديث متاح
+
+STRING_DETAILED_CHANGELOG = عرض تغيير مفصل
+
+STRING_INVALID_FORMAT_HEADER = تنسيق غير صالح
+
+STRING_SAVE_KEY_SEQUENCE_ERROR = تعذر تحديث تسلسل المفاتيح كما هو في تنسيق لا يمكن التعرف عليه. يرجى التأكد من أنه نص JSON صالح.
+
+STRING_WAIT_DURING_UPDATE = الرجاء الانتظار بينما نقوم بتنزيل الإصدار الجديد ، يمكنك الاستمرار في استخدام بلوستاكس أثناء عملية التنزيل.
+
+STRING_INSTALL_NEXT_BOOT = التثبيت على التمهيد التالي
+
+STRING_NEW_UPDATE_READY_WARNING = لن تتمكن من استخدام بلوستاكس أثناء التحديث.
+
+IMAP_Gamepad_Video_Element_Header = التعيين وإطلاق النار مع gamepad
+
+IMAP_Gamepad_Video_Element_Body = العب كيف تلعب لعبة إطلاق النار على وحدة تحكم في الألعاب واكتسب ميزة على الجميع
+
+STRING_HELP_AND_SUPPORT = مساعدة و دعم
+
+STRING_POWER_UPS = زادت الطاقة
+
+STRING_CUSTOMISE = عدل
+
+STRING_DOWNLOADING_UPDATE = تحميل التحديث
+
+STRING_SHOW_TOAST = عرض إخطارات نخب
+
+IMAP_STRING_STATE_Key = مفتاح الحالة
+
+IMAP_STRING_STATE_Name = اسم
+
+IMAP_STRING_STATE_Model = نموذج
+
+IMAP_STRING_STATE_Header_Edit_UI = حالة
+
+STRING_DEVICEPROFILE_SETTING_DETAIL = يسمح لك الملف الشخصي للجهاز بإعداد ملف تعريف توفير جهاز لمثيل بلوستاكس الخاص بك.
+
+STRING_PREDEFINED_DEVICEPROFILE_TEXT = اختر ملف تعريف محدد مسبقا
+
+STRING_CUSTOM_DEVICEPROFILE_TEXT = إنشاء ملف تعريف مخصص
+
+STRING_SAVE_CHANGE = حفظ التغييرات

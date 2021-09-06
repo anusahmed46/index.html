@@ -1,0 +1,48 @@
+* {
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    background: rgb(2, 54, 56);
+    height: 100vh;
+    width: 100%;
+    color: rgb(146, 81, 35);
+    position: relative;
+}
+
+nav h3 {
+    font-weight: bold;
+}
+
+nav ul {
+    flex:1;
+    text-align: right;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 20px;
+    margin-right: 70px;
+    border: 3px solid skyblue;
+}
+nav ul li a{
+    text-decoration: none;
+    color: coral;
+
+}
+
+button {
+    background: skyblue;
+    width: 40px;
+    height: 50px;
+    border-radius: 3px;
+    outline: 0;
+    cursor: pointer;
+    display: block;
+    margin-right: px;
+    float: right;
+    margin-top: 100px;
+}

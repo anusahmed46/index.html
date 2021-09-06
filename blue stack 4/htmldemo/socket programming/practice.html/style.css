@@ -1,0 +1,64 @@
+h1{
+    colour:red;
+    background-color: blue;
+}
+   
+h2{
+    colo
+}
+
+.mazboot{
+    font-size: 10px;
+}
+
+
+#p1{
+    colour:rgb(255, 230, 0)
+    
+}
+h2{
+    border-width: 5px; 
+    border-style:groove;
+}
+#id{
+    margin-bottom: auto;
+    margin-left: 1px;
+    margin-right: 2px;
+    color-adjust: green;
+}
+#box{
+    
+    border: 2px; 
+    border:solid;
+    border:black;
+    
+}
+#box1{
+    width: 400px;
+    padding: 25px;
+    border: 2px;
+    border: solid; 
+    border:black;
+    
+    font-size: 15px;
+
+
+}
+p{
+    font-size: 15px;
+    width: 400px;
+    border: 2px;
+    border:solid;
+    font-size: 15px;
+    line-height: 100px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 5px orange;
+    white-space: nowrap;
+    overflow: scroll;
+    
+}
+body{
+    background-image: url(download.jpg);
+    background-repeat: repeat-y;
+}

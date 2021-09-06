@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg  bg-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" style="color: white; font-size:large;" href="#">Team Reporter App</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" style="color: white; font-size: large;" aria-current="page" href="#">Home</a>
+              </li>
+              <button type="submit" class="btn btn-primary" style="margin-left:  1020px;width: 80px;">login</button><a href="index.html"></a>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <div class="team" style="border: 2px solid black; width: 99%; height: 89vh;margin: 5px 6px;">                  
+        <h4 class="text-center" style="padding: 10px;">Team You Own</h4>
+      </div>
+
+      
+
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="con1">
+                    <p style="text-align: center; margin-top: 2%; font-size: medium;">Create Our Team</p>
+                    <label for="inputEmail4" class="form-label" style="margin-left:12%; margin-top: 2%;">Team Name</label>
+                   <input type="email" class="form-control" style="width: 80%; margin-left:9% " id="inputEmail4">
+                   <select class="form-select form-select-lg" aria-label=".form-select-lg example" style="margin-top: 8%; ; width: 80%; border: 1px solid black; margin-left:9%;">
+                       <option selected onclick="create()">Category</option>
+                       <option value="1">teaching</option>
+                       <option value="2">development </option>
+                       <option value="3">marketing</option>
+                     </select>
+                     <label for="inputEmail4" class="form-label" style="margin-left:12%; margin-top: 6%;">Members (type email) </label>
+                     <input type="email" class="form-control" style="width: 80%; margin-left:9% " id="inputEmail4">
+                     <a href="index5.html"><button type="button" onclick="create()" class="btn btn-primary btn-lg " style="margin-left: 35%; margin-top: 7%;">Create</button></a>
+                     <a href=""><button type="button" class="btn btn-danger btn-lg " style="margin-left: 2%; margin-top: 7%;">Cancel</button></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="con3" style="margin-top: 2%;"><a href="index5.html"></a>
+        <a href="index5.html"> <img class="pg-icon3" src="icon.png" alt=""><a>
+     </div>
+
+
+     <script>
+      // add the first student
+var newStudent = [{
+     "team": "mazboot",
+     "developer":"maaz",
+     "members" : "anus"
+ }];
+
+localStorage.setItem("students", JSON.stringify(newStudent));
+
+
+// Retrieve the object from storage to add a new student
+var retrievedObject = localStorage.getItem("students");
+var stored          = JSON.parse(retrievedObject);
+
+// add a new student
+var newStudent2 = [{
+     "team": "gang",
+     "developer":"faizan",
+     "members" : "daniyal"
+}];
+var stored = Object.assign(stored, newStudent2);
+
+// Update the storage
+localStorage.setItem("student2", JSON.stringify(stored));
+var result = localStorage.getItem("student2");
+
+console.log(result);
+
+var objects = []
+objects.push(stored) 
+
+localStorage.setItem('students2', JSON.stringify(objects))
+     </script>
+
+
+
+
+
+
+
+</body>
+</html>
